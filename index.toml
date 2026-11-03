@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/advancedperipherals-1-21-1-0-8-2a.pw.toml"
+hash = "73576662287c48ef64866be14445a6e8b52829a1da6e65800d0917f813206220"
+metafile = true
+
+[[files]]
 file = "mods/ae2wtlib-19-5-1.pw.toml"
 hash = "0b00e3fcc86a4ab7744269fc576bb23180a29dc0e44954511907a8b5386e3f53"
 metafile = true
@@ -76,6 +81,11 @@ hash = "e1f4a53e3e52b534add5dd018597fefd345d9bd6350b9c46ef0ec281fc62af8e"
 metafile = true
 
 [[files]]
+file = "mods/cc-tweaked-1-21-1-forge-1-120-2.pw.toml"
+hash = "e42363c32c9b6323eea977283c928cec373bfc415534ec92e9c3367ee8c54256"
+metafile = true
+
+[[files]]
 file = "mods/chunky-neoforge-1-4-23.pw.toml"
 hash = "1d5cc2b6dcfd1fc3adba4566b1c29b57ff1175316678c1f22e63cbc3e28a5ba0"
 metafile = true
@@ -83,6 +93,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config-15-0-140-neoforge.pw.toml"
 hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
+metafile = true
+
+[[files]]
+file = "mods/commoncapabilities-1-21-1-neoforge-2-11-6.pw.toml"
+hash = "2bd9170c8b9275f9e6861bec3a020f4200a388207720428ce5105cd062a1f01d"
 metafile = true
 
 [[files]]
@@ -142,6 +157,11 @@ metafile = true
 [[files]]
 file = "mods/cyclic-1-21-1-1-14-2.pw.toml"
 hash = "5c920fb448c69222ba2ea39b1a827f76d1f7150d2fcffb0d443698b53480bdda"
+metafile = true
+
+[[files]]
+file = "mods/cyclopscore-1-21-1-neoforge-1-30-1.pw.toml"
+hash = "88a342c59afdff0638c444ca7b05e2daac045a58a74774eef5a8293c5f16bea8"
 metafile = true
 
 [[files]]
@@ -207,6 +227,21 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast-neoforge-1-6-15-1-21-1.pw.toml"
 hash = "4601b9be31b6e131dca8a148c974d015444bcac7c82fcb66fbd8751a67933a5d"
+metafile = true
+
+[[files]]
+file = "mods/integrateddynamics-1-21-1-neoforge-1-38-2.pw.toml"
+hash = "aab12b9df70633a832f893faa491db02557fb2fbe3b73a9906c6363ad57dcd6c"
+metafile = true
+
+[[files]]
+file = "mods/integratedterminals-1-21-1-neoforge-1-11-1.pw.toml"
+hash = "eb0ab18a37cbeec53e5c16164fd3e2dcf4cd7709821967e4f4cb5b88303ca7c8"
+metafile = true
+
+[[files]]
+file = "mods/integratedtunnels-1-21-1-neoforge-1-13-0.pw.toml"
+hash = "b10371c1f4e95ea8cf5700ceba2c34db78a610ca6f6b1d0c5c9015e5ae74a7a9"
 metafile = true
 
 [[files]]
