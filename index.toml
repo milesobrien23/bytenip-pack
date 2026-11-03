@@ -300,6 +300,11 @@ hash = "8691a6080607f512d7adbbc1c17911ba83db273a5b5f113711fd8408b8d6a9df"
 metafile = true
 
 [[files]]
+file = "mods/mezz-config-gui-1-21-1-neoforge-mc1-21-1-0-5-5.pw.toml"
+hash = "d5a2ff29042444ce10c94db42d8e04a4fc4991fe24a5258e4413d2903a0190f2"
+metafile = true
+
+[[files]]
 file = "mods/modernfix-neoforge-5-27-27-mc1-21-1.pw.toml"
 hash = "ef65836e005bd42a0f40df30a94eba1ad7ee5ed3194b11eafbeadc64edb44252"
 metafile = true
