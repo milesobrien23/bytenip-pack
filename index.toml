@@ -106,8 +106,8 @@ hash = "e753411e53ae58f46754b5ef60e70af81a9ec6b5e31f99c47777cc59fbbc5fe4"
 metafile = true
 
 [[files]]
-file = "mods/controlify_jei_keyboard-1.4.0.jar"
-hash = "afa8b189cafb70f54beb2afe99b284bb0faa6a48dd1ffaa81778b850a778781e"
+file = "mods/controlify_jei_keyboard-1.5.0.jar"
+hash = "e6335ce99a68d3d8e84beb6b78d225c981641279101d549df1a7e7e521d6663a"
 
 [[files]]
 file = "mods/controlling-neoforge-1-21-1-19-0-5.pw.toml"
