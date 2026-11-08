@@ -71,6 +71,11 @@ hash = "8ad679c28c8d8ebf85609b571b4556bfd9f605506efbaa6907a3045c965ce8b8"
 metafile = true
 
 [[files]]
+file = "mods/athena-neoforge-1-21-1-4-0-6.pw.toml"
+hash = "3434f9ec77694349b7b83e79ef179be25c8eeae83049a75d154098edb5a19889"
+metafile = true
+
+[[files]]
 file = "mods/balm-neoforge-1-21-1-21-0-66.pw.toml"
 hash = "603cdc47142b5aa5729cbbf265a473574c9e2b55561de4318e9842d3d4b3b995"
 metafile = true
@@ -83,6 +88,11 @@ metafile = true
 [[files]]
 file = "mods/cc-tweaked-1-21-1-forge-1-120-2.pw.toml"
 hash = "e42363c32c9b6323eea977283c928cec373bfc415534ec92e9c3367ee8c54256"
+metafile = true
+
+[[files]]
+file = "mods/chipped-neoforge-1-21-1-4-0-2.pw.toml"
+hash = "24c6c3fe917ffbcef04e788dec3e003d0ed03433bc00f9cf4f23fe9b85636aa7"
 metafile = true
 
 [[files]]
@@ -132,6 +142,11 @@ metafile = true
 [[files]]
 file = "mods/createappliedkinetics-1-5-4-1-21-1.pw.toml"
 hash = "b3b2c990023501cc95e4061ef73e541bcd6e54db6e392a8694147b6da75eee71"
+metafile = true
+
+[[files]]
+file = "mods/createdeco-2-1-3.pw.toml"
+hash = "67a405e6307f900d168deaa954a4309c3b44a6025e4efd7b8e774b6f9d3a69cd"
 metafile = true
 
 [[files]]
@@ -195,6 +210,11 @@ hash = "c29b6380e2e0f0c21405241e4284201a49ae42837d6e30d2f91e53028f541fb9"
 metafile = true
 
 [[files]]
+file = "mods/framedblocks-10-6-3.pw.toml"
+hash = "6d937e4bbf525c3d446fb1fc37cc9909a5a5cbecbd4f4451872bf94dbc06d986"
+metafile = true
+
+[[files]]
 file = "mods/geckolib-neoforge-1-21-1-4-9-3.pw.toml"
 hash = "35779b39ddc06059ec483b33de2ecfdc3adb95c0a49e69b6701fb0024827e2f5"
 metafile = true
@@ -222,6 +242,11 @@ metafile = true
 [[files]]
 file = "mods/guideme-21-1-21.pw.toml"
 hash = "f1f23b7a70a4a53d2564f1a24ca84e9a54a89af5da88af7bf4c557059eada45a"
+metafile = true
+
+[[files]]
+file = "mods/handcrafted-neoforge-1-21-1-4-0-3.pw.toml"
+hash = "0004feab868f7b873c12db05aae0d0dac6c87b497490b48bb66480e7c8d0f340"
 metafile = true
 
 [[files]]
@@ -305,6 +330,56 @@ hash = "0213b6ecb4784b9f57bf3d66444c61ce357b365c8bef2d10363d0c7f20b86e58"
 metafile = true
 
 [[files]]
+file = "mods/mcw-bridges-3-1-2-mc1-21-1neoforge.pw.toml"
+hash = "0c961c709297bcc89f2f07e1eb1049e4d21a331adb020f1786e5a9a0883e037c"
+metafile = true
+
+[[files]]
+file = "mods/mcw-doors-1-1-5-mc1-21-1neoforge.pw.toml"
+hash = "b00f8b696187f092a939b7bbbf2ad2f249665776465bac594e2d0f4f37d36dc4"
+metafile = true
+
+[[files]]
+file = "mods/mcw-furniture-3-4-1-mc1-21-1neoforge.pw.toml"
+hash = "52019f01292cb860fa135485f941fff42f97910267bf122f2f797e31109bb93f"
+metafile = true
+
+[[files]]
+file = "mods/mcw-lights-1-1-5-mc1-21-1neoforge.pw.toml"
+hash = "87366a5d82152829103539d930ad9c0e8edbd5a917f65657db76f718f5296927"
+metafile = true
+
+[[files]]
+file = "mods/mcw-mcwfences-1-2-1-mc1-21-1neoforge.pw.toml"
+hash = "ea28bcac23c070998d1f7df5dcbf248831c33f59067eaf2fd125adfa07c5722c"
+metafile = true
+
+[[files]]
+file = "mods/mcw-mcwpaths-1-1-1-mc1-21-1neoforge.pw.toml"
+hash = "e04b1ac906167721ae2696ec837be362e6d6da252e8bc5c0bac29974fbae0461"
+metafile = true
+
+[[files]]
+file = "mods/mcw-mcwstairs-1-0-2-mc1-21-1neoforge.pw.toml"
+hash = "abae13cbccdb8789a929cc4d2f9fc38f93ef6bb9082a87f931fcef1b1695cbe6"
+metafile = true
+
+[[files]]
+file = "mods/mcw-mcwwindows-2-4-2-mc1-21-1neoforge.pw.toml"
+hash = "450ed5663bf1d12ffddc78eda5aa56cb7808cbdac6db8102d18461361aaa555f"
+metafile = true
+
+[[files]]
+file = "mods/mcw-roofs-2-3-2-mc1-21-1neoforge.pw.toml"
+hash = "b5f1c37740051774214d8dd035df9bac68ddd4d8c71ed8949fdaabd5949829de"
+metafile = true
+
+[[files]]
+file = "mods/mcw-trapdoors-1-1-5-mc1-21-1neoforge.pw.toml"
+hash = "4a1f84dbcd179fa481a4d0e5f45da24415158d373117348d4438eaceff4f5fcc"
+metafile = true
+
+[[files]]
 file = "mods/megacells-4-11-0.pw.toml"
 hash = "c9f9996ced5f4abf2ab982bb2521bef1798cf1fc6d6ebc435e38075894921efe"
 metafile = true
@@ -350,6 +425,11 @@ hash = "cf2880e79594a8b7cb79319de09df201f0c6c9bc84794eb205cdd57bc438fe13"
 metafile = true
 
 [[files]]
+file = "mods/moonlight-1-21-1-3-8-2-neoforge.pw.toml"
+hash = "e3003f83463910a682f3ea1c419f850fed7bc2c6ff4831144db11228b98e2fb4"
+metafile = true
+
+[[files]]
 file = "mods/mousetweaks-neoforge-mc1-21-2-26-1.pw.toml"
 hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
 metafile = true
@@ -382,6 +462,11 @@ metafile = true
 [[files]]
 file = "mods/railways-0-2-1-neoforge-mc1-21-1.pw.toml"
 hash = "84cff9a09538552608e32a14b4f7f37d5ac0f4cface3953e68c3af5104217554"
+metafile = true
+
+[[files]]
+file = "mods/resourcefullib-neoforge-1-21-3-0-12.pw.toml"
+hash = "c0b066684294c33972d562e0cb08ea17b2d31bcf86cd1d6c63b8e968f0eac7a2"
 metafile = true
 
 [[files]]
@@ -432,6 +517,11 @@ metafile = true
 [[files]]
 file = "mods/storagedrawers-neoforge-1-21-1-13-11-4.pw.toml"
 hash = "1d277d4c4d8f3abc49176d3b029584b70d92dcb9b89cf2cf6094e674fe9885c8"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries-1-21-1-4-0-2-neoforge.pw.toml"
+hash = "c7e7206384e1d5ab7caecc643dda50dae1886312e0aeca5aaef8852bb6b11b4e"
 metafile = true
 
 [[files]]
