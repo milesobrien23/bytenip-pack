@@ -1,6 +1,6 @@
 name = "MezzConfigGUI"
 filename = "mezz_config_gui-1.21.1-neoforge-mc1.21.1-0.5.5.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/BOHUKqOz/versions/uhiOElAu/mezz_config_gui-1.21.1-neoforge-mc1.21.1-0.5.5.jar"
