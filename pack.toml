@@ -1,12 +1,12 @@
 name = "ByteNip"
 author = "DemonTurtl3"
-version = "1.2.1"
+version = "1.2.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "1d8327c72a0ff206a37d6e8a36285cb2d980b595e9bf851f297397812e8b4307"
+hash = "79252707ae62b8b08576d549d125583ce09077e23b2cf8215745b77663bb61ff"
 
 [versions]
 minecraft = "1.21.1"
