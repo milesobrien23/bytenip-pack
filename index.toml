@@ -86,6 +86,11 @@ hash = "e1f4a53e3e52b534add5dd018597fefd345d9bd6350b9c46ef0ec281fc62af8e"
 metafile = true
 
 [[files]]
+file = "mods/cable-facades-1-21-1-neoforge-2-1-4.pw.toml"
+hash = "cdfb25383fcdb33faa6ef1c3093075bf2da32423ca87627328c98bc6dccc0bf7"
+metafile = true
+
+[[files]]
 file = "mods/cc-tweaked-1-21-1-forge-1-120-2.pw.toml"
 hash = "e42363c32c9b6323eea977283c928cec373bfc415534ec92e9c3367ee8c54256"
 metafile = true
