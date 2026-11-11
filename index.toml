@@ -6,6 +6,11 @@ hash = "98ac007465eca5728fdcfda196966022ea8ca288e631b631861b5208b9a94562"
 metafile = true
 
 [[files]]
+file = "mods/aces-spell-utils-1-2-7-5-1-21-1.pw.toml"
+hash = "74861362fa4cd4d10b2d9f07937526e00c8a2c978ef548f5a7037ba4715261f2"
+metafile = true
+
+[[files]]
 file = "mods/advancedperipherals-1-21-1-0-8-2a.pw.toml"
 hash = "73576662287c48ef64866be14445a6e8b52829a1da6e65800d0917f813206220"
 metafile = true
@@ -66,6 +71,11 @@ hash = "c6aaee790b0cf08c2e71859e267c698fa454137d6afae3bd653f4744e955f40c"
 metafile = true
 
 [[files]]
+file = "mods/apprentice-codex-1-0-1-mc1-21-1.pw.toml"
+hash = "bbfcc0b6ff025837ec012477d93399ecb0de8a7c4ee69e7caa8d133d40f6fa76"
+metafile = true
+
+[[files]]
 file = "mods/ars-creo-1-21-1-5-4-0.pw.toml"
 hash = "e735b472ad5c38359636d5abb84ed1baeb461f72aa19c324c349543823a16188"
 metafile = true
@@ -86,6 +96,11 @@ hash = "3434f9ec77694349b7b83e79ef179be25c8eeae83049a75d154098edb5a19889"
 metafile = true
 
 [[files]]
+file = "mods/azurelib-neo-1-21-1-3-2-8.pw.toml"
+hash = "ad775806176bcf110b286b6a272699fa22fbabf9958c0da4a9053178fb177d7d"
+metafile = true
+
+[[files]]
 file = "mods/balm-neoforge-1-21-1-21-0-66.pw.toml"
 hash = "603cdc47142b5aa5729cbbf265a473574c9e2b55561de4318e9842d3d4b3b995"
 metafile = true
@@ -102,6 +117,11 @@ hash = "a5a775f12217d63ed62de89a8aee334e587643a2322c5b8ce4e0a807c8c65fe6"
 [[files]]
 file = "mods/cable-facades-1-21-1-neoforge-2-1-4.pw.toml"
 hash = "cdfb25383fcdb33faa6ef1c3093075bf2da32423ca87627328c98bc6dccc0bf7"
+metafile = true
+
+[[files]]
+file = "mods/cataclysm-spellbooks-1-1-15-1-21.pw.toml"
+hash = "f9a374ce592b015a17933e43418539b215fa7c6caa706dfe6ca5495675821648"
 metafile = true
 
 [[files]]
@@ -196,6 +216,11 @@ metafile = true
 [[files]]
 file = "mods/cyclopscore-1-21-1-neoforge-1-30-1.pw.toml"
 hash = "88a342c59afdff0638c444ca7b05e2daac045a58a74774eef5a8293c5f16bea8"
+metafile = true
+
+[[files]]
+file = "mods/discerning-the-eldritch-1-4-5-1-21.pw.toml"
+hash = "ea47e4cc4d1c0346e8a21d55011e82cdc4afa9f32dbf7dd9c5315d5cfbdc3dda"
 metafile = true
 
 [[files]]
