@@ -14,7 +14,11 @@ never touches in-game settings, keybinds or configs.
    - macOS: `/bin/sh bytenip-sync.sh`
 3. Hit **Play**. A small "Updating" window appears while mods download, then the game starts.
 
+## Player guide
+
+New to the mods? Start with the [player guide](docs/guide/README.md): a full Mekanism walkthrough, first steps for 20 other mods, and a map of how the mods work together.
+
 ## Maintaining
 
 `mods/*.pw.toml` point at Modrinth downloads (with sha512 hashes); `index.toml` and the hash in
-`pack.toml` must be regenerated after any change. The server's own `mods/` folder is updated separately.
+`pack.toml` must be regenerated after any change. The server's own `mods/` folder is updated separately. The guide in `docs/guide/` is not part of the pack index, so clients never download it.
