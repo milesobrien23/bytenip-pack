@@ -29,6 +29,8 @@ Steps are checklists: copy this file or tick them off in the [interactive versio
 
 ## Create
 
+This is the short version. The full guide with every block and five builds is in [Create](create.md).
+
 Create runs on rotation, not FE: a source makes stress capacity and every machine on the shaft uses some.
 
 - [ ] Craft **Andesite Alloy** (andesite + iron nuggets), then shafts, cogwheels and **Andesite Casing**.
@@ -41,6 +43,8 @@ Create runs on rotation, not FE: a source makes stress capacity and every machin
 **Works with:** Create Crafts & Additions (rotation ↔ FE for Mekanism and AE2), Create: Applied Kinetics (AE2 processors by sequenced assembly), Create Slice & Dice and Farmer's Delight (automated cooking), Ars Creo (Starbuncle Wheel), Sophisticated Storage (storage on contraptions). Crushing wheels also process Mekanism's osmium, tin, lead and uranium.
 
 ## Applied Energistics 2
+
+This is the short version. The full guide with every block and five builds is in [Applied Energistics 2](applied-energistics-2.md).
 
 AE2 stores everything on drives and crafts on demand; hold G over any AE2 item to open its guide page.
 
