@@ -120,6 +120,8 @@ Ars Nouveau lets you build your own spells from glyphs and power machines with a
 
 ## Iron's Spells 'n Spellbooks
 
+This is the short version. The full guide with every school, spell book, workstation and add-on is in [Iron's Spells](irons-spells.md).
+
 Iron's Spells is classic RPG casting: you find or craft spell scrolls, bind them into a spellbook and spend mana.
 
 - [ ] Loot **Scrolls** from dungeon chests and mob drops; any scroll can be cast once on its own.
