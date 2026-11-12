@@ -197,6 +197,8 @@ Apotheosis is the pack's loot and difficulty layer: gear drops with rarities and
 
 ## L\_Ender's Cataclysm
 
+This is the short version. The full guide with every boss, drop and fight plan is in [L_Ender's Cataclysm](cataclysm.md).
+
 Cataclysm adds the pack's hardest boss fights, each in its own large structure.
 
 - [ ] Gear up first: these bosses are balanced for late-game armor and weapons.

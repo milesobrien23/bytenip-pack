@@ -6,7 +6,7 @@ Last updated Nov 12, 2026 · ByteNip 1.3.1
 
 Mekanism is a tech mod built around one idea: process ore into more ingots, then turn that machine base into power, gear and endgame tech. On 1.21.1 it runs on NeoForge only, and the current builds are the 10.7.x line ([releases](https://github.com/mekanism/Mekanism/releases)).
 
-Other pages: [Beginner guides](beginner-guides.md) has first steps for every other major mod, [How mods interact](how-mods-interact.md) maps the links between mods, and [Rest of the pack](rest-of-the-pack.md) lists all 129 mods. Full guides in this same format: [Applied Energistics 2](applied-energistics-2.md) and [Create](create.md).
+Other pages: [Beginner guides](beginner-guides.md) has first steps for every other major mod, [How mods interact](how-mods-interact.md) maps the links between mods, and [Rest of the pack](rest-of-the-pack.md) lists all 129 mods. Full guides in this same format: [Applied Energistics 2](applied-energistics-2.md), [Create](create.md) and [L_Ender's Cataclysm](cataclysm.md).
 
 **The four jars**
 

@@ -1,12 +1,13 @@
 # ByteNip player guide
 
-A guide to the mods in the ByteNip pack (version 1.3.1), with full walkthroughs for Mekanism, Applied Energistics 2 and Create.
+A guide to the mods in the ByteNip pack (version 1.3.1), with full walkthroughs for Mekanism, Applied Energistics 2, Create and L_Ender's Cataclysm.
 
 | Page | What is in it |
 | --- | --- |
 | [Mekanism](mekanism.md) | Concepts, progress map, every machine, ore yields, five starter builds, and how Mekanism ties into the rest of the pack. |
 | [Applied Energistics 2](applied-energistics-2.md) | Concepts, progress map, every key block, five builds from first network to autocrafting, and the AE2 add-ons in the pack. |
 | [Create](create.md) | Concepts, progress map, every key block, five builds from first water wheel to brass and steam, and the Create add-ons in the pack. |
+| [L_Ender's Cataclysm](cataclysm.md) | All eight bosses: where they are, how each fight starts, what they drop, nine fight plans, and the add-ons in the pack. |
 | [Beginner guides](beginner-guides.md) | Short first-steps lists for 20 mods, each with a "Works with" line. |
 | [How mods interact](how-mods-interact.md) | A diagram and tables of every link between mods, plus what does not connect. |
 | [Rest of the pack](rest-of-the-pack.md) | One line on each of the 129 mods, grouped by purpose. |
