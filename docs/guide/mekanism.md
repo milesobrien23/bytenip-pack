@@ -1,12 +1,12 @@
 # Mekanism 1.21.1 Beginner's Guide
 
-Last updated Nov 11, 2026 · ByteNip 1.3.1
+Last updated Nov 12, 2026 · ByteNip 1.3.1
 
 ## The basics
 
 Mekanism is a tech mod built around one idea: process ore into more ingots, then turn that machine base into power, gear and endgame tech. On 1.21.1 it runs on NeoForge only, and the current builds are the 10.7.x line ([releases](https://github.com/mekanism/Mekanism/releases)).
 
-Other pages: [Beginner guides](beginner-guides.md) has first steps for every other major mod, [How mods interact](how-mods-interact.md) maps the links between mods, and [Rest of the pack](rest-of-the-pack.md) lists all 129 mods.
+Other pages: [Beginner guides](beginner-guides.md) has first steps for every other major mod, [How mods interact](how-mods-interact.md) maps the links between mods, and [Rest of the pack](rest-of-the-pack.md) lists all 129 mods. Full guides in this same format: [Applied Energistics 2](applied-energistics-2.md) and [Create](create.md).
 
 **The four jars**
 
@@ -35,9 +35,9 @@ The stage numbers match the Stage column in the block tables below.
 
 ## Block breakdowns
 
-Build the blocks roughly top to bottom in each table; the Stage column matches the progress map above.
+Build the blocks roughly top to bottom in each table; the Stage column matches the progress map above. Block names in the builds and tips link back to these tables.
 
-**Processing machines**
+### Processing machines
 
 | Block | What it does | Stage |
 | --- | --- | --- |
@@ -54,7 +54,7 @@ Build the blocks roughly top to bottom in each table; the Stage column matches t
 | Chemical Washer | Dirty slurry + water → clean slurry. | 5 |
 | Chemical Crystallizer | Clean slurry → crystals. | 5 |
 
-**Chemical production**
+### Chemical production
 
 | Block | What it does | Stage |
 | --- | --- | --- |
@@ -64,7 +64,7 @@ Build the blocks roughly top to bottom in each table; the Stage column matches t
 | Rotary Condensentrator | Converts fluid ↔ chemical (water → water vapor, etc.). | 5 |
 | Thermal Evaporation Plant | Multiblock that turns water into brine using heat. | 4 |
 
-**Power**
+### Power
 
 | Block | What it does | Stage |
 | --- | --- | --- |
@@ -77,7 +77,7 @@ Build the blocks roughly top to bottom in each table; the Stage column matches t
 | Fission Reactor + Industrial Turbine + Boiler | Big mid–late game power; manage waste and heat carefully. | 6 |
 | Fusion Reactor | Endgame power from deuterium and tritium. | 7 |
 
-**Logistics and storage**
+### Logistics and storage
 
 | Block | What it does | Stage |
 | --- | --- | --- |
@@ -90,7 +90,7 @@ Build the blocks roughly top to bottom in each table; the Stage column matches t
 | Quantum Entangloporter | Wireless transfer of power, items, fluids, chemicals and heat on a frequency. | 6 |
 | Teleporter | Player teleportation network. | 6 |
 
-**Endgame and gear**
+### Endgame and gear
 
 | Block / item | What it does | Stage |
 | --- | --- | --- |
@@ -114,8 +114,8 @@ Mine with Fortune III, not Silk Touch: raw ore yields less per item than an ore 
 | 5x: Chemical Dissolution Chamber + sulfuric acid | 5 | 3.33 | 30 | 7.3 |
 
 - Raw blocks give the same yield in fewer operations and use less oxygen, HCl or acid per raw ore, so craft raw ore into blocks before it goes in.
-- The Chemical Washer uses 5 mB of water per mB of slurry, so each ore at 5x eats 5 buckets of water. Feed it from an Electric Pump on an infinite water source.
-- The Crystallizer turns 200 mB of clean slurry into 1 crystal.
+- The [Chemical Washer](#processing-machines) uses 5 mB of water per mB of slurry, so each ore at 5x eats 5 buckets of water. Feed it from an Electric Pump on an infinite water source.
+- The [Crystallizer](#processing-machines) turns 200 mB of clean slurry into 1 crystal.
 - Copper drops 2–5 raw per ore, so its Fortune numbers run about 3.5 times higher than the column shows.
 
 ## Getting started builds
@@ -125,37 +125,37 @@ Each build adds one tier of ore output on top of the last, so you never tear any
 **Build 1: First steel and 2x ore**
 
 - [ ] Mine **osmium** (blue-grey ore, common underground) and plenty of iron, redstone and coal.
-- [ ] Craft a **Metallurgic Infuser**. Feed it coal or charcoal for carbon and redstone for redstone infusion.
+- [ ] Craft a **[Metallurgic Infuser](#processing-machines)**. Feed it coal or charcoal for carbon and redstone for redstone infusion.
 - [ ] Make steel: iron → enriched iron → steel dust (both in the Infuser with carbon), then smelt. Make basic control circuits from osmium + redstone.
 - [ ] Make **steel casings**, the base of almost every machine.
-- [ ] Power: a **Heat Generator** next to lava, or burning coal, feeding a Basic Energy Cube with Universal Cable.
-- [ ] Build an **Enrichment Chamber** → **Energized Smelter**. Set the chamber's output face to push into the smelter.
+- [ ] Power: a **[Heat Generator](#power)** next to lava, or burning coal, feeding a Basic Energy Cube with [Universal Cable](#logistics-and-storage).
+- [ ] Build an **[Enrichment Chamber](#processing-machines)** → **[Energized Smelter](#processing-machines)**. Set the chamber's output face to push into the smelter.
 
 **Build 2: Automate and scale**
 
 - [ ] Add solar or wind generators so power runs without fuel.
-- [ ] Pipe ore in with a Logistical Transporter from a chest or Bin.
-- [ ] Upgrade the Enrichment Chamber into a **Factory** with a Tier Installer so it processes several ores at once.
+- [ ] Pipe ore in with a [Logistical Transporter](#logistics-and-storage) from a chest or Bin.
+- [ ] Upgrade the [Enrichment Chamber](#processing-machines) into a **Factory** with a Tier Installer so it processes several ores at once.
 - [ ] Add Speed + Energy upgrades.
 
 **Build 3: 3x ore (oxygen)**
 
-- [ ] Craft an **Electrolytic Separator** and pump water into it (Electric Pump or a water source with a pipe).
-- [ ] Send its **oxygen** output by Pressurized Tube into a **Purification Chamber**. Vent or burn the hydrogen in a Gas-Burning Generator.
-- [ ] Chain: Purification Chamber (clumps) → Crusher (dirty dust) → Enrichment Chamber (dust) → Smelter.
+- [ ] Craft an **[Electrolytic Separator](#chemical-production)** and pump water into it (Electric Pump or a water source with a pipe).
+- [ ] Send its **oxygen** output by [Pressurized Tube](#logistics-and-storage) into a **[Purification Chamber](#processing-machines)**. Vent or burn the hydrogen in a [Gas-Burning Generator](#power).
+- [ ] Chain: [Purification Chamber](#processing-machines) (clumps) → [Crusher](#processing-machines) (dirty dust) → [Enrichment Chamber](#processing-machines) (dust) → Smelter.
 
 **Build 4: 4x ore (hydrogen chloride)**
 
-- [ ] Build a **Thermal Evaporation Plant** to turn water into brine.
-- [ ] Electrolytic Separator #2: brine → chlorine (+ sodium).
-- [ ] **Chemical Infuser**: hydrogen + chlorine → hydrogen chloride.
-- [ ] Put a **Chemical Injection Chamber** at the front: ore → shards → Purification Chamber → the 3x chain.
+- [ ] Build a **[Thermal Evaporation Plant](#chemical-production)** to turn water into brine.
+- [ ] [Electrolytic Separator](#chemical-production) #2: brine → chlorine (+ sodium).
+- [ ] **[Chemical Infuser](#chemical-production)**: hydrogen + chlorine → hydrogen chloride.
+- [ ] Put a **[Chemical Injection Chamber](#processing-machines)** at the front: ore → shards → [Purification Chamber](#processing-machines) → the 3x chain.
 
 **Build 5: 5x ore (sulfuric acid)**
 
-- [ ] Sulfur dust (gunpowder in a Chemical Injection Chamber, or coal in a Pressurized Reaction Chamber) → **Chemical Oxidizer** → sulfur dioxide.
-- [ ] Chemical Infuser: SO2 + oxygen → sulfur trioxide. Second Infuser: SO3 + water vapor (Rotary Condensentrator) → sulfuric acid.
-- [ ] Chain: **Dissolution Chamber** (dirty slurry) → **Chemical Washer** (clean slurry) → **Crystallizer** (crystals) → Injection Chamber → the 4x chain.
+- [ ] Sulfur dust (gunpowder in a [Chemical Injection Chamber](#processing-machines), or coal in a Pressurized Reaction Chamber) → **[Chemical Oxidizer](#chemical-production)** → sulfur dioxide.
+- [ ] [Chemical Infuser](#chemical-production): SO2 + oxygen → sulfur trioxide. Second Infuser: SO3 + water vapor ([Rotary Condensentrator](#chemical-production)) → sulfuric acid.
+- [ ] Chain: **[Dissolution Chamber](#processing-machines)** (dirty slurry) → **[Chemical Washer](#processing-machines)** (clean slurry) → **[Crystallizer](#processing-machines)** (crystals) → [Injection Chamber](#processing-machines) → the 4x chain.
 
 You don't need to rush 5x. Most players run 3x for a long time; jump when ore supply, not machine count, becomes the bottleneck.
 
@@ -165,7 +165,7 @@ The key addon is **Applied Mekanistics**, the official bridge between Mekanism a
 
 **What Applied Mekanistics adds**
 
-- Chemical support in normal AE2 parts: import/export buses on chemical tanks, storage buses on tanks, interfaces feeding Pressurized Tubes, and chemicals in crafting patterns.
+- Chemical support in normal AE2 parts: import/export buses on chemical tanks, storage buses on tanks, interfaces feeding [Pressurized Tube](#logistics-and-storage)s, and chemicals in crafting patterns.
 - **Chemical storage cells** (1k to 256k). Housings use osmium instead of iron. They can't hold radioactive chemicals; for nuclear waste use the MEGA Cells radioactive cell or Mekanism tanks.
 - **Chemical P2P tunnels**: right-click a P2P tunnel with a chemical tank to convert it.
 - **Storage bus on a QIO Dashboard** lets your ME network see a QIO network's items.
@@ -212,7 +212,7 @@ ByteNip 1.3.1 runs all four Mekanism jars at 10.7.19 on NeoForge 21.1.265, and n
 
 **Built-in recipes for pack mods** (Mekanism ships these; check JEI for the rest)
 
-- **AE2:** the Crusher turns any sand into AE2 silicon, plus certus quartz, fluix, sky stone and ender pearls into their dusts. The Enrichment Chamber turns 1 certus quartz dust into 2 silicon.
+- **AE2:** the [Crusher](#processing-machines) turns any sand into AE2 silicon, plus certus quartz, fluix, sky stone and ender pearls into their dusts. The [Enrichment Chamber](#processing-machines) turns 1 certus quartz dust into 2 silicon.
 - **Farmer's Delight:** the Precision Sawmill cuts raw and cooked chicken, mutton and pork into 2 cuts, chops or bacon each.
 - **Jade** shows a machine's energy, fluids and chemicals when you look at it.
 
@@ -224,7 +224,7 @@ ByteNip 1.3.1 runs all four Mekanism jars at 10.7.19 on NeoForge 21.1.265, and n
 - **Check side config first.** Most "my machine isn't working" problems are a face set to the wrong input/output color.
 - **Pipe tier matters.** Basic cables and tubes bottleneck Factories; upgrade them with alloys as you scale.
 - **Speed upgrades eat power.** Always add Energy upgrades alongside them.
-- **Don't waste hydrogen.** Burn it in a Gas-Burning Generator or store it for later fuel.
+- **Don't waste hydrogen.** Burn it in a [Gas-Burning Generator](#power) or store it for later fuel.
 - **Use the Configurator's wrench mode** to pick up machines without losing upgrades or contents.
 
 ## Sources

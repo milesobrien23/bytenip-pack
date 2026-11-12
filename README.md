@@ -16,7 +16,7 @@ never touches in-game settings, keybinds or configs.
 
 ## Player guide
 
-New to the mods? Start with the [player guide](docs/guide/README.md): a full Mekanism walkthrough, first steps for 20 other mods, and a map of how the mods work together.
+New to the mods? Start with the [player guide](docs/guide/README.md): full walkthroughs for Mekanism, Applied Energistics 2 and Create, first steps for 20 mods, and a map of how the mods work together.
 
 ## Maintaining
 
