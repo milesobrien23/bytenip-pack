@@ -120,6 +120,8 @@ Ars Nouveau lets you build your own spells from glyphs and power machines with a
 
 ## Iron's Spells 'n Spellbooks
 
+This is the short version. The full guide with every school, spell book, workstation and add-on is in [Iron's Spells](irons-spells.md).
+
 Iron's Spells is classic RPG casting: you find or craft spell scrolls, bind them into a spellbook and spend mana.
 
 - [ ] Loot **Scrolls** from dungeon chests and mob drops; any scroll can be cast once on its own.
@@ -196,6 +198,8 @@ Apotheosis is the pack's loot and difficulty layer: gear drops with rarities and
 **Works with:** affixes roll on other mods' gear, including Goety's Dark Wand. Occultism candles and crystals count as enchanting shelves. Create: Enchantment Industry automates enchanting. Curios slots hold its trinkets.
 
 ## L\_Ender's Cataclysm
+
+This is the short version. The full guide with every boss, drop and fight plan is in [L_Ender's Cataclysm](cataclysm.md).
 
 Cataclysm adds the pack's hardest boss fights, each in its own large structure.
 
