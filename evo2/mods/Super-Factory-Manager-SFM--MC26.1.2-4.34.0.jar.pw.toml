@@ -1,0 +1,8 @@
+name = "Super Factory Manager (SFM)-MC26.1.2-4.34.0.jar"
+filename = "Super Factory Manager (SFM)-MC26.1.2-4.34.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8370/242/Super%20Factory%20Manager%20(SFM)-MC26.1.2-4.34.0.jar"
+hash-format = "sha1"
+hash = "aedcd1c6b87fd8b2df3305d30834e2a7401dcc61"

@@ -1,0 +1,8 @@
+name = "witchery_hobgoblin_hut.png"
+filename = "witchery_hobgoblin_hut.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a8/a805de84ccf34ee611e90a2055eb248406a49c9e7f7a789741a4ce7d65eca307.png"
+hash-format = "sha1"
+hash = "54c74ae07c64fca2ab7d907ad003c4fd2a5a0be9"

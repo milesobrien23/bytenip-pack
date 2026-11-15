@@ -1,0 +1,8 @@
+name = "spawn_pyramid.png"
+filename = "spawn_pyramid.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f2/f2055cbcc3fe710224313b786489714e565cd25af5569cc27c2ee6c29ec9c832.png"
+hash-format = "sha1"
+hash = "b459a53f35a9b4eb1ff9bce046dfd0c592ca68c5"

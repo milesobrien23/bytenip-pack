@@ -1,0 +1,8 @@
+name = "dimenergy-26.1.2-1.1.0.jar"
+filename = "dimenergy-26.1.2-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9286/518/dimenergy-26.1.2-1.1.0.jar"
+hash-format = "sha1"
+hash = "3a0fc745bc04df82bb674e3525ec78a899a16521"

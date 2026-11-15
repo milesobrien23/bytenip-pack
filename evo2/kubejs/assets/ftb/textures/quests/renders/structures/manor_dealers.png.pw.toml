@@ -1,0 +1,8 @@
+name = "manor_dealers.png"
+filename = "manor_dealers.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/33/33f798efa7614c4cfbf2293d242c4d72f10330fd315ead29935a0631f2ebedc0.png"
+hash-format = "sha1"
+hash = "6f798fa02b8c4d05bfcbb831cb4231777bb7dc5d"

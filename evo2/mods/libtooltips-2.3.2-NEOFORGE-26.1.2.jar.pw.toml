@@ -1,0 +1,8 @@
+name = "libtooltips-2.3.2-NEOFORGE-26.1.2.jar"
+filename = "libtooltips-2.3.2-NEOFORGE-26.1.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9204/528/libtooltips-2.3.2-NEOFORGE-26.1.2.jar"
+hash-format = "sha1"
+hash = "b13b2d6eb2afd2e6b2c3f2162320cb7600574f4c"

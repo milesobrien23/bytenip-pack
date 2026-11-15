@@ -1,0 +1,8 @@
+name = "animalgarden-bullshark-1.1.1-neoforge-26.1.1.10.jar"
+filename = "animalgarden-bullshark-1.1.1-neoforge-26.1.1.10.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7885/548/animalgarden-bullshark-1.1.1-neoforge-26.1.1.10.jar"
+hash-format = "sha1"
+hash = "78d84035497ca6e3466d2a078fe71574e8997c0c"

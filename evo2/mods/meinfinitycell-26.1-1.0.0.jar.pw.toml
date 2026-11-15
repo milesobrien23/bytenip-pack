@@ -1,0 +1,8 @@
+name = "meinfinitycell-26.1-1.0.0.jar"
+filename = "meinfinitycell-26.1-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8245/897/meinfinitycell-26.1-1.0.0.jar"
+hash-format = "sha1"
+hash = "26ccd794b95399cf1e15fe3df8a16f865afd997e"

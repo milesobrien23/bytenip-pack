@@ -1,0 +1,8 @@
+name = "frostbear-neoforge-26.1.2-2.0.0.jar"
+filename = "frostbear-neoforge-26.1.2-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9189/656/frostbear-neoforge-26.1.2-2.0.0.jar"
+hash-format = "sha1"
+hash = "7c52dbb0e935db73fd8fcd86c080497d4c28ecbb"

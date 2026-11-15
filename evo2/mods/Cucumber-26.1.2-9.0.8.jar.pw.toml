@@ -1,0 +1,8 @@
+name = "Cucumber-26.1.2-9.0.8.jar"
+filename = "Cucumber-26.1.2-9.0.8.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9459/215/Cucumber-26.1.2-9.0.8.jar"
+hash-format = "sha1"
+hash = "3f1bede8ea278e0f6da4f971fc36d1387b28d510"

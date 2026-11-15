@@ -1,0 +1,8 @@
+name = "oracle_index-neoforge-2.0.1.jar"
+filename = "oracle_index-neoforge-2.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9506/812/oracle_index-neoforge-2.0.1.jar"
+hash-format = "sha1"
+hash = "8e419eab72d8e251449f7e7b30f1e6ca3cb8c288"

@@ -1,0 +1,8 @@
+name = "ftb-evolution-companion-26.1.2.29.jar"
+filename = "ftb-evolution-companion-26.1.2.29.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9545/426/ftb-evolution-companion-26.1.2.29.jar"
+hash-format = "sha1"
+hash = "bcd8fb97ff5449b87bad9656c093adb59cd53dce"

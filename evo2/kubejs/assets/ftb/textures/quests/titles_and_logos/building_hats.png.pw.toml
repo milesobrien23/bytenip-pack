@@ -1,0 +1,8 @@
+name = "building_hats.png"
+filename = "building_hats.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/de/de5653ea7a2fa50b4aeb4df4755ddaac574d587bb24b3446bc89f139822da5e8.png"
+hash-format = "sha1"
+hash = "5dcbbd5f34c35562fb1d63768ca6e5d615f37667"

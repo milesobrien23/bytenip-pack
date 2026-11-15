@@ -1,0 +1,8 @@
+name = "saerethshaders.txt"
+filename = "saerethshaders.txt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/4d/4d911d523b78f60351748da8cd7eb40fa785e54466a69c4848e2d4d72c1d1799.txt"
+hash-format = "sha1"
+hash = "9e7781ef08f5333149017d90bc6a29959fe7d3de"

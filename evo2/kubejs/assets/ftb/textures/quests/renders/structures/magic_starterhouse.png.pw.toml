@@ -1,0 +1,8 @@
+name = "magic_starterhouse.png"
+filename = "magic_starterhouse.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/17/1712b06b6ae32c617f765fe8f6bcb54080b3e4786e0d18a80292c790c605f0ec.png"
+hash-format = "sha1"
+hash = "9045dec59294e8abaf7001e96e1149d97bfc6b1b"

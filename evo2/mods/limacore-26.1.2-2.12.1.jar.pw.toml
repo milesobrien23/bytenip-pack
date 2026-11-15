@@ -1,0 +1,8 @@
+name = "limacore-26.1.2-2.12.1.jar"
+filename = "limacore-26.1.2-2.12.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9533/56/limacore-26.1.2-2.12.1.jar"
+hash-format = "sha1"
+hash = "213943b37eee726000604e592780b1c4629bed31"

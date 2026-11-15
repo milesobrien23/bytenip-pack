@@ -1,0 +1,8 @@
+name = "atlas_api-26.1.2-1.2.0.jar"
+filename = "atlas_api-26.1.2-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8237/338/atlas_api-26.1.2-1.2.0.jar"
+hash-format = "sha1"
+hash = "1cc3ae69add18d462e8d0a72a6bd195ccfa53f8b"

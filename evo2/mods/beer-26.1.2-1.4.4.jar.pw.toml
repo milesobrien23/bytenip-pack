@@ -1,0 +1,8 @@
+name = "beer-26.1.2-1.4.4.jar"
+filename = "beer-26.1.2-1.4.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9081/441/beer-26.1.2-1.4.4.jar"
+hash-format = "sha1"
+hash = "529fd5354644a63c464f704eb4ad3e17efea3c78"

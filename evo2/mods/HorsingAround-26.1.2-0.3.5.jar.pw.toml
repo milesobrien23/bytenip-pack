@@ -1,0 +1,8 @@
+name = "HorsingAround-26.1.2-0.3.5.jar"
+filename = "HorsingAround-26.1.2-0.3.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9173/853/HorsingAround-26.1.2-0.3.5.jar"
+hash-format = "sha1"
+hash = "7cd9df8b607c944534f0d7f65f359ed8169831a4"

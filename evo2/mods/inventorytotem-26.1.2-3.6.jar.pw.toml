@@ -1,0 +1,8 @@
+name = "inventorytotem-26.1.2-3.6.jar"
+filename = "inventorytotem-26.1.2-3.6.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9355/270/inventorytotem-26.1.2-3.6.jar"
+hash-format = "sha1"
+hash = "17e0a20a0c5b27efb8abffd1953ef03087cb74dd"

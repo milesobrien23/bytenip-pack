@@ -1,0 +1,8 @@
+name = "HoloSigns-26.1-4.0.0.jar"
+filename = "HoloSigns-26.1-4.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7835/147/HoloSigns-26.1-4.0.0.jar"
+hash-format = "sha1"
+hash = "9217447cf184fbe8da0de3d0c9463bdfffc44df0"

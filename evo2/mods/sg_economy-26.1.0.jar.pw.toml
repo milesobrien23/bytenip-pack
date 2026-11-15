@@ -1,0 +1,8 @@
+name = "sg_economy-26.1.0.jar"
+filename = "sg_economy-26.1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8573/142/sg_economy-26.1.0.jar"
+hash-format = "sha1"
+hash = "8a8fb2a96c49c8baacdcfc8192f1cedfb22e0acc"

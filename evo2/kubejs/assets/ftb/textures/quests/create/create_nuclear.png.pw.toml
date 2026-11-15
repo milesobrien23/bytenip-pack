@@ -1,0 +1,8 @@
+name = "create_nuclear.png"
+filename = "create_nuclear.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/76/76b0a521b1f6a87d2bc1cdffd30436b8c3b36240d984dbf33b4574685c2c3ad1.png"
+hash-format = "sha1"
+hash = "e384ab629985e2d8d392472f54a38812e15857d8"

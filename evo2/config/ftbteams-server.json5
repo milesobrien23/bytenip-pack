@@ -1,0 +1,63 @@
+/*
+ * Server-specific configuration for FTB Teams
+ * Modpack defaults should be defined in <instance>/config/ftbteams-server.json5
+ *   (may be overwritten on modpack update)
+ * Server admins may locally override this by copying into <instance>/world/serverconfig/ftbteams-server.json5
+ *   (will NOT be overwritten on modpack update)
+ */
+{
+  /*
+   * If >0, party teams have this many limited lives:
+   * When members die, a party life is lost.
+   * If a member dies when the party has no lives remaining, they are kicked from the party.
+   * If the party owner dies, a random member is promoted to owner (officers have priority).
+   * Parties with no lives remaining cannot invite new members.
+   * Default: 0 | Range: 0 ~ 2147483647
+   */
+  limited_lives: 0,
+  /*
+   * If >0, teams can contain no more than this number of players.
+   * If 0, there is no limit to team sizes.
+   * Note: if this setting is altered and teams larger than the new value already exist on the server
+   * they will be allowed to continue at their current size, but not able to invite new members.
+   * Default: 0 | Range: 0 ~ 2147483647
+   */
+  max_party_size: 0,
+  // Settings for vanilla scoreboard team syncing
+  scoreboard_team: {
+    /*
+     * How collisions are handled between players on the same scoreboard team
+     * Default: "always"
+     * Valid values: "always", "never", "pushOtherTeams", "pushOwnTeam"
+     */
+    collisions: "always",
+    /*
+     * Death message handling
+     * Default: "always"
+     * Valid values: "always", "never", "hideForOtherTeams", "hideForOwnTeam"
+     */
+    death_messages: "always",
+    /*
+     * Whether to allow friendly fire between players on the same scoreboard team
+     * Default: true
+     */
+    friendly_fire: true,
+    /*
+     * Whether to allow players on the same scoreboard team to see each other if invisible
+     * Default: true
+     */
+    friendly_invis: true,
+    /*
+     * Name tag visibility
+     * Default: "always"
+     * Valid values: "always", "never", "hideForOtherTeams", "hideForOwnTeam"
+     */
+    nametag_visibility: "always",
+    /*
+     * If true, a corresponding vanilla scoreboard team is created when a FTB Teams party team is created
+     * Players will be added to both the FTB Teams team and the vanilla scoreboard team
+     * Default: false
+     */
+    team_sync_enabled: false,
+  },
+}

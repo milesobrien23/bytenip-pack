@@ -1,0 +1,8 @@
+name = "fragmentum-neoforge-26.1-4.1.0.jar"
+filename = "fragmentum-neoforge-26.1-4.1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8145/20/fragmentum-neoforge-26.1-4.1.0.jar"
+hash-format = "sha1"
+hash = "0a9401a922af1d2a204c4d69260c7ef9cecd5c22"

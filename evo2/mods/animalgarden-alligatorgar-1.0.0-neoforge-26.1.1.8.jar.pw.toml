@@ -1,0 +1,8 @@
+name = "animalgarden-alligatorgar-1.0.0-neoforge-26.1.1.8.jar"
+filename = "animalgarden-alligatorgar-1.0.0-neoforge-26.1.1.8.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7885/80/animalgarden-alligatorgar-1.0.0-neoforge-26.1.1.8.jar"
+hash-format = "sha1"
+hash = "acff7545ba99977ff1e27ba85531916e7b123412"

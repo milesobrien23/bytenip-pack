@@ -1,0 +1,8 @@
+name = "FramedBlocks-11.4.0.jar"
+filename = "FramedBlocks-11.4.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8750/384/FramedBlocks-11.4.0.jar"
+hash-format = "sha1"
+hash = "92402555bba5423cd96aaf23262e320c00d8b845"

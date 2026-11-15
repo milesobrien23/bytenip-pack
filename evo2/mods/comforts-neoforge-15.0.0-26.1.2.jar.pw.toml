@@ -1,0 +1,8 @@
+name = "comforts-neoforge-15.0.0+26.1.2.jar"
+filename = "comforts-neoforge-15.0.0+26.1.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8298/15/comforts-neoforge-15.0.0%2b26.1.2.jar"
+hash-format = "sha1"
+hash = "71cebd858e7ace14d192f8f749c8e00dd08fd164"

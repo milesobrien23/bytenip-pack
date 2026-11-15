@@ -1,0 +1,8 @@
+name = "stepcrafter-neoforge-26.1.2-1.0.4.jar"
+filename = "stepcrafter-neoforge-26.1.2-1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9258/556/stepcrafter-neoforge-26.1.2-1.0.4.jar"
+hash-format = "sha1"
+hash = "37492daa3aaabb26bdb872fa4e8d4ee148345856"

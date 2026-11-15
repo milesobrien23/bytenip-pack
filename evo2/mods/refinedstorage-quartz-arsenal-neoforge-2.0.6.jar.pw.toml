@@ -1,0 +1,8 @@
+name = "refinedstorage-quartz-arsenal-neoforge-2.0.6.jar"
+filename = "refinedstorage-quartz-arsenal-neoforge-2.0.6.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8175/415/refinedstorage-quartz-arsenal-neoforge-2.0.6.jar"
+hash-format = "sha1"
+hash = "7f0945d127d6b261f7da1a13e337ac6c1a02e28e"

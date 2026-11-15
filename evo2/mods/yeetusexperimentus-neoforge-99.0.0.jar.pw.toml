@@ -1,0 +1,8 @@
+name = "yeetusexperimentus-neoforge-99.0.0.jar"
+filename = "yeetusexperimentus-neoforge-99.0.0.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/7830/957/yeetusexperimentus-neoforge-99.0.0.jar"
+hash-format = "sha1"
+hash = "7ce53fea8cd627f736bab80a1f804d163fe10608"

@@ -1,0 +1,8 @@
+name = "framework-neoforge-26.1.2-0.13.23.jar"
+filename = "framework-neoforge-26.1.2-0.13.23.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7964/506/framework-neoforge-26.1.2-0.13.23.jar"
+hash-format = "sha1"
+hash = "cfd15b80a72a499f964f12b6ee6f03bef4bf0aab"

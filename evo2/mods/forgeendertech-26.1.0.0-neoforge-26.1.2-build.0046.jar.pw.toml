@@ -1,0 +1,8 @@
+name = "forgeendertech-26.1.0.0-neoforge-26.1.2-build.0046.jar"
+filename = "forgeendertech-26.1.0.0-neoforge-26.1.2-build.0046.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7910/63/forgeendertech-26.1.0.0-neoforge-26.1.2-build.0046.jar"
+hash-format = "sha1"
+hash = "45199eacd5291bb5b4d262420399f7048de32b7b"

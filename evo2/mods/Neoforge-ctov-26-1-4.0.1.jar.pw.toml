@@ -1,0 +1,8 @@
+name = "Neoforge-ctov-26-1-4.0.1.jar"
+filename = "Neoforge-ctov-26-1-4.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9435/499/Neoforge-ctov-26-1-4.0.1.jar"
+hash-format = "sha1"
+hash = "6b383a70808bd876040a7c6426adb82d4dd59a8e"

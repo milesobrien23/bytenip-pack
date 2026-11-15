@@ -1,0 +1,8 @@
+name = "combat_roll-neoforge-3.0.1+26.1.2.jar"
+filename = "combat_roll-neoforge-3.0.1+26.1.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8456/728/combat_roll-neoforge-3.0.1%2b26.1.2.jar"
+hash-format = "sha1"
+hash = "47cb66b87ff2e57153f0a389b02dd623a83b4f66"

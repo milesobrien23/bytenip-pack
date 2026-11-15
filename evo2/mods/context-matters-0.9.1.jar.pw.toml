@@ -1,0 +1,8 @@
+name = "context-matters-0.9.1.jar"
+filename = "context-matters-0.9.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8200/830/context-matters-0.9.1.jar"
+hash-format = "sha1"
+hash = "39f1f6ca38e8f372194d70642327d220ed498067"

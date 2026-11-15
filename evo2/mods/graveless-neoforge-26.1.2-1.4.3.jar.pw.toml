@@ -1,0 +1,8 @@
+name = "graveless-neoforge-26.1.2-1.4.3.jar"
+filename = "graveless-neoforge-26.1.2-1.4.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9191/610/graveless-neoforge-26.1.2-1.4.3.jar"
+hash-format = "sha1"
+hash = "a9f7671affd570c3e1e2a6d4c632a7ae29f26dcf"

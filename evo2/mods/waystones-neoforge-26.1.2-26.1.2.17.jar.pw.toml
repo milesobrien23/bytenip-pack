@@ -1,0 +1,8 @@
+name = "waystones-neoforge-26.1.2-26.1.2.17.jar"
+filename = "waystones-neoforge-26.1.2-26.1.2.17.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9406/314/waystones-neoforge-26.1.2-26.1.2.17.jar"
+hash-format = "sha1"
+hash = "2c127130a8b0e28f8bdd7190a27806a88f7024ee"

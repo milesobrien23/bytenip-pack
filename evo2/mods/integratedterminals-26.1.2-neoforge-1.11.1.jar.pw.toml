@@ -1,0 +1,8 @@
+name = "integratedterminals-26.1.2-neoforge-1.11.1.jar"
+filename = "integratedterminals-26.1.2-neoforge-1.11.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9220/303/integratedterminals-26.1.2-neoforge-1.11.1.jar"
+hash-format = "sha1"
+hash = "4d3d07e691c9c2ef6ed448c0db313493499aae27"

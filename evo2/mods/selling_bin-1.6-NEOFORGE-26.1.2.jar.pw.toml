@@ -1,0 +1,8 @@
+name = "selling_bin-1.6-NEOFORGE-26.1.2.jar"
+filename = "selling_bin-1.6-NEOFORGE-26.1.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8804/281/selling_bin-1.6-NEOFORGE-26.1.2.jar"
+hash-format = "sha1"
+hash = "eeabb4fcfc5489619397816697584f87b0a2ccb0"

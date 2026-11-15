@@ -1,0 +1,8 @@
+name = "agritechevolved-2.2.0.7-neoforge-mc26.1.2.jar"
+filename = "agritechevolved-2.2.0.7-neoforge-mc26.1.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9419/904/agritechevolved-2.2.0.7-neoforge-mc26.1.2.jar"
+hash-format = "sha1"
+hash = "4f5f5154a7fe0399808e6e04fe5d3efdd04f00da"

@@ -1,0 +1,8 @@
+name = "IceAndFireCE-2.2-26.1.2-neoforge.jar"
+filename = "IceAndFireCE-2.2-26.1.2-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9455/197/IceAndFireCE-2.2-26.1.2-neoforge.jar"
+hash-format = "sha1"
+hash = "d336589c71aefc2c93c28fb9ab2888a31a645183"

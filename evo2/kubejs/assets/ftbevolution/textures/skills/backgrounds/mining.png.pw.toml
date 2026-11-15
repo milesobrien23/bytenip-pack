@@ -1,0 +1,8 @@
+name = "mining.png"
+filename = "mining.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/9b/9be293be73654048a54d3feee66854a1acc8f32749ac61d10536f7c538844b3d.png"
+hash-format = "sha1"
+hash = "2188bbacdcb943aef1df8b64d9797431fde7510f"

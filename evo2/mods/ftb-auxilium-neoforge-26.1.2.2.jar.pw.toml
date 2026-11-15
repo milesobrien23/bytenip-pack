@@ -1,0 +1,8 @@
+name = "ftb-auxilium-neoforge-26.1.2.2.jar"
+filename = "ftb-auxilium-neoforge-26.1.2.2.jar"
+side = "client"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/0d/0d70b53472ffd9879bea351957c231fa356cbe6cdeb4b477b1d4ab065a881c77.jar"
+hash-format = "sha1"
+hash = "185d3a3132c57214d738b3d588ba412c11e5c0b9"

@@ -1,0 +1,8 @@
+name = "cookingforblockheads-neoforge-26.1.2-26.1.2.6.jar"
+filename = "cookingforblockheads-neoforge-26.1.2-26.1.2.6.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9035/235/cookingforblockheads-neoforge-26.1.2-26.1.2.6.jar"
+hash-format = "sha1"
+hash = "834e6af0177bf2f9794e91afb87f31a8a51c2a81"

@@ -1,0 +1,8 @@
+name = "energizedpower-3.0.7-26.1.x-neoforge.jar"
+filename = "energizedpower-3.0.7-26.1.x-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9437/403/energizedpower-3.0.7-26.1.x-neoforge.jar"
+hash-format = "sha1"
+hash = "dbd681bb90b9da3d9c01918e079bab3881bfc198"

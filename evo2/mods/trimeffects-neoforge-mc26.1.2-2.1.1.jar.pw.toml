@@ -1,0 +1,8 @@
+name = "trimeffects-neoforge-mc26.1.2-2.1.1.jar"
+filename = "trimeffects-neoforge-mc26.1.2-2.1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7950/849/trimeffects-neoforge-mc26.1.2-2.1.1.jar"
+hash-format = "sha1"
+hash = "24246a5a9b358e13074a42b138eba80b3712151a"

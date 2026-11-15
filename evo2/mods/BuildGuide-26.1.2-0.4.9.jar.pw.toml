@@ -1,0 +1,8 @@
+name = "BuildGuide-26.1.2-0.4.9.jar"
+filename = "BuildGuide-26.1.2-0.4.9.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/8457/869/BuildGuide-26.1.2-0.4.9.jar"
+hash-format = "sha1"
+hash = "5b67de6f40ff6537e2f945d37b8f0c888dbc8764"

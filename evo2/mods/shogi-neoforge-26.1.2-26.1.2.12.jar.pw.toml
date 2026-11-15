@@ -1,0 +1,8 @@
+name = "shogi-neoforge-26.1.2-26.1.2.12.jar"
+filename = "shogi-neoforge-26.1.2-26.1.2.12.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8978/486/shogi-neoforge-26.1.2-26.1.2.12.jar"
+hash-format = "sha1"
+hash = "4939c114d2dcb1ccaa5a9fda0c02c13d8d528dff"

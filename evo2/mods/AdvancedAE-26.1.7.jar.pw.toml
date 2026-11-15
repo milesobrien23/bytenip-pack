@@ -1,0 +1,8 @@
+name = "AdvancedAE-26.1.7.jar"
+filename = "AdvancedAE-26.1.7.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8603/81/AdvancedAE-26.1.7.jar"
+hash-format = "sha1"
+hash = "5a2eeeadcdfa33fb277bf1c2f21487fae1366771"

@@ -1,0 +1,8 @@
+name = "configureddefaults-v26.1.1-mc26.1.x+neoforge.jar"
+filename = "configureddefaults-v26.1.1-mc26.1.x+neoforge.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8980/16/configureddefaults-v26.1.1-mc26.1.x%2bneoforge.jar"
+hash-format = "sha1"
+hash = "aa9319369c4ea44c77a33895a9e25c20ecc091dc"

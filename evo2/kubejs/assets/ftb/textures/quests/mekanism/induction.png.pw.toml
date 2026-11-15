@@ -1,0 +1,8 @@
+name = "induction.png"
+filename = "induction.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/6a/6a0e970190d4a7260005941ada6c10e13746cdfdaf3a596d2c2ab941b4682775.png"
+hash-format = "sha1"
+hash = "cc76f50e0c768ff6b04897d6864f3c72304a099c"

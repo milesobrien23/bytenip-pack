@@ -1,0 +1,8 @@
+name = "crashutilities-10.0.1.jar"
+filename = "crashutilities-10.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7923/31/crashutilities-10.0.1.jar"
+hash-format = "sha1"
+hash = "f8401d692108c2799a1fedec80a5e494ef1fdd6d"

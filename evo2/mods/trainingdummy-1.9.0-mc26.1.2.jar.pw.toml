@@ -1,0 +1,8 @@
+name = "trainingdummy-1.9.0+mc26.1.2.jar"
+filename = "trainingdummy-1.9.0+mc26.1.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9122/971/trainingdummy-1.9.0%2bmc26.1.2.jar"
+hash-format = "sha1"
+hash = "5279b184ebe1855a8d99e2bacf0b64b872e0744b"

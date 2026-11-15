@@ -1,0 +1,8 @@
+name = "MysticalAgradditions-26.1.2-9.0.4.jar"
+filename = "MysticalAgradditions-26.1.2-9.0.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9041/273/MysticalAgradditions-26.1.2-9.0.4.jar"
+hash-format = "sha1"
+hash = "c81f4faa777fee372ad0b5ab15944800ad3c6e4b"

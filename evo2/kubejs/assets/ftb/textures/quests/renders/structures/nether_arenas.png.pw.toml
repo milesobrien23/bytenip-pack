@@ -1,0 +1,8 @@
+name = "nether_arenas.png"
+filename = "nether_arenas.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/3f/3f558477229c42f2ce718c2ce27f0f5ccb175693933fdaff4f0b5fc76b849ea8.png"
+hash-format = "sha1"
+hash = "2e080d71d9ef15724b4aae2c7b928f16f50265a6"

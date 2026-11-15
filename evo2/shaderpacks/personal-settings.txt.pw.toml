@@ -1,0 +1,8 @@
+name = "personal settings.txt"
+filename = "personal settings.txt"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/72/72b9c4ec0e4b5ef8c4fc2a3c5ad69727a04fbd7a9cce9c3aade439b9be038bca.txt"
+hash-format = "sha1"
+hash = "a1d18b0bbd7db04ed97ff36f1c23ccd0a300c6ef"

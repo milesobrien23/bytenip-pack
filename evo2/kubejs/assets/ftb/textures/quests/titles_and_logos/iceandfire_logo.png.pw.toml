@@ -1,0 +1,8 @@
+name = "iceandfire_logo.png"
+filename = "iceandfire_logo.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7d/7d6b200b7d5af8426cab629e66624c95285c09117e6adc638d749bf63de809eb.png"
+hash-format = "sha1"
+hash = "11765cd0fbdf84bbf361626c2a3296da37ce16f1"

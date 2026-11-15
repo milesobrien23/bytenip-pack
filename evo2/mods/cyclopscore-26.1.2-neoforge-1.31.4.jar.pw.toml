@@ -1,0 +1,8 @@
+name = "cyclopscore-26.1.2-neoforge-1.31.4.jar"
+filename = "cyclopscore-26.1.2-neoforge-1.31.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9383/680/cyclopscore-26.1.2-neoforge-1.31.4.jar"
+hash-format = "sha1"
+hash = "552beaa7d832c7a7bc5508f8e34dd92de0f899f0"

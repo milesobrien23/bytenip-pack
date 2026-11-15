@@ -1,0 +1,8 @@
+name = "animal_pen-neoforge-26.1-2.5.2.jar"
+filename = "animal_pen-neoforge-26.1-2.5.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9291/743/animal_pen-neoforge-26.1-2.5.2.jar"
+hash-format = "sha1"
+hash = "ac0fde706b87a7b5f1ebcb33a8453355293c042f"

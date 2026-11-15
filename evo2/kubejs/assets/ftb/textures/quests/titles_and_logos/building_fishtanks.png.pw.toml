@@ -1,0 +1,8 @@
+name = "building_fishtanks.png"
+filename = "building_fishtanks.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/da/da17a8b7a3d9f1f33c954a34f476cebd14398ea768872b0eb969e263bf0effd1.png"
+hash-format = "sha1"
+hash = "521cb7b3589b0b4262a36fa5ebc7fa652b6718de"

@@ -1,0 +1,8 @@
+name = "quantumcubes-neoforge-26.1.2-1.0.3.jar"
+filename = "quantumcubes-neoforge-26.1.2-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9203/621/quantumcubes-neoforge-26.1.2-1.0.3.jar"
+hash-format = "sha1"
+hash = "dfe56c753906dbe97ca94c0373677152d95f1c68"

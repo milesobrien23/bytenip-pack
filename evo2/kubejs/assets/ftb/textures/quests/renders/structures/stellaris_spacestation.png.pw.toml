@@ -1,0 +1,8 @@
+name = "stellaris_spacestation.png"
+filename = "stellaris_spacestation.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/6b/6b8eaa2b9b8daa9d5a92819699aa5cf8b59a2c21540bd58d826f0ae638d61543.png"
+hash-format = "sha1"
+hash = "1af54dba1096e8b36c69f4b18c1a39958b794e13"

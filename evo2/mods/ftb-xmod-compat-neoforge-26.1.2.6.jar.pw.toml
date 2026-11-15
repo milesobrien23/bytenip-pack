@@ -1,0 +1,8 @@
+name = "ftb-xmod-compat-neoforge-26.1.2.6.jar"
+filename = "ftb-xmod-compat-neoforge-26.1.2.6.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9456/174/ftb-xmod-compat-neoforge-26.1.2.6.jar"
+hash-format = "sha1"
+hash = "29f00e923b39db28939d4088d8c97560935f0642"

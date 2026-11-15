@@ -1,0 +1,8 @@
+name = "witchery_forbidden_magic-0.5.37-mc26.1.2.jar"
+filename = "witchery_forbidden_magic-0.5.37-mc26.1.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9426/765/witchery_forbidden_magic-0.5.37-mc26.1.2.jar"
+hash-format = "sha1"
+hash = "be46f375a5199a3b467f9adf86cc0f70ee6ee42c"

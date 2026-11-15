@@ -1,0 +1,13 @@
+name = "ByteNip Evo 2"
+author = "DemonTurtl3"
+version = "1.9.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "04db64d198d835840bce689db617fd2e575ffef7ea9a2cff760f8174aed1c487"
+
+[versions]
+minecraft = "26.1.2"
+neoforge = "26.1.2.126"

@@ -1,0 +1,8 @@
+name = "fertilization-neoforge-26.1.2-26.1.2.3.jar"
+filename = "fertilization-neoforge-26.1.2-26.1.2.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8969/800/fertilization-neoforge-26.1.2-26.1.2.3.jar"
+hash-format = "sha1"
+hash = "fc9805873c2f101ec71b8990f5c185ad2535dfe9"

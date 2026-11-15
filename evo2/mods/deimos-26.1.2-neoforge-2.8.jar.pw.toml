@@ -1,0 +1,8 @@
+name = "deimos-26.1.2-neoforge-2.8.jar"
+filename = "deimos-26.1.2-neoforge-2.8.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9377/172/deimos-26.1.2-neoforge-2.8.jar"
+hash-format = "sha1"
+hash = "d932318eac77b183b426572bcae1418252ffe93c"

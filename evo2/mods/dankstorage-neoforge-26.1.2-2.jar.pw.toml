@@ -1,0 +1,8 @@
+name = "dankstorage-neoforge-26.1.2-2.jar"
+filename = "dankstorage-neoforge-26.1.2-2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9262/867/dankstorage-neoforge-26.1.2-2.jar"
+hash-format = "sha1"
+hash = "f1f82a0238c45adfe4559c8b4b8624e901ca9ea2"

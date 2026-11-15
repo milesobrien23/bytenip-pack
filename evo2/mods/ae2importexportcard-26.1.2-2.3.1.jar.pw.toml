@@ -1,0 +1,8 @@
+name = "ae2importexportcard-26.1.2-2.3.1.jar"
+filename = "ae2importexportcard-26.1.2-2.3.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8961/643/ae2importexportcard-26.1.2-2.3.1.jar"
+hash-format = "sha1"
+hash = "bff68fd4ac4d6bff7a0e39cbe7857a73e7b9dd36"

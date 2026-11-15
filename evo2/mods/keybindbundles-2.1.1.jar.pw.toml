@@ -1,0 +1,8 @@
+name = "keybindbundles-2.1.1.jar"
+filename = "keybindbundles-2.1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9426/935/keybindbundles-2.1.1.jar"
+hash-format = "sha1"
+hash = "999eb15bf9147bea64162307e1011fadc09e538b"

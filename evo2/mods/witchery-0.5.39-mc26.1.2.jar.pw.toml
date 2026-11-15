@@ -1,0 +1,8 @@
+name = "witchery-0.5.39-mc26.1.2.jar"
+filename = "witchery-0.5.39-mc26.1.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9525/982/witchery-0.5.39-mc26.1.2.jar"
+hash-format = "sha1"
+hash = "a6e7dc9d34a3bfc190f79be8be2ff87ee7e40623"

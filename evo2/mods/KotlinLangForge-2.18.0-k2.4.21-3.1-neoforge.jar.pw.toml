@@ -1,0 +1,8 @@
+name = "KotlinLangForge-2.18.0-k2.4.21-3.1-neoforge.jar"
+filename = "KotlinLangForge-2.18.0-k2.4.21-3.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9458/476/KotlinLangForge-2.18.0-k2.4.21-3.1-neoforge.jar"
+hash-format = "sha1"
+hash = "9db252cc3883a143ea9d67718164d27d1d2ae588"

@@ -1,0 +1,8 @@
+name = "modifiedbiomesource-neoforge-0.0.4+26.1.jar"
+filename = "modifiedbiomesource-neoforge-0.0.4+26.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9264/825/modifiedbiomesource-neoforge-0.0.4%2b26.1.jar"
+hash-format = "sha1"
+hash = "8dd594bea415a10004118f38e92e8e6820659a3e"

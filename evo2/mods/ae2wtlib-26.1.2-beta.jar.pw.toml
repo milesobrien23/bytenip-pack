@@ -1,0 +1,8 @@
+name = "ae2wtlib-26.1.2-beta.jar"
+filename = "ae2wtlib-26.1.2-beta.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9149/560/ae2wtlib-26.1.2-beta.jar"
+hash-format = "sha1"
+hash = "a7286ffb0c5efa618ab1d82a73c0bb32aa054298"

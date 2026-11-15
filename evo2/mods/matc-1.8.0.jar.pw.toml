@@ -1,0 +1,8 @@
+name = "matc-1.8.0.jar"
+filename = "matc-1.8.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8219/89/matc-1.8.0.jar"
+hash-format = "sha1"
+hash = "eb3896a965b21c3e055a73540dcad8d8f5028272"

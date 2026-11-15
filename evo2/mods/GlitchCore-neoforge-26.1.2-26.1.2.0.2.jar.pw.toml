@@ -1,0 +1,8 @@
+name = "GlitchCore-neoforge-26.1.2-26.1.2.0.2.jar"
+filename = "GlitchCore-neoforge-26.1.2-26.1.2.0.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8109/770/GlitchCore-neoforge-26.1.2-26.1.2.0.2.jar"
+hash-format = "sha1"
+hash = "6b033b0dea4cf3fc72d8c1f47cab4758fa97aaf5"

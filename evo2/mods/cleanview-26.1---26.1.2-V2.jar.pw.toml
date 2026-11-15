@@ -1,0 +1,8 @@
+name = "cleanview 26.1 - 26.1.2 V2.jar"
+filename = "cleanview 26.1 - 26.1.2 V2.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/9348/383/cleanview%2026.1%20-%2026.1.2%20V2.jar"
+hash-format = "sha1"
+hash = "bfce3358c805519b5ff784575857b98343f189f5"

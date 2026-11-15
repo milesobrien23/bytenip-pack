@@ -1,0 +1,8 @@
+name = "neovitae-26.1.2-1.1.53.jar"
+filename = "neovitae-26.1.2-1.1.53.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9544/255/neovitae-26.1.2-1.1.53.jar"
+hash-format = "sha1"
+hash = "f2b0821e355ff6d04eaac812cd397ba4bfcdf48a"

@@ -1,0 +1,8 @@
+name = "structurify-neoforge-2.0.43+mc26.1.2.jar"
+filename = "structurify-neoforge-2.0.43+mc26.1.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9144/569/structurify-neoforge-2.0.43%2bmc26.1.2.jar"
+hash-format = "sha1"
+hash = "ca230a88aa7f4ff15ef0fb9d4770414340cce71e"

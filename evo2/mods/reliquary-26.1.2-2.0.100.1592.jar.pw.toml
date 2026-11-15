@@ -1,0 +1,8 @@
+name = "reliquary-26.1.2-2.0.100.1592.jar"
+filename = "reliquary-26.1.2-2.0.100.1592.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9524/628/reliquary-26.1.2-2.0.100.1592.jar"
+hash-format = "sha1"
+hash = "05c017f679f58e71f3f14f3f36219209a710580c"

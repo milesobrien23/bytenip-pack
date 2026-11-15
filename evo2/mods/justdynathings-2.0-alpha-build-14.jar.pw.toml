@@ -1,0 +1,8 @@
+name = "justdynathings-2.0-alpha-build-14.jar"
+filename = "justdynathings-2.0-alpha-build-14.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9354/495/justdynathings-2.0-alpha-build-14.jar"
+hash-format = "sha1"
+hash = "15c3b4e10b80f1eedbd76166a0771861ca4798d2"

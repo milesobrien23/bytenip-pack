@@ -1,0 +1,8 @@
+name = "jupiter-2.4.3-26.1.2-universal.jar"
+filename = "jupiter-2.4.3-26.1.2-universal.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8621/734/jupiter-2.4.3-26.1.2-universal.jar"
+hash-format = "sha1"
+hash = "6d867314e34a27607027f0db9f2e326dd13514b7"

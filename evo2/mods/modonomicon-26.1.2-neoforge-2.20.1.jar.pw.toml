@@ -1,0 +1,8 @@
+name = "modonomicon-26.1.2-neoforge-2.20.1.jar"
+filename = "modonomicon-26.1.2-neoforge-2.20.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9470/588/modonomicon-26.1.2-neoforge-2.20.1.jar"
+hash-format = "sha1"
+hash = "5d10baf3f649b3b0dbc2d5589131d06035c6875d"

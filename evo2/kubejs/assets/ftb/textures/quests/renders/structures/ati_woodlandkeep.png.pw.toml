@@ -1,0 +1,8 @@
+name = "ati_woodlandkeep.png"
+filename = "ati_woodlandkeep.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/7a/7a4cad425085dfd00c4bc0a8d0b1b7b4c3b8b10b42fa7bfc2d42445c10039f44.png"
+hash-format = "sha1"
+hash = "f732aa29d24f01124731206d0a25f161fe518ac8"

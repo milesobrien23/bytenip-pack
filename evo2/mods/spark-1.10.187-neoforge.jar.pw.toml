@@ -1,0 +1,8 @@
+name = "spark-1.10.187-neoforge.jar"
+filename = "spark-1.10.187-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8918/574/spark-1.10.187-neoforge.jar"
+hash-format = "sha1"
+hash = "be5c8cf137b1bcaa5627a85c7cfe83da846e9e36"

@@ -1,0 +1,8 @@
+name = "Placebo-26.1.2-10.0.2.jar"
+filename = "Placebo-26.1.2-10.0.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8502/256/Placebo-26.1.2-10.0.2.jar"
+hash-format = "sha1"
+hash = "1a822d3ea3f16b8f5a44cafb40942df65380b1d2"

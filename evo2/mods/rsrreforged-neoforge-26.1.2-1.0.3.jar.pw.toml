@@ -1,0 +1,8 @@
+name = "rsrreforged-neoforge-26.1.2-1.0.3.jar"
+filename = "rsrreforged-neoforge-26.1.2-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8154/686/rsrreforged-neoforge-26.1.2-1.0.3.jar"
+hash-format = "sha1"
+hash = "4a32b30e7196b04c45614c5dfefa7e6d6d9fc341"

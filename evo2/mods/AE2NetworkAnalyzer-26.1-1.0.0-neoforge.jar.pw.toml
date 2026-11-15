@@ -1,0 +1,8 @@
+name = "AE2NetworkAnalyzer-26.1-1.0.0-neoforge.jar"
+filename = "AE2NetworkAnalyzer-26.1-1.0.0-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8127/472/AE2NetworkAnalyzer-26.1-1.0.0-neoforge.jar"
+hash-format = "sha1"
+hash = "19fa103d543087b5f63c8000566e08663b431cfb"

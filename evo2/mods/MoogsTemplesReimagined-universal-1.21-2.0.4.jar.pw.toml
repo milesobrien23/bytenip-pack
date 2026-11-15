@@ -1,0 +1,8 @@
+name = "MoogsTemplesReimagined-universal-1.21-2.0.4.jar"
+filename = "MoogsTemplesReimagined-universal-1.21-2.0.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8902/209/MoogsTemplesReimagined-universal-1.21-2.0.4.jar"
+hash-format = "sha1"
+hash = "d4078318221c74265156f470b1ac321f14069b34"

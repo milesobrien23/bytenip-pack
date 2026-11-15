@@ -1,0 +1,8 @@
+name = "hephaestus_tools-neoforge-26.1.2-1.0.11.jar"
+filename = "hephaestus_tools-neoforge-26.1.2-1.0.11.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9341/717/hephaestus_tools-neoforge-26.1.2-1.0.11.jar"
+hash-format = "sha1"
+hash = "a3181746d675557b4c558ac4a9cdbebecb340cfd"

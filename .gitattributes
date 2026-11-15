@@ -1,3 +1,4 @@
 *.cmd -text
 *.sh text eol=lf
 *.jar binary
+evo2/** -text

@@ -1,0 +1,8 @@
+name = "ancient_cities.png"
+filename = "ancient_cities.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/65/6583776dfd100bc5fca309943c4faa8b0807d1f5a538cdcb9bff2d35b7eaafdf.png"
+hash-format = "sha1"
+hash = "a250b16a90cbb9281fdf654010e3dfd89512b238"

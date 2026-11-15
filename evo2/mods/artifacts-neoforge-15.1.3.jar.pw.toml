@@ -1,0 +1,8 @@
+name = "artifacts-neoforge-15.1.3.jar"
+filename = "artifacts-neoforge-15.1.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8814/240/artifacts-neoforge-15.1.3.jar"
+hash-format = "sha1"
+hash = "efef666f3cde19c755b044873eb30d961748d7a9"

@@ -1,0 +1,8 @@
+name = "tesseract-1.0.40-neoforge-mc26.1.jar"
+filename = "tesseract-1.0.40-neoforge-mc26.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9472/28/tesseract-1.0.40-neoforge-mc26.1.jar"
+hash-format = "sha1"
+hash = "9f87cab816c3b03e788fc6a71e92ca579d3de313"

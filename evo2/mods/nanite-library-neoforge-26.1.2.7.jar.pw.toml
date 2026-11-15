@@ -1,0 +1,8 @@
+name = "nanite-library-neoforge-26.1.2.7.jar"
+filename = "nanite-library-neoforge-26.1.2.7.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8989/885/nanite-library-neoforge-26.1.2.7.jar"
+hash-format = "sha1"
+hash = "10a70d2d6ee611c49009999a4df90b70e2591628"

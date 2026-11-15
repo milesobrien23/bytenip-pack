@@ -1,0 +1,8 @@
+name = "transparentae2-26.1.2-1.1.1.jar"
+filename = "transparentae2-26.1.2-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9195/581/transparentae2-26.1.2-1.1.1.jar"
+hash-format = "sha1"
+hash = "cf8f90ab9a67d670c1a4b383d687cf43d47a6454"

@@ -1,0 +1,8 @@
+name = "ltxi-26.1.2-2.6.1.jar"
+filename = "ltxi-26.1.2-2.6.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9534/317/ltxi-26.1.2-2.6.1.jar"
+hash-format = "sha1"
+hash = "76082c6e871198708de38df0e56b65ade11a3410"

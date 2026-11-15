@@ -1,0 +1,8 @@
+name = "justdirethings-1.6.11.jar"
+filename = "justdirethings-1.6.11.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8251/776/justdirethings-1.6.11.jar"
+hash-format = "sha1"
+hash = "0a22a97c3096160569a2f7b8cc8174112c45cd60"

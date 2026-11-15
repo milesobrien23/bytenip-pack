@@ -1,0 +1,8 @@
+name = "tramplestopper-neo-26.1.1.0+mc26.1.1.jar"
+filename = "tramplestopper-neo-26.1.1.0+mc26.1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7869/83/tramplestopper-neo-26.1.1.0%2bmc26.1.1.jar"
+hash-format = "sha1"
+hash = "0acfae9a355e55d4d114ebc4da947ede04d08228"

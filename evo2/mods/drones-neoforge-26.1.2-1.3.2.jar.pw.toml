@@ -1,0 +1,8 @@
+name = "drones-neoforge-26.1.2-1.3.2.jar"
+filename = "drones-neoforge-26.1.2-1.3.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8319/522/drones-neoforge-26.1.2-1.3.2.jar"
+hash-format = "sha1"
+hash = "faea0c4ff4f056f87b71fbfb9e55ed963840230c"

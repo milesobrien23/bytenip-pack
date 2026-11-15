@@ -1,0 +1,8 @@
+name = "ars_crafting_altar.png"
+filename = "ars_crafting_altar.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d4/d4a0ef3eb583417f1eced2bdb0bbea5ed6d7111158adf755d5ca9cd658cf1853.png"
+hash-format = "sha1"
+hash = "fcd37ab6e6b0a929b0a8a59431e3cc0b776700a4"

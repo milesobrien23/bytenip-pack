@@ -1,0 +1,8 @@
+name = "dread_mausoleum.png"
+filename = "dread_mausoleum.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/78/783ce765cb241b569dce834ba2e099ce1f776656c7c2e22cd0c1e59472765e27.png"
+hash-format = "sha1"
+hash = "b346a00aa19153e56734689fdff9ba48f93fa3e3"

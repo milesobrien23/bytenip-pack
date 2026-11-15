@@ -1,0 +1,8 @@
+name = "simple_weather-1.1.15.jar"
+filename = "simple_weather-1.1.15.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8200/817/simple_weather-1.1.15.jar"
+hash-format = "sha1"
+hash = "2160bb5f5f0a91a8dbed35b74c04dfa5196e6601"

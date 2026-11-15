@@ -1,0 +1,8 @@
+name = "collective-26.1.2-8.85.jar"
+filename = "collective-26.1.2-8.85.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9527/344/collective-26.1.2-8.85.jar"
+hash-format = "sha1"
+hash = "2f93aeeec847de82ca0e24e20cb0366929b7fd88"

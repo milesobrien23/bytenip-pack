@@ -1,0 +1,8 @@
+name = "hobbit-20260928-160829.png"
+filename = "hobbit-20260928-160829.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/9f/9f706aa9630f6ace15ab26d39008933dc17607d9b9751ab8abd3637a1e4bbfd6.png"
+hash-format = "sha1"
+hash = "81d5bb061b135cda3b27b971c8f8d95aab0db61a"

@@ -1,0 +1,8 @@
+name = "ftb-industrial-contraptions-26.1.2.20.jar"
+filename = "ftb-industrial-contraptions-26.1.2.20.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9353/305/ftb-industrial-contraptions-26.1.2.20.jar"
+hash-format = "sha1"
+hash = "ed099a6c91e1e9bc008203a686bbfc04501dbd20"

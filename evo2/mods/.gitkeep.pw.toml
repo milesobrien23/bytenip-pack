@@ -1,0 +1,8 @@
+name = ".gitkeep"
+filename = ".gitkeep"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/d5/d5cc197d51c07b89f7c62afbe78cca85d26c355a93fe7ab5b320b7970abe1928.json"
+hash-format = "sha1"
+hash = "da39a3ee5e6b4b0d3255bfef95601890afd80709"

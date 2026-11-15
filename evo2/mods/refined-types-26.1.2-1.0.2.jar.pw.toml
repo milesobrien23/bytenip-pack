@@ -1,0 +1,8 @@
+name = "refined-types-26.1.2-1.0.2.jar"
+filename = "refined-types-26.1.2-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9097/357/refined-types-26.1.2-1.0.2.jar"
+hash-format = "sha1"
+hash = "4e8ee5c338555531712163f61a456a6065b125a7"

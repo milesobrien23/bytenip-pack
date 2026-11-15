@@ -1,0 +1,8 @@
+name = "goblintraders-neoforge-26.1.2-1.12.0.jar"
+filename = "goblintraders-neoforge-26.1.2-1.12.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7943/154/goblintraders-neoforge-26.1.2-1.12.0.jar"
+hash-format = "sha1"
+hash = "a193e2288e5de324f7454b16a05d8b6bce2b8ca0"

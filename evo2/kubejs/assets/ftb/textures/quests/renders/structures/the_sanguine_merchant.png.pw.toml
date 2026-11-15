@@ -1,0 +1,8 @@
+name = "the_sanguine_merchant.png"
+filename = "the_sanguine_merchant.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/9b/9b3e9457edf9bdf764817ba299bb9e42adfe97aa5c9e2552fe64a3ab4cee2dc9.png"
+hash-format = "sha1"
+hash = "4c2dbe0a65134ac9ec39a866d2b821602cbb9747"

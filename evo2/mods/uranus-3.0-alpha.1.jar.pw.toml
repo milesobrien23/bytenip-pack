@@ -1,0 +1,8 @@
+name = "uranus-3.0-alpha.1.jar"
+filename = "uranus-3.0-alpha.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8689/800/uranus-3.0-alpha.1.jar"
+hash-format = "sha1"
+hash = "ce2febb97f988cfc0ec60dd5151c0e2853080e65"

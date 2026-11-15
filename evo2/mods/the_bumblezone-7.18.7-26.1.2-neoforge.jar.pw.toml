@@ -1,0 +1,8 @@
+name = "the_bumblezone-7.18.7-26.1.2-neoforge.jar"
+filename = "the_bumblezone-7.18.7-26.1.2-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9509/316/the_bumblezone-7.18.7-26.1.2-neoforge.jar"
+hash-format = "sha1"
+hash = "5af06dff00ec320a0f3760efa725fd690efe3ded"

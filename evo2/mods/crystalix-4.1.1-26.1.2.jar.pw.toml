@@ -1,0 +1,8 @@
+name = "crystalix-4.1.1+26.1.2.jar"
+filename = "crystalix-4.1.1+26.1.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9251/112/crystalix-4.1.1%2b26.1.2.jar"
+hash-format = "sha1"
+hash = "f294308ca29b70735775e11b472ccb699243f9df"

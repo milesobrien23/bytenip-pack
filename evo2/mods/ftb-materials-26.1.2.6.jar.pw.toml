@@ -1,0 +1,8 @@
+name = "ftb-materials-26.1.2.6.jar"
+filename = "ftb-materials-26.1.2.6.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9088/226/ftb-materials-26.1.2.6.jar"
+hash-format = "sha1"
+hash = "78bdffacbd8ee4cdadc3de89d3460f65c9ace514"

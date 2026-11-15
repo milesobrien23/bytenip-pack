@@ -1,0 +1,8 @@
+name = "farmingforblockheads-neoforge-26.1.2-26.1.2.6.jar"
+filename = "farmingforblockheads-neoforge-26.1.2-26.1.2.6.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9406/285/farmingforblockheads-neoforge-26.1.2-26.1.2.6.jar"
+hash-format = "sha1"
+hash = "df98e9cf903fa9d3f90c54b43dd0214a4ec85f32"

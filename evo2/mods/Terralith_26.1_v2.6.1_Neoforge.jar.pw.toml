@@ -1,0 +1,8 @@
+name = "Terralith_26.1_v2.6.1_Neoforge.jar"
+filename = "Terralith_26.1_v2.6.1_Neoforge.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7841/479/Terralith_26.1_v2.6.1_Neoforge.jar"
+hash-format = "sha1"
+hash = "eded79445f9a50631e64c9f934d16243af3fac41"

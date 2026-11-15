@@ -1,0 +1,8 @@
+name = "nodeworks-0.11.3.jar"
+filename = "nodeworks-0.11.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9304/345/nodeworks-0.11.3.jar"
+hash-format = "sha1"
+hash = "f8e29046ff80f65d0f7896ca4d61f23e9b931e13"

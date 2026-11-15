@@ -1,0 +1,8 @@
+name = "stellaris_satellite.png"
+filename = "stellaris_satellite.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/8c/8c40d246ca152963140eb6e883adcb774c0f0d0f72a1374c57a235ce4223892c.png"
+hash-format = "sha1"
+hash = "17272cbeaca88cea3595c9929ecf3b0b042cf9e1"

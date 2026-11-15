@@ -1,0 +1,8 @@
+name = "ForceCraft-26.1.2-7.0.2.jar"
+filename = "ForceCraft-26.1.2-7.0.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9533/318/ForceCraft-26.1.2-7.0.2.jar"
+hash-format = "sha1"
+hash = "f0a84c7cb6053884dc838e4721dd658b78d7f711"

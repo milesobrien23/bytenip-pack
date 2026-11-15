@@ -1,0 +1,8 @@
+name = "WhatTheBucket-neoforge-MC26.1.2-26.1.2.2.jar"
+filename = "WhatTheBucket-neoforge-MC26.1.2-26.1.2.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8269/815/WhatTheBucket-neoforge-MC26.1.2-26.1.2.2.jar"
+hash-format = "sha1"
+hash = "d502fd6e98af7a025e55279ac431359f24d1dbb3"

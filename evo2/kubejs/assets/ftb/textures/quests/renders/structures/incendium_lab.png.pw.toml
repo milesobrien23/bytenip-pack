@@ -1,0 +1,8 @@
+name = "incendium_lab.png"
+filename = "incendium_lab.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/cd/cdd8607b062636d03a970013d748fc5c647f66f0597bcd12f1f21ffe9f1be6ed.png"
+hash-format = "sha1"
+hash = "27ea51177948cbc09c23b14dd242c5741b4f25fd"

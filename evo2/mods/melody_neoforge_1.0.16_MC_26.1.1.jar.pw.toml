@@ -1,0 +1,8 @@
+name = "melody_neoforge_1.0.16_MC_26.1.1.jar"
+filename = "melody_neoforge_1.0.16_MC_26.1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7875/755/melody_neoforge_1.0.16_MC_26.1.1.jar"
+hash-format = "sha1"
+hash = "293746acacd4bab10a429d157f248116872b2b5c"

@@ -1,0 +1,8 @@
+name = "pylons-26.1-6.0.1.jar"
+filename = "pylons-26.1-6.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7963/294/pylons-26.1-6.0.1.jar"
+hash-format = "sha1"
+hash = "429b958d32d9be5a2d766281d13fbd9b5bf74e02"

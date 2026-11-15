@@ -1,0 +1,8 @@
+name = "ATi Structures V1.4.7.jar"
+filename = "ATi Structures V1.4.7.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8984/311/ATi%20Structures%20V1.4.7.jar"
+hash-format = "sha1"
+hash = "9ee67dd3438b00c7b646d49e53c7cbcbbc31a044"

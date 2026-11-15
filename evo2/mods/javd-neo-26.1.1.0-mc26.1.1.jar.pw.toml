@@ -1,0 +1,8 @@
+name = "javd-neo-26.1.1.0+mc26.1.1.jar"
+filename = "javd-neo-26.1.1.0+mc26.1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7869/81/javd-neo-26.1.1.0%2bmc26.1.1.jar"
+hash-format = "sha1"
+hash = "1d57a6dff5b667c1309d496a08d5a39fdf4ce2b1"

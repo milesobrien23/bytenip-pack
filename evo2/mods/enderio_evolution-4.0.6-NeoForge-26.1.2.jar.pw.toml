@@ -1,0 +1,8 @@
+name = "enderio_evolution-4.0.6-NeoForge-26.1.2.jar"
+filename = "enderio_evolution-4.0.6-NeoForge-26.1.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9520/440/enderio_evolution-4.0.6-NeoForge-26.1.2.jar"
+hash-format = "sha1"
+hash = "3e1158726c24e20270d08c9c1dfb821444ea2ba5"

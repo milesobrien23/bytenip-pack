@@ -1,0 +1,8 @@
+name = "cloth-config-26.1.154.jar"
+filename = "cloth-config-26.1.154.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7817/583/cloth-config-26.1.154.jar"
+hash-format = "sha1"
+hash = "1700599980477b0ea72608bfdadee7bdde8b9b75"

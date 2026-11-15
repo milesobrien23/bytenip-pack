@@ -1,0 +1,8 @@
+name = "mcw-lights-1.1.5-mc26.1neoforge.jar"
+filename = "mcw-lights-1.1.5-mc26.1neoforge.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7809/968/mcw-lights-1.1.5-mc26.1neoforge.jar"
+hash-format = "sha1"
+hash = "6fe2353d47e620a746eada1556f87b5cf3c66875"

@@ -1,0 +1,8 @@
+name = "ftb-chunks-neoforge-26.1.2.10.jar"
+filename = "ftb-chunks-neoforge-26.1.2.10.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9374/16/ftb-chunks-neoforge-26.1.2.10.jar"
+hash-format = "sha1"
+hash = "cb532fbb357eeddb2a59375d23065559e73a5166"

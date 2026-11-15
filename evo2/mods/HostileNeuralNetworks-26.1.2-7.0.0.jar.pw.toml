@@ -1,0 +1,8 @@
+name = "HostileNeuralNetworks-26.1.2-7.0.0.jar"
+filename = "HostileNeuralNetworks-26.1.2-7.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9054/667/HostileNeuralNetworks-26.1.2-7.0.0.jar"
+hash-format = "sha1"
+hash = "445c6d6f08e994dc4a36265f2ff38e3be58ab39c"

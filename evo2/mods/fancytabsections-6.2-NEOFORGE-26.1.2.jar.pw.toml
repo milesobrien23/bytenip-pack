@@ -1,0 +1,8 @@
+name = "fancytabsections-6.2-NEOFORGE-26.1.2.jar"
+filename = "fancytabsections-6.2-NEOFORGE-26.1.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8800/661/fancytabsections-6.2-NEOFORGE-26.1.2.jar"
+hash-format = "sha1"
+hash = "4dc5089bc9cc214a52f0c863208c02150ab5abf2"

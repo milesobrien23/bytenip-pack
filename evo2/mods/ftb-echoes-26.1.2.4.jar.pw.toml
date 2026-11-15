@@ -1,0 +1,8 @@
+name = "ftb-echoes-26.1.2.4.jar"
+filename = "ftb-echoes-26.1.2.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9463/660/ftb-echoes-26.1.2.4.jar"
+hash-format = "sha1"
+hash = "6a05b419a92978ffb8dd107ea90ef7d855b148ab"

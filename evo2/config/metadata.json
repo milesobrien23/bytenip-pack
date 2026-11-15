@@ -1,0 +1,11 @@
+{
+  "id": 135,
+  "name": "FTB Evolution 2",
+  "slug": "ftb-evolution-2",
+  "type": "release",
+  "version": {
+    "id": 100614,
+    "name": "1.9.0",
+    "type": "release"
+  }
+}

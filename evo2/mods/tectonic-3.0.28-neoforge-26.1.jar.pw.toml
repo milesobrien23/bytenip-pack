@@ -1,0 +1,8 @@
+name = "tectonic-3.0.28-neoforge-26.1.jar"
+filename = "tectonic-3.0.28-neoforge-26.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8855/46/tectonic-3.0.28-neoforge-26.1.jar"
+hash-format = "sha1"
+hash = "8d08c795d732926831eb7ef7962bd2a54b5841a3"

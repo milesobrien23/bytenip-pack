@@ -1,0 +1,8 @@
+name = "volumetrics-1.0.17.jar"
+filename = "volumetrics-1.0.17.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8200/785/volumetrics-1.0.17.jar"
+hash-format = "sha1"
+hash = "5a0ac7032003773d22dccc34af764f2795caec51"

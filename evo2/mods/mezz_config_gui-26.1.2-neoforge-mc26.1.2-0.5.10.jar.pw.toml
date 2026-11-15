@@ -1,0 +1,8 @@
+name = "mezz_config_gui-26.1.2-neoforge-mc26.1.2-0.5.10.jar"
+filename = "mezz_config_gui-26.1.2-neoforge-mc26.1.2-0.5.10.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9008/814/mezz_config_gui-26.1.2-neoforge-mc26.1.2-0.5.10.jar"
+hash-format = "sha1"
+hash = "fd45ffaa1731d735edb8500e18ffff39a0c7803b"

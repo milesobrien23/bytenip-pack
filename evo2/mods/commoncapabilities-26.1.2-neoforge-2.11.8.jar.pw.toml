@@ -1,0 +1,8 @@
+name = "commoncapabilities-26.1.2-neoforge-2.11.8.jar"
+filename = "commoncapabilities-26.1.2-neoforge-2.11.8.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8247/192/commoncapabilities-26.1.2-neoforge-2.11.8.jar"
+hash-format = "sha1"
+hash = "c24e162202ef1a35d68714bcc1eca0d6a60978ab"

@@ -1,0 +1,8 @@
+name = "aquariuslibs-1.2.0-neoforge-26.2.0.2.jar"
+filename = "aquariuslibs-1.2.0-neoforge-26.2.0.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8273/136/aquariuslibs-1.2.0-neoforge-26.2.0.2.jar"
+hash-format = "sha1"
+hash = "209a551d5f5663595f552cef7173e2647cac9b54"

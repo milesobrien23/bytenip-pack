@@ -1,0 +1,8 @@
+name = "patchful-26.1.2-1.1.0.jar"
+filename = "patchful-26.1.2-1.1.0.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/9164/686/patchful-26.1.2-1.1.0.jar"
+hash-format = "sha1"
+hash = "6589f663968cd9d168b1a073e737409063ba5dca"

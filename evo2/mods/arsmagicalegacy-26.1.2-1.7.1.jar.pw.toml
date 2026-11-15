@@ -1,0 +1,8 @@
+name = "arsmagicalegacy-26.1.2-1.7.1.jar"
+filename = "arsmagicalegacy-26.1.2-1.7.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9233/93/arsmagicalegacy-26.1.2-1.7.1.jar"
+hash-format = "sha1"
+hash = "f8ad7ad49a15935c1d366ad20b9516b07effb207"

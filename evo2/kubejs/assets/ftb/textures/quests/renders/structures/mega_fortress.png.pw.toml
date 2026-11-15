@@ -1,0 +1,8 @@
+name = "mega_fortress.png"
+filename = "mega_fortress.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c6/c6516bafd97f98c287a8cea75991e4baae67955f12a37d369ba64359fbd898bb.png"
+hash-format = "sha1"
+hash = "70b3716f6febf5c42d68644b44d59f371739d69a"

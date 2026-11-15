@@ -1,0 +1,8 @@
+name = "iris-neoforge-1.11.4+mc26.1.2.jar"
+filename = "iris-neoforge-1.11.4+mc26.1.2.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/8868/960/iris-neoforge-1.11.4%2bmc26.1.2.jar"
+hash-format = "sha1"
+hash = "15ac52fe7b35c66bb799f0f13021f549bf302c3c"

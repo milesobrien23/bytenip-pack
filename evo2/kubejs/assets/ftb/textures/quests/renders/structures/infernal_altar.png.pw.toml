@@ -1,0 +1,8 @@
+name = "infernal_altar.png"
+filename = "infernal_altar.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/38/38191b6fa71b71c3a47a9b47e46745d5e9b965ae889980df91741cd9a4030195.png"
+hash-format = "sha1"
+hash = "359923bac83437218d056e3f7b870d0ee79d8094"

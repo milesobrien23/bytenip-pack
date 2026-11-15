@@ -1,0 +1,8 @@
+name = "compressium-26.1.2.1.jar"
+filename = "compressium-26.1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7995/528/compressium-26.1.2.1.jar"
+hash-format = "sha1"
+hash = "7de3750f1364191a0edf6de094f7067720e87d87"

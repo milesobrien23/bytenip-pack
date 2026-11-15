@@ -1,0 +1,8 @@
+name = "accelerated-decay-neoforge-26.1.2.4.jar"
+filename = "accelerated-decay-neoforge-26.1.2.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8004/861/accelerated-decay-neoforge-26.1.2.4.jar"
+hash-format = "sha1"
+hash = "8da9574d793517aab9a1aa404dfdfab9bd451502"

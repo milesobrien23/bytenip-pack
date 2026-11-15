@@ -1,0 +1,8 @@
+name = "shatterlib-neoforge-0.7.0+26.1.2.jar"
+filename = "shatterlib-neoforge-0.7.0+26.1.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8252/649/shatterlib-neoforge-0.7.0%2b26.1.2.jar"
+hash-format = "sha1"
+hash = "636deda9b992072fa6b2fbb42e499f1961e4bc49"

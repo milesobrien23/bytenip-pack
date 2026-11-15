@@ -1,0 +1,8 @@
+name = "adrenaline-26.1.2-1.0.2.jar"
+filename = "adrenaline-26.1.2-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8335/320/adrenaline-26.1.2-1.0.2.jar"
+hash-format = "sha1"
+hash = "c5ce46480b61f61c594d3a6038870a810e5406da"

@@ -1,0 +1,8 @@
+name = "YungsBridges-26.1.2-NeoForge-6.1.0.jar"
+filename = "YungsBridges-26.1.2-NeoForge-6.1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8313/848/YungsBridges-26.1.2-NeoForge-6.1.0.jar"
+hash-format = "sha1"
+hash = "937eea0b9a16c9973f621de429a247c357730502"

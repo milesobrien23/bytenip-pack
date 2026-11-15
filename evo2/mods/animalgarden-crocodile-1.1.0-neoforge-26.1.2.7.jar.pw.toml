@@ -1,0 +1,8 @@
+name = "animalgarden-crocodile-1.1.0-neoforge-26.1.2.7.jar"
+filename = "animalgarden-crocodile-1.1.0-neoforge-26.1.2.7.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7927/0/animalgarden-crocodile-1.1.0-neoforge-26.1.2.7.jar"
+hash-format = "sha1"
+hash = "273a60ce7898f6c7f13a1ad79e45a193811ed67e"

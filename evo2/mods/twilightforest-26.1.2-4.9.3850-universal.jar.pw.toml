@@ -1,0 +1,8 @@
+name = "twilightforest-26.1.2-4.9.3850-universal.jar"
+filename = "twilightforest-26.1.2-4.9.3850-universal.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9417/882/twilightforest-26.1.2-4.9.3850-universal.jar"
+hash-format = "sha1"
+hash = "df626da939c3d6174b3e85917fc748ec6bf5572c"

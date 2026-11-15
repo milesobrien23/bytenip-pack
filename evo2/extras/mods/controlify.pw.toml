@@ -1,0 +1,12 @@
+name = "Controlify"
+filename = "controlify-3.5.3+mc26.1-universal.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/DOUdJVEm/versions/CCtUQSV4/controlify-3.5.3%2Bmc26.1-universal.jar"
+hash-format = "sha1"
+hash = "6340df666b938e627d1827e24718de1f9b2ea9ae"
+
+[update.modrinth]
+mod-id = "DOUdJVEm"
+version = "CCtUQSV4"

@@ -1,0 +1,8 @@
+name = "occultism-26.1.2-neoforge-1.262.0.jar"
+filename = "occultism-26.1.2-neoforge-1.262.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9431/110/occultism-26.1.2-neoforge-1.262.0.jar"
+hash-format = "sha1"
+hash = "4a53d9200f70ecda966466804b4075eec8bb69ec"

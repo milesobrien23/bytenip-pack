@@ -1,0 +1,8 @@
+name = "pipe-graph-0.9.1.jar"
+filename = "pipe-graph-0.9.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8200/833/pipe-graph-0.9.1.jar"
+hash-format = "sha1"
+hash = "210daec3a6a4cbe73daf1c279e193cdce06419e9"

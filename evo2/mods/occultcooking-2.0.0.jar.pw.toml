@@ -1,0 +1,8 @@
+name = "occultcooking-2.0.0.jar"
+filename = "occultcooking-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8549/699/occultcooking-2.0.0.jar"
+hash-format = "sha1"
+hash = "af37b5a0a822c440da8b8b59d17ab1fe59cfea72"

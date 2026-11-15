@@ -1,0 +1,8 @@
+name = "littlejoys-neoforge-26.1.2-26.1.2.5.jar"
+filename = "littlejoys-neoforge-26.1.2-26.1.2.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8837/389/littlejoys-neoforge-26.1.2-26.1.2.5.jar"
+hash-format = "sha1"
+hash = "7a9f29ba6e94b871add24ab9772cf0e2330e2aed"

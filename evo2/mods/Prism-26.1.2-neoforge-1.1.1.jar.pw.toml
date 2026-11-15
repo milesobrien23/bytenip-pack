@@ -1,0 +1,8 @@
+name = "Prism-26.1.2-neoforge-1.1.1.jar"
+filename = "Prism-26.1.2-neoforge-1.1.1.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/8308/350/Prism-26.1.2-neoforge-1.1.1.jar"
+hash-format = "sha1"
+hash = "ab9fa08cef645b3b63f04eda2a7ceb002dae59dd"

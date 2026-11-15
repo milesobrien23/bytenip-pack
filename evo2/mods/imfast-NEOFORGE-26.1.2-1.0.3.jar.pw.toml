@@ -1,0 +1,8 @@
+name = "imfast-NEOFORGE-26.1.2-1.0.3.jar"
+filename = "imfast-NEOFORGE-26.1.2-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7936/868/imfast-NEOFORGE-26.1.2-1.0.3.jar"
+hash-format = "sha1"
+hash = "d90b905ab45ba4a9eaf3c76a3b4af406a7c978d5"

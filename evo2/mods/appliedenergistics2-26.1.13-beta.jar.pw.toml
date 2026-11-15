@@ -1,0 +1,8 @@
+name = "appliedenergistics2-26.1.13-beta.jar"
+filename = "appliedenergistics2-26.1.13-beta.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9022/271/appliedenergistics2-26.1.13-beta.jar"
+hash-format = "sha1"
+hash = "e549080c2b6e1b44bee8fa8cf2b07f4e454d9e40"

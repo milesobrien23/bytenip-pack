@@ -1,0 +1,8 @@
+name = "Applied-Replicatics-26.1-1.0.1.jar"
+filename = "Applied-Replicatics-26.1-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9534/831/Applied-Replicatics-26.1-1.0.1.jar"
+hash-format = "sha1"
+hash = "4e4e0cbc2e2e2a57ce4720f86b85f999223ca573"

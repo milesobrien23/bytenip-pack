@@ -1,0 +1,8 @@
+name = "starcatcher-3.3.10.2-NEOFORGE-26.1.2.jar"
+filename = "starcatcher-3.3.10.2-NEOFORGE-26.1.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9296/793/starcatcher-3.3.10.2-NEOFORGE-26.1.2.jar"
+hash-format = "sha1"
+hash = "521453e7ec1bee5291f9ca59e2c8bce80f6382dc"

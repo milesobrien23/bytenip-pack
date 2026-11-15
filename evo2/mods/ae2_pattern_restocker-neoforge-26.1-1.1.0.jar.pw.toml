@@ -1,0 +1,8 @@
+name = "ae2_pattern_restocker-neoforge-26.1-1.1.0.jar"
+filename = "ae2_pattern_restocker-neoforge-26.1-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8121/307/ae2_pattern_restocker-neoforge-26.1-1.1.0.jar"
+hash-format = "sha1"
+hash = "e7636c0508628560aa8a03ead8dbc448434109cc"

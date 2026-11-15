@@ -1,0 +1,8 @@
+name = "ars_book.png"
+filename = "ars_book.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f6/f63d3f8d0bd511424d698a6c52ed9d9927e2f5dfdade53238cffac086e8708a0.png"
+hash-format = "sha1"
+hash = "e019a3ab6c6550e4ed68c930edb07e4a3a212a99"

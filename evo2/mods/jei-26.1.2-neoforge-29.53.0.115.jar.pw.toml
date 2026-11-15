@@ -1,0 +1,8 @@
+name = "jei-26.1.2-neoforge-29.53.0.115.jar"
+filename = "jei-26.1.2-neoforge-29.53.0.115.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9384/706/jei-26.1.2-neoforge-29.53.0.115.jar"
+hash-format = "sha1"
+hash = "a065a418f89d33dfd6d7644a766d13619fc59658"

@@ -1,0 +1,8 @@
+name = "ItemBorders-26.1.2-neoforge-1.3.1.jar"
+filename = "ItemBorders-26.1.2-neoforge-1.3.1.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/8308/367/ItemBorders-26.1.2-neoforge-1.3.1.jar"
+hash-format = "sha1"
+hash = "92ef2f1722c532e50fa82caa2cb9cf64741beb91"

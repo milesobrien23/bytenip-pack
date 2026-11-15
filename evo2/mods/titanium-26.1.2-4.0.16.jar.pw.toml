@@ -1,0 +1,8 @@
+name = "titanium-26.1.2-4.0.16.jar"
+filename = "titanium-26.1.2-4.0.16.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9341/907/titanium-26.1.2-4.0.16.jar"
+hash-format = "sha1"
+hash = "51d54f16f26299c54bb57708bca146d5e43f8410"

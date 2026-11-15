@@ -1,0 +1,8 @@
+name = "MoogsStructureLib-neoforge-26.1.2-3.4.2.jar"
+filename = "MoogsStructureLib-neoforge-26.1.2-3.4.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9047/185/MoogsStructureLib-neoforge-26.1.2-3.4.2.jar"
+hash-format = "sha1"
+hash = "fb6698c23d8f26763cf4de8b9c0af534ecc5b247"

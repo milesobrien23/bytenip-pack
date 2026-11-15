@@ -1,0 +1,8 @@
+name = "jumpboat-26.1.2-1.0.6.jar"
+filename = "jumpboat-26.1.2-1.0.6.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7931/619/jumpboat-26.1.2-1.0.6.jar"
+hash-format = "sha1"
+hash = "cb7e7f0d9042ee4536e800451859f6a081aad147"

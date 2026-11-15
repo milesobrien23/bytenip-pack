@@ -1,0 +1,8 @@
+name = "colossal_reactors-2.6.0.0.0-neoforge-26.1.2.jar"
+filename = "colossal_reactors-2.6.0.0.0-neoforge-26.1.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9358/50/colossal_reactors-2.6.0.0.0-neoforge-26.1.2.jar"
+hash-format = "sha1"
+hash = "90199a58a4dd86ece1ae3c43598b5c1cbb6fae12"

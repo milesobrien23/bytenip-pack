@@ -1,0 +1,8 @@
+name = "MouseTweaks-neoforge-mc26.1-2.31.jar"
+filename = "MouseTweaks-neoforge-mc26.1-2.31.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/7840/778/MouseTweaks-neoforge-mc26.1-2.31.jar"
+hash-format = "sha1"
+hash = "e171c7b91ab9ab3b0f7b63aa5b0337f578588b5c"

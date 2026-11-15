@@ -1,0 +1,8 @@
+name = "the_hedge_witch.png"
+filename = "the_hedge_witch.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/01/01f3c5ebe2248ac7efe491eb4b3f5b32ba8e47e33127fdc3d6da75a6afd809c8.png"
+hash-format = "sha1"
+hash = "c892aad9487bcc0cc36d267d59fda5e3afd92646"

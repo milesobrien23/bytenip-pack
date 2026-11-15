@@ -1,0 +1,8 @@
+name = "refinedfluidsubstitution-neoforge-26.1.2-1.0.1.jar"
+filename = "refinedfluidsubstitution-neoforge-26.1.2-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8667/766/refinedfluidsubstitution-neoforge-26.1.2-1.0.1.jar"
+hash-format = "sha1"
+hash = "63a14488bfda24d4c46568ca1457e59514b5bde0"

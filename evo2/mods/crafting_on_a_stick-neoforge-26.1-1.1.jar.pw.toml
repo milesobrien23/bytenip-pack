@@ -1,0 +1,8 @@
+name = "crafting_on_a_stick-neoforge-26.1-1.1.jar"
+filename = "crafting_on_a_stick-neoforge-26.1-1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8381/262/crafting_on_a_stick-neoforge-26.1-1.1.jar"
+hash-format = "sha1"
+hash = "9ec42d0ca5c917ac6678bb33bd635c79b616944f"

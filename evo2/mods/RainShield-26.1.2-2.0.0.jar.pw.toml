@@ -1,0 +1,8 @@
+name = "RainShield-26.1.2-2.0.0.jar"
+filename = "RainShield-26.1.2-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7911/592/RainShield-26.1.2-2.0.0.jar"
+hash-format = "sha1"
+hash = "e2f4e489c875c8593130831c38093862a2ec3cfb"

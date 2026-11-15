@@ -1,0 +1,8 @@
+name = "pantryforblockheads-neoforge-26.1.2-26.1.2.8.jar"
+filename = "pantryforblockheads-neoforge-26.1.2-26.1.2.8.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8645/611/pantryforblockheads-neoforge-26.1.2-26.1.2.8.jar"
+hash-format = "sha1"
+hash = "c541915796fef63593e5f7d6983b0e7a544416ff"

@@ -1,0 +1,8 @@
+name = "configured-neoforge-26.1.2-2.7.5.jar"
+filename = "configured-neoforge-26.1.2-2.7.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7943/180/configured-neoforge-26.1.2-2.7.5.jar"
+hash-format = "sha1"
+hash = "3a637c1cebe6206f1e9923208744015e8bac3b01"

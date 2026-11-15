@@ -1,0 +1,8 @@
+name = "the_swashbuckler.png"
+filename = "the_swashbuckler.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/91/913e71d7d478b7554a852437f9731d71d0bd3101437c88ea286166360004c11a.png"
+hash-format = "sha1"
+hash = "65f7e18a12350e558a98996d51d3f7127d7093ce"

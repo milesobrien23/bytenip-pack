@@ -1,0 +1,8 @@
+name = "justenoughcraftingtables-neoforge-26.1.2-1.0.1.jar"
+filename = "justenoughcraftingtables-neoforge-26.1.2-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9379/66/justenoughcraftingtables-neoforge-26.1.2-1.0.1.jar"
+hash-format = "sha1"
+hash = "bafc094f1d94a0e2dcb6d643a7839d6a1a3b8238"

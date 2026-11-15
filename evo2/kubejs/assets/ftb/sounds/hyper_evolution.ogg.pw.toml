@@ -1,0 +1,8 @@
+name = "hyper_evolution.ogg"
+filename = "hyper_evolution.ogg"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/02/02a9d4c9497a319d255f47d9d5458bc92c82423f6015eab2338bc60618ed8eb9.ogg"
+hash-format = "sha1"
+hash = "e3937cf12f4c8cf1be7d945acf00ccf48465a722"

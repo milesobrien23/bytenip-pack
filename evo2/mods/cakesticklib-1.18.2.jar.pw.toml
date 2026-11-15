@@ -1,0 +1,8 @@
+name = "cakesticklib-1.18.2.jar"
+filename = "cakesticklib-1.18.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9314/293/cakesticklib-1.18.2.jar"
+hash-format = "sha1"
+hash = "65ce2a1d2784dbc4f1b401b482b5220b24c869bb"

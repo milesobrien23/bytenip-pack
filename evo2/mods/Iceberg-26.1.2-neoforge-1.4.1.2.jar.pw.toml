@@ -1,0 +1,8 @@
+name = "Iceberg-26.1.2-neoforge-1.4.1.2.jar"
+filename = "Iceberg-26.1.2-neoforge-1.4.1.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8954/869/Iceberg-26.1.2-neoforge-1.4.1.2.jar"
+hash-format = "sha1"
+hash = "38be55c4feed2cbf633a38e0d48b9bb942852f23"

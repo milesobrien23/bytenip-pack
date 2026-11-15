@@ -1,0 +1,8 @@
+name = "xycraft_tank_9x9.png"
+filename = "xycraft_tank_9x9.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/98/98cf25d720e57f78c152005ad9770d2fb5a955c6b544188af08266fa75756cbb.png"
+hash-format = "sha1"
+hash = "a9335603d99261e6321dcdb251436b620902e017"

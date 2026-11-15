@@ -1,0 +1,8 @@
+name = "mffs_logo.png"
+filename = "mffs_logo.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/f6/f6a2fb78897f072684f88b9bae9bb25d043f5ab95d03fd12709c4b7b01c79cd8.png"
+hash-format = "sha1"
+hash = "eb2dfb4005fee2e9b1b30426d6863276b0538671"

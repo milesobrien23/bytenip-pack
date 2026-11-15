@@ -1,0 +1,8 @@
+name = "ExtendedAE-26.1-1.0.4-neoforge.jar"
+filename = "ExtendedAE-26.1-1.0.4-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8698/967/ExtendedAE-26.1-1.0.4-neoforge.jar"
+hash-format = "sha1"
+hash = "92d3ebea4f74f061be297a0c68649cba0d1c61e1"

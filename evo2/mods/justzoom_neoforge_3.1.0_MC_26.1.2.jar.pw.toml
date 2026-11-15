@@ -1,0 +1,8 @@
+name = "justzoom_neoforge_3.1.0_MC_26.1.2.jar"
+filename = "justzoom_neoforge_3.1.0_MC_26.1.2.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/9325/562/justzoom_neoforge_3.1.0_MC_26.1.2.jar"
+hash-format = "sha1"
+hash = "9040c7c4dda429bb33b6ae576484081fae278ef4"

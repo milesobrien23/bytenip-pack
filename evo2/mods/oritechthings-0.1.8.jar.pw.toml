@@ -1,0 +1,8 @@
+name = "oritechthings-0.1.8.jar"
+filename = "oritechthings-0.1.8.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9278/594/oritechthings-0.1.8.jar"
+hash-format = "sha1"
+hash = "d21ff81783f5628d3f6f9f339bc6e50798330ee6"

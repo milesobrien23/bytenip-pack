@@ -1,0 +1,5 @@
+#Camera settings
+[camera]
+	#Fly the camera between your body and the shell when you sync or die.
+	#Set to false to cut straight to the new shell instead.
+	syncCameraAnimation = true

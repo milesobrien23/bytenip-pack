@@ -1,0 +1,8 @@
+name = "kubejs-neoforge-26.1.2-8.0.8.jar"
+filename = "kubejs-neoforge-26.1.2-8.0.8.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9396/57/kubejs-neoforge-26.1.2-8.0.8.jar"
+hash-format = "sha1"
+hash = "a284e3b1982c43e7d37b04d6317dd8410d3e6793"

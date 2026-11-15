@@ -1,0 +1,8 @@
+name = "ApothicSpawners-26.1.2-2.0.1.jar"
+filename = "ApothicSpawners-26.1.2-2.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8529/719/ApothicSpawners-26.1.2-2.0.1.jar"
+hash-format = "sha1"
+hash = "a8a70d6bad56e716055b6ef9f673412b59625785"

@@ -1,0 +1,8 @@
+name = "MysticalAutomation-26.1.2-2.0.8.jar"
+filename = "MysticalAutomation-26.1.2-2.0.8.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9455/13/MysticalAutomation-26.1.2-2.0.8.jar"
+hash-format = "sha1"
+hash = "84efdfaa2a827315bc88aa5975f718b8c87defa5"

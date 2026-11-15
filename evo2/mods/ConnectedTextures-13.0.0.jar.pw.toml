@@ -1,0 +1,8 @@
+name = "ConnectedTextures-13.0.0.jar"
+filename = "ConnectedTextures-13.0.0.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/7806/346/ConnectedTextures-13.0.0.jar"
+hash-format = "sha1"
+hash = "b74eb80c975b1e88311f7d43552124ab9025758f"

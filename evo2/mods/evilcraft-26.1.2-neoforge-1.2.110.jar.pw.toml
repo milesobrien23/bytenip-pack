@@ -1,0 +1,8 @@
+name = "evilcraft-26.1.2-neoforge-1.2.110.jar"
+filename = "evilcraft-26.1.2-neoforge-1.2.110.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9494/427/evilcraft-26.1.2-neoforge-1.2.110.jar"
+hash-format = "sha1"
+hash = "bb3985255b97839141ea95a7a2d5e807f9e428ba"

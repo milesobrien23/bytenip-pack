@@ -1,0 +1,8 @@
+name = "CreativeCore_NEOFORGE_v2.14.16_mc26.1.2.jar"
+filename = "CreativeCore_NEOFORGE_v2.14.16_mc26.1.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8127/306/CreativeCore_NEOFORGE_v2.14.16_mc26.1.2.jar"
+hash-format = "sha1"
+hash = "92efc0a1cbc70477cc0b23f0a39cf982f64cc5c4"

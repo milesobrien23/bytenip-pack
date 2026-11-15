@@ -1,0 +1,8 @@
+name = "xycraft-world-0.9.2.jar"
+filename = "xycraft-world-0.9.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8201/472/xycraft-world-0.9.2.jar"
+hash-format = "sha1"
+hash = "7ecf6a0a0efb57e97b1b768e264f444259a325d0"

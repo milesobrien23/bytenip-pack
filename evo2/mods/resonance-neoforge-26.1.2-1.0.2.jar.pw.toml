@@ -1,0 +1,8 @@
+name = "resonance-neoforge-26.1.2-1.0.2.jar"
+filename = "resonance-neoforge-26.1.2-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8516/613/resonance-neoforge-26.1.2-1.0.2.jar"
+hash-format = "sha1"
+hash = "54b6186e374fcb63a91ebbd6c9d0d758c4add699"

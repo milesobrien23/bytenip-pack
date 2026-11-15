@@ -1,0 +1,8 @@
+name = "Emojiful-Neoforge-26.1.2-5.3.2.jar"
+filename = "Emojiful-Neoforge-26.1.2-5.3.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8437/491/Emojiful-Neoforge-26.1.2-5.3.2.jar"
+hash-format = "sha1"
+hash = "e87bac3db42657dd17b0fb588e464036a471d238"

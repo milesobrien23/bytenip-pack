@@ -1,0 +1,8 @@
+name = "ironfurnaces-neoforge-26.1.2-4.4.2.jar"
+filename = "ironfurnaces-neoforge-26.1.2-4.4.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8321/123/ironfurnaces-neoforge-26.1.2-4.4.2.jar"
+hash-format = "sha1"
+hash = "66810f86067a6ad60b7d5969a925d1d343788f33"

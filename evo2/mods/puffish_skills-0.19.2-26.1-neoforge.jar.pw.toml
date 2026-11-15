@@ -1,0 +1,8 @@
+name = "puffish_skills-0.19.2-26.1-neoforge.jar"
+filename = "puffish_skills-0.19.2-26.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9101/394/puffish_skills-0.19.2-26.1-neoforge.jar"
+hash-format = "sha1"
+hash = "17f3b038729ab98ca9460526f3fecf2e350f7ef2"

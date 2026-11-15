@@ -1,0 +1,8 @@
+name = "trashslot-neoforge-26.1.2-26.1.2.5.jar"
+filename = "trashslot-neoforge-26.1.2-26.1.2.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9406/270/trashslot-neoforge-26.1.2-26.1.2.5.jar"
+hash-format = "sha1"
+hash = "aab951d3e2a0295cb9d083f4a973a8ba733560db"

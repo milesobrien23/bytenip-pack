@@ -1,0 +1,8 @@
+name = "malisisdoorsreborn-neoforge-26.1.2-1.0.17.jar"
+filename = "malisisdoorsreborn-neoforge-26.1.2-1.0.17.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9381/707/malisisdoorsreborn-neoforge-26.1.2-1.0.17.jar"
+hash-format = "sha1"
+hash = "421afee3360f3feaa1ebd278b50e5b377f397eb6"

@@ -1,0 +1,8 @@
+name = "infinitystorage-26.1.2-2.0.4.jar"
+filename = "infinitystorage-26.1.2-2.0.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9407/329/infinitystorage-26.1.2-2.0.4.jar"
+hash-format = "sha1"
+hash = "265faef9b61c28e7ae8e33de298cfeac0fc2c88d"

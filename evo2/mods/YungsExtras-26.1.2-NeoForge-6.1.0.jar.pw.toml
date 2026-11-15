@@ -1,0 +1,8 @@
+name = "YungsExtras-26.1.2-NeoForge-6.1.0.jar"
+filename = "YungsExtras-26.1.2-NeoForge-6.1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8313/845/YungsExtras-26.1.2-NeoForge-6.1.0.jar"
+hash-format = "sha1"
+hash = "f37261ebf49f07192d98f1040f8e9750cc50ffcd"

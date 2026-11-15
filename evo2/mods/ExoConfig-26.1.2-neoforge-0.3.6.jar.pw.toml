@@ -1,0 +1,8 @@
+name = "ExoConfig-26.1.2-neoforge-0.3.6.jar"
+filename = "ExoConfig-26.1.2-neoforge-0.3.6.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9221/341/ExoConfig-26.1.2-neoforge-0.3.6.jar"
+hash-format = "sha1"
+hash = "7d903ac4854a9c6652a58bf219421c58f88c4e0a"

@@ -1,0 +1,10 @@
+#Chisel 3 Compat (Startup)
+[startup_chisels]
+	#Ferricore Chisel Durability
+	# Default: 768
+	# Range: > 1
+	ferricore_chisel_durability = 768
+	#Blazegold Chisel Durability
+	# Default: 1024
+	# Range: > 1
+	blazegold_chisel_durability = 1024

@@ -1,0 +1,8 @@
+name = "flopper-26.1.2-neoforge-1.1.10.jar"
+filename = "flopper-26.1.2-neoforge-1.1.10.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9422/634/flopper-26.1.2-neoforge-1.1.10.jar"
+hash-format = "sha1"
+hash = "0aeff0150a58eb93885dc85f6ccbfa1283667ff4"

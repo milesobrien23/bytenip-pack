@@ -1,0 +1,8 @@
+name = "tiab-neoforge-8.0.0.jar"
+filename = "tiab-neoforge-8.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8982/800/tiab-neoforge-8.0.0.jar"
+hash-format = "sha1"
+hash = "c777f07f47d15c15ff1dc4b6aa50a6b731b26fc6"

@@ -1,0 +1,8 @@
+name = "athena-4.7.3.jar"
+filename = "athena-4.7.3.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/7970/442/athena-4.7.3.jar"
+hash-format = "sha1"
+hash = "2583e9a557cca800efb356a4ca17f5dce96f762a"

@@ -1,0 +1,8 @@
+name = "The Brazilian Project [26.1.2-1.5.2].zip"
+filename = "The Brazilian Project [26.1.2-1.5.2].zip"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/74/7409f34528245e83f0f09890c54650cfa3ead9eea7a50d46b406b577d66d6b82.zip"
+hash-format = "sha1"
+hash = "cafb7b9ac6045a8a0c94c18f08e329a249a2dc5f"

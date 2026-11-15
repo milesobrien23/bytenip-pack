@@ -1,0 +1,8 @@
+name = "glorious_evolution.ogg"
+filename = "glorious_evolution.ogg"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/4f/4f82f74166327f58450619cb05e31c03867998ef9cdae3fa288a67636a8f605e.ogg"
+hash-format = "sha1"
+hash = "612c6bac8d227026d464b239a77c706383cb1c2b"

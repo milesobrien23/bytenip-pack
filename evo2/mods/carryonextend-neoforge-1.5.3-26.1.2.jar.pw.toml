@@ -1,0 +1,8 @@
+name = "carryonextend-neoforge-1.5.3-26.1.2.jar"
+filename = "carryonextend-neoforge-1.5.3-26.1.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9448/837/carryonextend-neoforge-1.5.3-26.1.2.jar"
+hash-format = "sha1"
+hash = "5486bf6e45ad03d1724c1b7c1193f17462309a1d"

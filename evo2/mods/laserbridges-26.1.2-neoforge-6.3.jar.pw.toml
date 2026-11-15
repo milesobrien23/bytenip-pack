@@ -1,0 +1,8 @@
+name = "laserbridges-26.1.2-neoforge-6.3.jar"
+filename = "laserbridges-26.1.2-neoforge-6.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9384/580/laserbridges-26.1.2-neoforge-6.3.jar"
+hash-format = "sha1"
+hash = "aca31005cc24b7bcfb89130d4786226dea49e647"

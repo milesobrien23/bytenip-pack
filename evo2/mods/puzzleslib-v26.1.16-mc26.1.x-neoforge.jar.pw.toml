@@ -1,0 +1,8 @@
+name = "puzzleslib-v26.1.16-mc26.1.x+neoforge.jar"
+filename = "puzzleslib-v26.1.16-mc26.1.x+neoforge.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9129/960/puzzleslib-v26.1.16-mc26.1.x%2bneoforge.jar"
+hash-format = "sha1"
+hash = "45b246435cdba69afa2312c7fa8c757e212685de"

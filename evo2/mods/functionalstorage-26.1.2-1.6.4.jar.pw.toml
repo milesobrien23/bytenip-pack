@@ -1,0 +1,8 @@
+name = "functionalstorage-26.1.2-1.6.4.jar"
+filename = "functionalstorage-26.1.2-1.6.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9180/205/functionalstorage-26.1.2-1.6.4.jar"
+hash-format = "sha1"
+hash = "9fce7966113d94a5b65d0f7e345b18d4a4513f92"

@@ -1,0 +1,8 @@
+name = "Highlighter-26.1.2-neoforge-1.2.1.jar"
+filename = "Highlighter-26.1.2-neoforge-1.2.1.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/8308/358/Highlighter-26.1.2-neoforge-1.2.1.jar"
+hash-format = "sha1"
+hash = "706e90f6a9be49edacd8806280a9a17c816f6307"

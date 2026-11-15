@@ -1,0 +1,8 @@
+name = "cable_facades-26.1.2-NeoForge-2.1.4.jar"
+filename = "cable_facades-26.1.2-NeoForge-2.1.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8734/903/cable_facades-26.1.2-NeoForge-2.1.4.jar"
+hash-format = "sha1"
+hash = "9cd37c5a24f7ad9240d66b00c13b4aa78cfa948c"

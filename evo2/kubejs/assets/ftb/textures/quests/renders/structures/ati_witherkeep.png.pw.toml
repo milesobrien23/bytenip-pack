@@ -1,0 +1,8 @@
+name = "ati_witherkeep.png"
+filename = "ati_witherkeep.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/11/1130886dec13fd7aee86432667b3c361f147a36c052cb537c85c2342a81d1cbf.png"
+hash-format = "sha1"
+hash = "53e604c844e5c95ff2e8534b14322d534700ae99"

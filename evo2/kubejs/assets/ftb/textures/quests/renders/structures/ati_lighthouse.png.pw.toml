@@ -1,0 +1,8 @@
+name = "ati_lighthouse.png"
+filename = "ati_lighthouse.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/5b/5b2d574979685dc979a43d81566407e929d67a6032f68419540c361633cef131.png"
+hash-format = "sha1"
+hash = "ad4c5b39c9996bc2f67082c6f19e72d7ae9ade1c"

@@ -1,0 +1,8 @@
+name = "modular-routers-26.1.2.2.jar"
+filename = "modular-routers-26.1.2.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8210/18/modular-routers-26.1.2.2.jar"
+hash-format = "sha1"
+hash = "246b308307c4d1b06ef15db4c6f5a7ea1b927761"

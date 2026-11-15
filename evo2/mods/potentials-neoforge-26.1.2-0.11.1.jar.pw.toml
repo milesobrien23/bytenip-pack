@@ -1,0 +1,8 @@
+name = "potentials-neoforge-26.1.2-0.11.1.jar"
+filename = "potentials-neoforge-26.1.2-0.11.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9127/430/potentials-neoforge-26.1.2-0.11.1.jar"
+hash-format = "sha1"
+hash = "a50f4caff83bfd832dd248838451b4d8847c088b"

@@ -1,0 +1,8 @@
+name = "decorz-0.1.1-26.1.2-neoforge.jar"
+filename = "decorz-0.1.1-26.1.2-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8552/302/decorz-0.1.1-26.1.2-neoforge.jar"
+hash-format = "sha1"
+hash = "41b0c4325e249497bf4260799c17c76cd7d39204"

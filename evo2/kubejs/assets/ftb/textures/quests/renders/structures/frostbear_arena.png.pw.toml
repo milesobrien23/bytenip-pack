@@ -1,0 +1,8 @@
+name = "frostbear_arena.png"
+filename = "frostbear_arena.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/66/66824b32f274b63ff6849bc0b52624bb36d0b1f2ccad666870d132a9f7fb4a5c.png"
+hash-format = "sha1"
+hash = "59f2fdee5093cf1f25dbf913a26644bf410b08d3"

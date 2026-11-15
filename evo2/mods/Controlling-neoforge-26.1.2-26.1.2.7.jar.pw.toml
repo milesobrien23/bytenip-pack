@@ -1,0 +1,8 @@
+name = "Controlling-neoforge-26.1.2-26.1.2.7.jar"
+filename = "Controlling-neoforge-26.1.2-26.1.2.7.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/8925/599/Controlling-neoforge-26.1.2-26.1.2.7.jar"
+hash-format = "sha1"
+hash = "d63391a9343d7e7d1fe7448830197bff6faa37de"

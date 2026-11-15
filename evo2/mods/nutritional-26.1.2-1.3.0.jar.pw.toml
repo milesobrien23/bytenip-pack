@@ -1,0 +1,8 @@
+name = "nutritional-26.1.2-1.3.0.jar"
+filename = "nutritional-26.1.2-1.3.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9457/688/nutritional-26.1.2-1.3.0.jar"
+hash-format = "sha1"
+hash = "ddc40ff52d173bfe3127fc881882030613c3bfd1"

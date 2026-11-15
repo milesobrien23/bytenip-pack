@@ -1,0 +1,8 @@
+name = "authme-neoforge-9.2.1+26.1.jar"
+filename = "authme-neoforge-9.2.1+26.1.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/8241/599/authme-neoforge-9.2.1%2b26.1.jar"
+hash-format = "sha1"
+hash = "6556dafe1035e5a311a6b03ff2ec550c8ebf22d5"

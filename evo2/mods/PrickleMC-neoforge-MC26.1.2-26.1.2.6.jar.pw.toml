@@ -1,0 +1,8 @@
+name = "PrickleMC-neoforge-MC26.1.2-26.1.2.6.jar"
+filename = "PrickleMC-neoforge-MC26.1.2-26.1.2.6.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8397/189/PrickleMC-neoforge-MC26.1.2-26.1.2.6.jar"
+hash-format = "sha1"
+hash = "de90da5cefea67e6781e0bc3f3908752368e1dcf"

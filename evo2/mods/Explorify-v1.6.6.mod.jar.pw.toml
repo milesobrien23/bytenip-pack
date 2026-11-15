@@ -1,0 +1,8 @@
+name = "Explorify-v1.6.6.mod.jar"
+filename = "Explorify-v1.6.6.mod.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9509/145/Explorify-v1.6.6.mod.jar"
+hash-format = "sha1"
+hash = "d7b21626ad33d898536634764cec6c9a8cd55063"

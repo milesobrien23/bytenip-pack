@@ -1,0 +1,8 @@
+name = "NeoSync-26.1.2-1.7.7.jar"
+filename = "NeoSync-26.1.2-1.7.7.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9522/294/NeoSync-26.1.2-1.7.7.jar"
+hash-format = "sha1"
+hash = "d9c7bd72cda295ef9482b4896b482f4f059733a6"

@@ -1,0 +1,8 @@
+name = "carryon-neoforge-26.1.2-2.10.0.jar"
+filename = "carryon-neoforge-26.1.2-2.10.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8554/262/carryon-neoforge-26.1.2-2.10.0.jar"
+hash-format = "sha1"
+hash = "d059b8583f2702a69e96d4d39122b7a087c27413"

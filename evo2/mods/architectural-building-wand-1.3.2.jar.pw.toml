@@ -1,0 +1,8 @@
+name = "architectural-building-wand-1.3.2.jar"
+filename = "architectural-building-wand-1.3.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9399/751/architectural-building-wand-1.3.2.jar"
+hash-format = "sha1"
+hash = "ae9c722333852fbf94e8ba9207660280dedde511"

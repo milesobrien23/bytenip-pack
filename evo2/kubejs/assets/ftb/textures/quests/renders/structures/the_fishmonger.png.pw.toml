@@ -1,0 +1,8 @@
+name = "the_fishmonger.png"
+filename = "the_fishmonger.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/0b/0b6c3d7c94be581a948effb290f9e4c5d4cbb1c6081fdd4eddced454ef78b21a.png"
+hash-format = "sha1"
+hash = "26ff8bced7dbb747d87cafea90f4969d5379dcd7"

@@ -1,0 +1,8 @@
+name = "justdirefuels-1.1.0-26.1.jar"
+filename = "justdirefuels-1.1.0-26.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8506/926/justdirefuels-1.1.0-26.1.jar"
+hash-format = "sha1"
+hash = "5d7f321b5580b1cd6936e3f9e77f0739400bd8a0"

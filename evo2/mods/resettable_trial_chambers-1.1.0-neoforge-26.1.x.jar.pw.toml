@@ -1,0 +1,8 @@
+name = "resettable_trial_chambers-1.1.0-neoforge-26.1.x.jar"
+filename = "resettable_trial_chambers-1.1.0-neoforge-26.1.x.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9277/250/resettable_trial_chambers-1.1.0-neoforge-26.1.x.jar"
+hash-format = "sha1"
+hash = "cecc8e0c1a1526a404bffa70d898992e7cc5afce"

@@ -1,0 +1,8 @@
+name = "enderio-9.0.6-alpha.jar"
+filename = "enderio-9.0.6-alpha.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8832/914/enderio-9.0.6-alpha.jar"
+hash-format = "sha1"
+hash = "cd1b2e8c1c2bafa63e1a0ba84cb3f26bd6cf6989"

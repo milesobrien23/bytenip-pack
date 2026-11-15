@@ -1,0 +1,8 @@
+name = "MoogsNetherStructures-universal-1.21-3.1.1.jar"
+filename = "MoogsNetherStructures-universal-1.21-3.1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8902/210/MoogsNetherStructures-universal-1.21-3.1.1.jar"
+hash-format = "sha1"
+hash = "78845cb7bccaa7812bacce4efdd5481b81b8c347"

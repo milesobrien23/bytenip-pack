@@ -1,0 +1,8 @@
+name = "sky_aesthetics-neoforge-2.2.0.jar"
+filename = "sky_aesthetics-neoforge-2.2.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9279/606/sky_aesthetics-neoforge-2.2.0.jar"
+hash-format = "sha1"
+hash = "246a55e33b838a43a849e66be8921ef1e8650bc7"

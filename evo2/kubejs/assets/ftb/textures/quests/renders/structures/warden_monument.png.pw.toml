@@ -1,0 +1,8 @@
+name = "warden_monument.png"
+filename = "warden_monument.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/3e/3e8ab32d592cbeccf309664bc140a3987618cf6d215ade95b9b06822fd49f820.png"
+hash-format = "sha1"
+hash = "42712f3f1cc2302fc667f7e58d7882598fc39f9a"

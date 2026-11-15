@@ -1,0 +1,8 @@
+name = "energymeter-neoforge-26.1.2-0.6.0.jar"
+filename = "energymeter-neoforge-26.1.2-0.6.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9396/108/energymeter-neoforge-26.1.2-0.6.0.jar"
+hash-format = "sha1"
+hash = "de511a6e42d30c5b028f697910462897c857467e"

@@ -1,0 +1,8 @@
+name = "supermartijn642corelib-1.1.26b-neoforge-mc26.1.jar"
+filename = "supermartijn642corelib-1.1.26b-neoforge-mc26.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9447/187/supermartijn642corelib-1.1.26b-neoforge-mc26.1.jar"
+hash-format = "sha1"
+hash = "15c7f046abc9f964bde3f7d7f0526d195dd1a5a4"

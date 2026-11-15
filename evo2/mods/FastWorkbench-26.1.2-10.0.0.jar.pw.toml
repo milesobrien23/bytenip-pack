@@ -1,0 +1,8 @@
+name = "FastWorkbench-26.1.2-10.0.0.jar"
+filename = "FastWorkbench-26.1.2-10.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8171/4/FastWorkbench-26.1.2-10.0.0.jar"
+hash-format = "sha1"
+hash = "89ae845448305df0f1ba69d507b3b6254cfbe182"

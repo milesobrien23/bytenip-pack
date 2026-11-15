@@ -1,0 +1,8 @@
+name = "pipezlagfix-26.1.2-1.1.0.jar"
+filename = "pipezlagfix-26.1.2-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8114/25/pipezlagfix-26.1.2-1.1.0.jar"
+hash-format = "sha1"
+hash = "150024db5ad408483ad6ef28a3725ff172ae520a"

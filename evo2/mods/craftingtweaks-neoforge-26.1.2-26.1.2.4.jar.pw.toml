@@ -1,0 +1,8 @@
+name = "craftingtweaks-neoforge-26.1.2-26.1.2.4.jar"
+filename = "craftingtweaks-neoforge-26.1.2-26.1.2.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9423/830/craftingtweaks-neoforge-26.1.2-26.1.2.4.jar"
+hash-format = "sha1"
+hash = "80f990c760a0ddb3dc5c93d2beaf63a992bcd4db"

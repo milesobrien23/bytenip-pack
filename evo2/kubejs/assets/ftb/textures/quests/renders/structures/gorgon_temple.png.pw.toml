@@ -1,0 +1,8 @@
+name = "gorgon_temple.png"
+filename = "gorgon_temple.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/a2/a21a4d1f80ae67b38d54f6e582d9eda9bd302886b9e72bcc626bcf30eec7f7a3.png"
+hash-format = "sha1"
+hash = "395cf40eda2e0ba925a4329f2a0f29fd6e26b079"

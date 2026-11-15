@@ -1,0 +1,8 @@
+name = "applied_oritech-1.0.6-26.1.2.jar"
+filename = "applied_oritech-1.0.6-26.1.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9404/65/applied_oritech-1.0.6-26.1.2.jar"
+hash-format = "sha1"
+hash = "b229a75418cc39e3d40d89e5e774f1be23f2b724"

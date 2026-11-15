@@ -1,0 +1,8 @@
+name = "MagnumTorch-v26.1.0-mc26.1.x-NeoForge.jar"
+filename = "MagnumTorch-v26.1.0-mc26.1.x-NeoForge.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8004/736/MagnumTorch-v26.1.0-mc26.1.x-NeoForge.jar"
+hash-format = "sha1"
+hash = "a4497bf580b5738a1758c5891926416eca7e864d"

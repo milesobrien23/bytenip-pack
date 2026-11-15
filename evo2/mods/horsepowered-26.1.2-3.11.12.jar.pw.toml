@@ -1,0 +1,8 @@
+name = "horsepowered-26.1.2-3.11.12.jar"
+filename = "horsepowered-26.1.2-3.11.12.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9506/108/horsepowered-26.1.2-3.11.12.jar"
+hash-format = "sha1"
+hash = "ac031bdf8b76db78f11372f30b14ecac3444f962"

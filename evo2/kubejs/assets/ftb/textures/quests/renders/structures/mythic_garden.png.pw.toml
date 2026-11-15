@@ -1,0 +1,8 @@
+name = "mythic_garden.png"
+filename = "mythic_garden.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b9/b906ba54541fc5ac4535e0119f0125110cc977ec5fdac85abdebd443c37caf5a.png"
+hash-format = "sha1"
+hash = "e8e4942e4dd0d6043f2d65fc3687e3351beca44e"

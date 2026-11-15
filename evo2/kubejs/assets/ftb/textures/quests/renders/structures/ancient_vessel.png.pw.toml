@@ -1,0 +1,8 @@
+name = "ancient_vessel.png"
+filename = "ancient_vessel.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/b2/b231191dafd5704b6c754c3e92dd17393decacf81a3d3857490c48923c43f5ff.png"
+hash-format = "sha1"
+hash = "36116c24156a84129538a0ab4452f8fea3cbfdf6"

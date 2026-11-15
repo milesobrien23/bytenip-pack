@@ -1,0 +1,8 @@
+name = "dragon-egg-respawns-v1.0.3.jar"
+filename = "dragon-egg-respawns-v1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8382/214/dragon-egg-respawns-v1.0.3.jar"
+hash-format = "sha1"
+hash = "064ce6a143064e790afc6c845955ffb4b8a00342"

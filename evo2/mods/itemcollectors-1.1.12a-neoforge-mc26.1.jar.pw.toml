@@ -1,0 +1,8 @@
+name = "itemcollectors-1.1.12a-neoforge-mc26.1.jar"
+filename = "itemcollectors-1.1.12a-neoforge-mc26.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8393/515/itemcollectors-1.1.12a-neoforge-mc26.1.jar"
+hash-format = "sha1"
+hash = "9a1ca25f2cf5cb4ac5ab10035298e0a0f5aa6286"

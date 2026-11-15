@@ -1,0 +1,8 @@
+name = "colorblindness-neoforge-26.1-5.0.0.2.jar"
+filename = "colorblindness-neoforge-26.1-5.0.0.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8131/586/colorblindness-neoforge-26.1-5.0.0.2.jar"
+hash-format = "sha1"
+hash = "81c9b2e4f07f0e5a065ff98adc21688efac37213"

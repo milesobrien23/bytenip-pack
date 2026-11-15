@@ -1,0 +1,8 @@
+name = "netherportalfix-neoforge-26.1-26.1.0.1.jar"
+filename = "netherportalfix-neoforge-26.1-26.1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7812/877/netherportalfix-neoforge-26.1-26.1.0.1.jar"
+hash-format = "sha1"
+hash = "2d544163ed3bafe207a8b5cdf03e9d5bc0d30f5f"

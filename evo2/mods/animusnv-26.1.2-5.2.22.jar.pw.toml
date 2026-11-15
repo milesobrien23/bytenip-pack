@@ -1,0 +1,8 @@
+name = "animusnv-26.1.2-5.2.22.jar"
+filename = "animusnv-26.1.2-5.2.22.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9544/84/animusnv-26.1.2-5.2.22.jar"
+hash-format = "sha1"
+hash = "9f82c6fc874738cb220049c0e88ace1a61158079"

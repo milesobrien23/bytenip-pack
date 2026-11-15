@@ -1,0 +1,8 @@
+name = "GeOre-26.1.2-8.1.0.jar"
+filename = "GeOre-26.1.2-8.1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9101/850/GeOre-26.1.2-8.1.0.jar"
+hash-format = "sha1"
+hash = "a5d72db1ef181ae5670fbeb705474c014c842290"

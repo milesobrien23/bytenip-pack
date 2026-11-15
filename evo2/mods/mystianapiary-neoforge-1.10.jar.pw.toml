@@ -1,0 +1,8 @@
+name = "mystianapiary-neoforge-1.10.jar"
+filename = "mystianapiary-neoforge-1.10.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9169/76/mystianapiary-neoforge-1.10.jar"
+hash-format = "sha1"
+hash = "705048eb446294daa475449e5e99ef7782e0491f"

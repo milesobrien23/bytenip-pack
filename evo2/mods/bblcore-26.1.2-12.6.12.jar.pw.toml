@@ -1,0 +1,8 @@
+name = "bblcore-26.1.2-12.6.12.jar"
+filename = "bblcore-26.1.2-12.6.12.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8940/984/bblcore-26.1.2-12.6.12.jar"
+hash-format = "sha1"
+hash = "cd301413988df04f4f7917c8eb89e2619b2d822b"

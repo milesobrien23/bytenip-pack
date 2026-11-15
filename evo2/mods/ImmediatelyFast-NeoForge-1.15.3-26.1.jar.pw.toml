@@ -1,0 +1,8 @@
+name = "ImmediatelyFast-NeoForge-1.15.3+26.1.jar"
+filename = "ImmediatelyFast-NeoForge-1.15.3+26.1.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/8348/737/ImmediatelyFast-NeoForge-1.15.3%2b26.1.jar"
+hash-format = "sha1"
+hash = "bb10bdde4199da3cb7a2a64f9e3274a46218c9f1"

@@ -1,0 +1,8 @@
+name = "refinedwirelessupgrades-neoforge-26.1.2-3.0.1.jar"
+filename = "refinedwirelessupgrades-neoforge-26.1.2-3.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9164/395/refinedwirelessupgrades-neoforge-26.1.2-3.0.1.jar"
+hash-format = "sha1"
+hash = "95009d5f7a7fd70b6527009491911fd12a73cf3d"

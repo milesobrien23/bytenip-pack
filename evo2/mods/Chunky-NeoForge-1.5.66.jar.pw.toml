@@ -1,0 +1,8 @@
+name = "Chunky-NeoForge-1.5.66.jar"
+filename = "Chunky-NeoForge-1.5.66.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9430/65/Chunky-NeoForge-1.5.66.jar"
+hash-format = "sha1"
+hash = "d961dd43479967e343461c044546887a5193c0ef"

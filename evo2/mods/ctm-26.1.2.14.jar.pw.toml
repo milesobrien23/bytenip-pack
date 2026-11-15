@@ -1,0 +1,8 @@
+name = "ctm-26.1.2.14.jar"
+filename = "ctm-26.1.2.14.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9517/231/ctm-26.1.2.14.jar"
+hash-format = "sha1"
+hash = "eaf77fbef827e1a3ed626d839db6cca559a65130"

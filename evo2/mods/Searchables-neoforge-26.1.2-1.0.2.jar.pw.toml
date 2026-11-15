@@ -1,0 +1,8 @@
+name = "Searchables-neoforge-26.1.2-1.0.2.jar"
+filename = "Searchables-neoforge-26.1.2-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8218/526/Searchables-neoforge-26.1.2-1.0.2.jar"
+hash-format = "sha1"
+hash = "1733d2af5cc00ff2eef566666a29ec5bfdca7407"

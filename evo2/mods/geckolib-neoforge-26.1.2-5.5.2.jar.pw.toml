@@ -1,0 +1,8 @@
+name = "geckolib-neoforge-26.1.2-5.5.2.jar"
+filename = "geckolib-neoforge-26.1.2-5.5.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8327/201/geckolib-neoforge-26.1.2-5.5.2.jar"
+hash-format = "sha1"
+hash = "2108a1175f8edb52f30a9b3d6dd42eccf045623f"

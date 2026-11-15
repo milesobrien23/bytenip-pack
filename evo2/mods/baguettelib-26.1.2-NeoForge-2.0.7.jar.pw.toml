@@ -1,0 +1,8 @@
+name = "baguettelib-26.1.2-NeoForge-2.0.7.jar"
+filename = "baguettelib-26.1.2-NeoForge-2.0.7.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8887/465/baguettelib-26.1.2-NeoForge-2.0.7.jar"
+hash-format = "sha1"
+hash = "d289eb5c4e8c89742cb55c9ade4401f6c129bd22"

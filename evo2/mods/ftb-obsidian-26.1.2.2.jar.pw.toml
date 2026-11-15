@@ -1,0 +1,8 @@
+name = "ftb-obsidian-26.1.2.2.jar"
+filename = "ftb-obsidian-26.1.2.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9331/889/ftb-obsidian-26.1.2.2.jar"
+hash-format = "sha1"
+hash = "eacb467353217db14711d50afe8aceed2d0984a2"

@@ -1,0 +1,8 @@
+name = "mininggadgets-1.19.3.jar"
+filename = "mininggadgets-1.19.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8417/455/mininggadgets-1.19.3.jar"
+hash-format = "sha1"
+hash = "a44e43790f6cf5056e03446f06602e3fac14dffe"

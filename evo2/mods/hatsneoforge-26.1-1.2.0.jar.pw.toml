@@ -1,0 +1,8 @@
+name = "hatsneoforge-26.1-1.2.0.jar"
+filename = "hatsneoforge-26.1-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8035/7/hatsneoforge-26.1-1.2.0.jar"
+hash-format = "sha1"
+hash = "3fbbd06c0a85356f5380b2ddf2ffe84c3c47692d"

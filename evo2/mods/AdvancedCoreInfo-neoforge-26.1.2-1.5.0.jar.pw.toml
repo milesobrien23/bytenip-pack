@@ -1,0 +1,8 @@
+name = "AdvancedCoreInfo-neoforge-26.1.2-1.5.0.jar"
+filename = "AdvancedCoreInfo-neoforge-26.1.2-1.5.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9214/370/AdvancedCoreInfo-neoforge-26.1.2-1.5.0.jar"
+hash-format = "sha1"
+hash = "4c10bdbb094659893994f2adbea9ca4009187a88"

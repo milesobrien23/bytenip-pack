@@ -1,0 +1,8 @@
+name = "malisisswitchesreborn-neoforge-26.1.2-1.0.11.jar"
+filename = "malisisswitchesreborn-neoforge-26.1.2-1.0.11.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9423/461/malisisswitchesreborn-neoforge-26.1.2-1.0.11.jar"
+hash-format = "sha1"
+hash = "5839ce8e5fb28d1a9bbdbcd714c4b39430564861"

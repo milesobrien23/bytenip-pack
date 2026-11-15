@@ -1,0 +1,8 @@
+name = "integrateddynamics-26.1.2-neoforge-1.37.0.jar"
+filename = "integrateddynamics-26.1.2-neoforge-1.37.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9528/428/integrateddynamics-26.1.2-neoforge-1.37.0.jar"
+hash-format = "sha1"
+hash = "a21bd0a15e576aeeeab06b84154046423df4b442"

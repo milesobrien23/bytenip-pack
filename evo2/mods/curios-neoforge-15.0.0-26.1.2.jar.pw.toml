@@ -1,0 +1,8 @@
+name = "curios-neoforge-15.0.0+26.1.2.jar"
+filename = "curios-neoforge-15.0.0+26.1.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8463/519/curios-neoforge-15.0.0%2b26.1.2.jar"
+hash-format = "sha1"
+hash = "7d9d228d1224238750fd3924737c6734b58eb344"

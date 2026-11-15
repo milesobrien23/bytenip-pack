@@ -1,0 +1,8 @@
+name = "huge-structure-blocks-neoforge-1.1.9.jar"
+filename = "huge-structure-blocks-neoforge-1.1.9.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8114/783/huge-structure-blocks-neoforge-1.1.9.jar"
+hash-format = "sha1"
+hash = "c69cf6f33d9d46eee4cf6fd30d9a1550be972556"

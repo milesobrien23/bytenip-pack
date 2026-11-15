@@ -1,0 +1,8 @@
+name = "collapsible_groups-neoforge-26.1.2-2.0.0-beta6.jar"
+filename = "collapsible_groups-neoforge-26.1.2-2.0.0-beta6.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9409/284/collapsible_groups-neoforge-26.1.2-2.0.0-beta6.jar"
+hash-format = "sha1"
+hash = "96bd5c4d68060b4b91736eeb1165a25028ca45a6"

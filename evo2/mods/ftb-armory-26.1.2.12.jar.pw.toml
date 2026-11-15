@@ -1,0 +1,8 @@
+name = "ftb-armory-26.1.2.12.jar"
+filename = "ftb-armory-26.1.2.12.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9544/626/ftb-armory-26.1.2.12.jar"
+hash-format = "sha1"
+hash = "4775289cda3b3bf4e7683ace643f823e138e9c6d"

@@ -1,0 +1,8 @@
+name = "YungsCaveBiomes-26.1.2-NeoForge-4.1.1.jar"
+filename = "YungsCaveBiomes-26.1.2-NeoForge-4.1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8686/283/YungsCaveBiomes-26.1.2-NeoForge-4.1.1.jar"
+hash-format = "sha1"
+hash = "4ccb421413dc288a7845e50735e62fe6c8f29f59"

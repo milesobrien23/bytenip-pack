@@ -1,0 +1,8 @@
+name = "DimStorage-26.1.2-10.0.2.jar"
+filename = "DimStorage-26.1.2-10.0.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9354/980/DimStorage-26.1.2-10.0.2.jar"
+hash-format = "sha1"
+hash = "7b5636f3c10453d5af2ed79fc5831a0431844bd3"

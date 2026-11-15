@@ -1,0 +1,8 @@
+name = "dimresources-26.1.2-1.0.10.jar"
+filename = "dimresources-26.1.2-1.0.10.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8880/263/dimresources-26.1.2-1.0.10.jar"
+hash-format = "sha1"
+hash = "1ed6ce56273c83b575c0b46ffc417d874dbcbc6e"

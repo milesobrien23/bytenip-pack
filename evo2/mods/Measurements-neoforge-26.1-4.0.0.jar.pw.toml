@@ -1,0 +1,8 @@
+name = "Measurements-neoforge-26.1-4.0.0.jar"
+filename = "Measurements-neoforge-26.1-4.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7819/739/Measurements-neoforge-26.1-4.0.0.jar"
+hash-format = "sha1"
+hash = "13dd01e5346e09788746b6b5517ea102208ea399"

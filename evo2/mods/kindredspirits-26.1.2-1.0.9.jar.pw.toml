@@ -1,0 +1,8 @@
+name = "kindredspirits-26.1.2-1.0.9.jar"
+filename = "kindredspirits-26.1.2-1.0.9.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9191/378/kindredspirits-26.1.2-1.0.9.jar"
+hash-format = "sha1"
+hash = "092f4935b008b08f01a6b4edea772b2f2bfee662"

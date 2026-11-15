@@ -1,0 +1,8 @@
+name = "nerb-neoforge-0.6-26.1.2.jar"
+filename = "nerb-neoforge-0.6-26.1.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9452/801/nerb-neoforge-0.6-26.1.2.jar"
+hash-format = "sha1"
+hash = "360f25c965d55f18f89799133e4bde3e16d92460"

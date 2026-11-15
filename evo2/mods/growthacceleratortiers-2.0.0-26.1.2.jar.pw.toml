@@ -1,0 +1,8 @@
+name = "growthacceleratortiers-2.0.0+26.1.2.jar"
+filename = "growthacceleratortiers-2.0.0+26.1.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8846/882/growthacceleratortiers-2.0.0%2b26.1.2.jar"
+hash-format = "sha1"
+hash = "6f7c780c88bf2b7bed38d5a000f17ffefdd2e860"

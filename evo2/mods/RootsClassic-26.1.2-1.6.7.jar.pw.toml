@@ -1,0 +1,8 @@
+name = "RootsClassic-26.1.2-1.6.7.jar"
+filename = "RootsClassic-26.1.2-1.6.7.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8757/288/RootsClassic-26.1.2-1.6.7.jar"
+hash-format = "sha1"
+hash = "b2d1cad526715364a0340486a4c35433c6f20b98"

@@ -1,0 +1,8 @@
+name = "ExtraStorage-26.1.2-6.1.0.jar"
+filename = "ExtraStorage-26.1.2-6.1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9221/294/ExtraStorage-26.1.2-6.1.0.jar"
+hash-format = "sha1"
+hash = "a46a27c99ed6b9c4ef4a7a07ba3603486ab22eac"

@@ -1,0 +1,8 @@
+name = "explosiveenhancement-neoforge-26.1.0-1.1.2.jar"
+filename = "explosiveenhancement-neoforge-26.1.0-1.1.2.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/7955/534/explosiveenhancement-neoforge-26.1.0-1.1.2.jar"
+hash-format = "sha1"
+hash = "2d6c41aeee2f2e356d2525c8e336b6fc268a8567"

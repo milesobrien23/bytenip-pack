@@ -1,0 +1,8 @@
+name = "underwater_city.png"
+filename = "underwater_city.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/2e/2e5aaabd6191484a8bce2e2c89069abf6648c0e932810897617a367a563860b9.png"
+hash-format = "sha1"
+hash = "ea1009c0121c13fc7c890d4d8e92ef18dea2d48e"

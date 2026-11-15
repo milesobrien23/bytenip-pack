@@ -1,0 +1,8 @@
+name = "crawl-mc26.1.2-neoforge-0.15.0.jar"
+filename = "crawl-mc26.1.2-neoforge-0.15.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7982/431/crawl-mc26.1.2-neoforge-0.15.0.jar"
+hash-format = "sha1"
+hash = "90869407ee3c91c196e6affa00a7fa19e8e79a4b"

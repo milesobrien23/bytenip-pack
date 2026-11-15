@@ -1,0 +1,8 @@
+name = "FastFurnace-26.1.2-10.0.0.jar"
+filename = "FastFurnace-26.1.2-10.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8262/840/FastFurnace-26.1.2-10.0.0.jar"
+hash-format = "sha1"
+hash = "4c7aa4d342aa18fdee72eb3ef701eb824846cf40"

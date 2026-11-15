@@ -1,0 +1,8 @@
+name = "laserio-1.10.2.jar"
+filename = "laserio-1.10.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8030/110/laserio-1.10.2.jar"
+hash-format = "sha1"
+hash = "3fbb3465278a30ac8fd5534451e2d95d54f79888"

@@ -1,0 +1,8 @@
+name = "chisel-26.1.2.20.jar"
+filename = "chisel-26.1.2.20.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9529/156/chisel-26.1.2.20.jar"
+hash-format = "sha1"
+hash = "781800ac73379079e2db4b2a75f0af14d625b457"

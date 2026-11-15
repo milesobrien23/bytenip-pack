@@ -1,0 +1,8 @@
+name = "AmbientEnvironment-neoforge-26.1.2-26.1.2.1.jar"
+filename = "AmbientEnvironment-neoforge-26.1.2-26.1.2.1.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/7911/750/AmbientEnvironment-neoforge-26.1.2-26.1.2.1.jar"
+hash-format = "sha1"
+hash = "7f938dd53c38503a58841a288603629c07a1a0ec"

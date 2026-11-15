@@ -1,0 +1,8 @@
+name = "refinedstorage-neoforge-3.2.1.jar"
+filename = "refinedstorage-neoforge-3.2.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8211/383/refinedstorage-neoforge-3.2.1.jar"
+hash-format = "sha1"
+hash = "1bd09d5e51f82418d8602dec1e8fc6883beb852d"

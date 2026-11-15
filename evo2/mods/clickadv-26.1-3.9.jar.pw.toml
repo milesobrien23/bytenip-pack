@@ -1,0 +1,8 @@
+name = "clickadv-26.1-3.9.jar"
+filename = "clickadv-26.1-3.9.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7886/368/clickadv-26.1-3.9.jar"
+hash-format = "sha1"
+hash = "3d357fba5a2b6947d39eb63506131ae68517fce8"

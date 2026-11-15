@@ -1,0 +1,8 @@
+name = "Powah-7.0.4-alpha.jar"
+filename = "Powah-7.0.4-alpha.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8025/339/Powah-7.0.4-alpha.jar"
+hash-format = "sha1"
+hash = "be3142e30305d4992d3569d966f42d684d7f54af"

@@ -1,0 +1,8 @@
+name = "ocean_temples.png"
+filename = "ocean_temples.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/c6/c6cb50d8ec1bb6a9d70cd794f5d509e18f17290906ca1704c5aeda54eeac4194.png"
+hash-format = "sha1"
+hash = "6ae3886b7332792bea21fd3847ad42f2fe18e990"

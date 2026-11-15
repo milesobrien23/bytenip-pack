@@ -1,0 +1,8 @@
+name = "MaxHealthFix-neoforge-MC26.1.2-26.1.2.3.jar"
+filename = "MaxHealthFix-neoforge-MC26.1.2-26.1.2.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8269/733/MaxHealthFix-neoforge-MC26.1.2-26.1.2.3.jar"
+hash-format = "sha1"
+hash = "4d33d7845333872ea67f46759522fc0f32e7af17"

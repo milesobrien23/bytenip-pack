@@ -1,0 +1,8 @@
+name = "getittogetherdrops-neoforge-26.1.1-1.5.jar"
+filename = "getittogetherdrops-neoforge-26.1.1-1.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7884/707/getittogetherdrops-neoforge-26.1.1-1.5.jar"
+hash-format = "sha1"
+hash = "4111f2116a5a8ea29e9ad2d799f000eedb8bf5b3"

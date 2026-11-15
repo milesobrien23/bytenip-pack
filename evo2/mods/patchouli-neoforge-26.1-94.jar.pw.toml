@@ -1,0 +1,8 @@
+name = "patchouli-neoforge-26.1-94.jar"
+filename = "patchouli-neoforge-26.1-94.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8404/543/patchouli-neoforge-26.1-94.jar"
+hash-format = "sha1"
+hash = "725b5cd66eb8a23325b74200bcb45c683bbe872c"

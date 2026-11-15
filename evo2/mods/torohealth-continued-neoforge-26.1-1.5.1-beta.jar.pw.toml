@@ -1,0 +1,8 @@
+name = "torohealth-continued-neoforge-26.1-1.5.1-beta.jar"
+filename = "torohealth-continued-neoforge-26.1-1.5.1-beta.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/7925/470/torohealth-continued-neoforge-26.1-1.5.1-beta.jar"
+hash-format = "sha1"
+hash = "f78087b137825c9ff5f485a9c15a2c243ce8a6e7"

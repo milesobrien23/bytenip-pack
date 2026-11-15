@@ -1,0 +1,8 @@
+name = "easy_npc-neoforge-26.1.2-7.18.0.jar"
+filename = "easy_npc-neoforge-26.1.2-7.18.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9412/459/easy_npc-neoforge-26.1.2-7.18.0.jar"
+hash-format = "sha1"
+hash = "7b352651e40708a7ef5088a55fc9243c47f358f6"

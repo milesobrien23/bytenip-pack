@@ -1,0 +1,8 @@
+name = "Construction Sticks Grips 26.zip"
+filename = "Construction Sticks Grips 26.zip"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/24/24932a766c1baacdff851d3e30c6ccc4bb91b969739ac5993ff68b552846536b.zip"
+hash-format = "sha1"
+hash = "66a7a169090f3815db4ac61da45c1c5edae6cfcb"

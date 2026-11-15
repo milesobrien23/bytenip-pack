@@ -1,0 +1,8 @@
+name = "stellaris-26.1.2-neoforge-2.0.10.jar"
+filename = "stellaris-26.1.2-neoforge-2.0.10.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9377/751/stellaris-26.1.2-neoforge-2.0.10.jar"
+hash-format = "sha1"
+hash = "64977fef5839dd2dcfa7624f937fe0ff4262fb98"

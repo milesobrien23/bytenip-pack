@@ -1,0 +1,8 @@
+name = "default-server-properties-neoforge-26.1.0.2.jar"
+filename = "default-server-properties-neoforge-26.1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8598/585/default-server-properties-neoforge-26.1.0.2.jar"
+hash-format = "sha1"
+hash = "7c432ef54f4d6906585074359df6f68f51328ae8"

@@ -1,0 +1,8 @@
+name = "Incendium_26.1_v5.4.12.jar"
+filename = "Incendium_26.1_v5.4.12.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7842/258/Incendium_26.1_v5.4.12.jar"
+hash-format = "sha1"
+hash = "74f78445b6da346eb08a9f730e86dc77925eed46"

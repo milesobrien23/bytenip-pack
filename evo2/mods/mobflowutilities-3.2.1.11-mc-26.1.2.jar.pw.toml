@@ -1,0 +1,8 @@
+name = "mobflowutilities-3.2.1.11-mc-26.1.2.jar"
+filename = "mobflowutilities-3.2.1.11-mc-26.1.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9422/604/mobflowutilities-3.2.1.11-mc-26.1.2.jar"
+hash-format = "sha1"
+hash = "5f776f847e32881488566624374c57e329ed53f8"

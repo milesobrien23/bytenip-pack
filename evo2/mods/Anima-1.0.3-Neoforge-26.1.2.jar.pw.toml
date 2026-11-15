@@ -1,0 +1,8 @@
+name = "Anima-1.0.3+Neoforge-26.1.2.jar"
+filename = "Anima-1.0.3+Neoforge-26.1.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9078/329/Anima-1.0.3%2bNeoforge-26.1.2.jar"
+hash-format = "sha1"
+hash = "5cc14eb246b3e06b02a55f59cf8cfa3db8fdbc88"

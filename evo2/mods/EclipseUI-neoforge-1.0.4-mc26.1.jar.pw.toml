@@ -1,0 +1,8 @@
+name = "EclipseUI-neoforge-1.0.4+mc26.1.jar"
+filename = "EclipseUI-neoforge-1.0.4+mc26.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7966/553/EclipseUI-neoforge-1.0.4%2bmc26.1.jar"
+hash-format = "sha1"
+hash = "9f52b0f45f0290f258728b16842aa9efa50cdd60"

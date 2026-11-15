@@ -1,0 +1,8 @@
+name = "appliedcooking-7.2.0.jar"
+filename = "appliedcooking-7.2.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8527/899/appliedcooking-7.2.0.jar"
+hash-format = "sha1"
+hash = "3d865e3c16105991d9949dbbe26e49c4f8cef3ad"

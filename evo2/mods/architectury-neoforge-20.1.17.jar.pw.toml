@@ -1,0 +1,8 @@
+name = "architectury-neoforge-20.1.17.jar"
+filename = "architectury-neoforge-20.1.17.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9111/154/architectury-neoforge-20.1.17.jar"
+hash-format = "sha1"
+hash = "94c493ab3b49e6209f5fc5b00e67831adf38dab4"

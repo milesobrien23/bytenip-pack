@@ -1,0 +1,8 @@
+name = "ResourcefulLib-4.0.2.jar"
+filename = "ResourcefulLib-4.0.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9358/32/ResourcefulLib-4.0.2.jar"
+hash-format = "sha1"
+hash = "b7b1ad354cf0e566782da065061882510ea8e0cb"

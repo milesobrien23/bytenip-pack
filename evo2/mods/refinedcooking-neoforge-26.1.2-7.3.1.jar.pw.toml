@@ -1,0 +1,8 @@
+name = "refinedcooking-neoforge-26.1.2-7.3.1.jar"
+filename = "refinedcooking-neoforge-26.1.2-7.3.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8531/227/refinedcooking-neoforge-26.1.2-7.3.1.jar"
+hash-format = "sha1"
+hash = "12408931b61b660016dd6166069178ce6c1719ae"

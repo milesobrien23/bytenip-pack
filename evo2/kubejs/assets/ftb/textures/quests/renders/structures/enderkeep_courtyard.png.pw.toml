@@ -1,0 +1,8 @@
+name = "enderkeep_courtyard.png"
+filename = "enderkeep_courtyard.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/0a/0aec7bbdafd38ba50793e39da63270d00c89b95e6d6d18736d09071f1ed5b9a0.png"
+hash-format = "sha1"
+hash = "2f9743fd9b36c824e269813ad9514441b561e8d2"

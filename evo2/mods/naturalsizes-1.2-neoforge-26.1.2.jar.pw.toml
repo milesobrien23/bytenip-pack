@@ -1,0 +1,8 @@
+name = "naturalsizes-1.2-neoforge-26.1.2.jar"
+filename = "naturalsizes-1.2-neoforge-26.1.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8903/712/naturalsizes-1.2-neoforge-26.1.2.jar"
+hash-format = "sha1"
+hash = "3a30b0cfcb900ed63361dcf74f2875038fb2a969"

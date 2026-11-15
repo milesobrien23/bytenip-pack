@@ -1,0 +1,8 @@
+name = "dark_keep.png"
+filename = "dark_keep.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/76/76bd6bfcd323cb956ffd48ad4663408eda5bc9a54148215cc30e32661bf84338.png"
+hash-format = "sha1"
+hash = "625d7d1a9e545fbcd05dfbfbfdc90c7486ef649e"

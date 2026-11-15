@@ -1,0 +1,8 @@
+name = "ferritecore-9.0.0-neoforge.jar"
+filename = "ferritecore-9.0.0-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7806/39/ferritecore-9.0.0-neoforge.jar"
+hash-format = "sha1"
+hash = "b8bfb14ba6ce7068aae08c3a132ca40bda6bd143"

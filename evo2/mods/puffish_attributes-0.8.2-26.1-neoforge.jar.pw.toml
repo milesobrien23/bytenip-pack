@@ -1,0 +1,8 @@
+name = "puffish_attributes-0.8.2-26.1-neoforge.jar"
+filename = "puffish_attributes-0.8.2-26.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7830/516/puffish_attributes-0.8.2-26.1-neoforge.jar"
+hash-format = "sha1"
+hash = "7eea45dd658b744804deaf983d74380dfa4bda4c"

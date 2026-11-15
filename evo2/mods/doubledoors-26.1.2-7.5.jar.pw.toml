@@ -1,0 +1,8 @@
+name = "doubledoors-26.1.2-7.5.jar"
+filename = "doubledoors-26.1.2-7.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9355/728/doubledoors-26.1.2-7.5.jar"
+hash-format = "sha1"
+hash = "e749128132be99edf1ca80e394f87c4105696d22"

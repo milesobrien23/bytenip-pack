@@ -1,0 +1,8 @@
+name = "MutantMonsters-v26.1.3-mc26.1.x-NeoForge.jar"
+filename = "MutantMonsters-v26.1.3-mc26.1.x-NeoForge.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8776/170/MutantMonsters-v26.1.3-mc26.1.x-NeoForge.jar"
+hash-format = "sha1"
+hash = "d462918ed8eac9e81aba94bc81fc5f44bb79217e"

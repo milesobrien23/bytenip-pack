@@ -1,0 +1,8 @@
+name = "simply-winged-1.0.1.jar"
+filename = "simply-winged-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8229/44/simply-winged-1.0.1.jar"
+hash-format = "sha1"
+hash = "1fdd4381776662a4a0813e66f011fb093ded8102"

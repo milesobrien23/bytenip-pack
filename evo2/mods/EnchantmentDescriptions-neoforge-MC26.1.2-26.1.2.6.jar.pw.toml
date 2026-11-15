@@ -1,0 +1,8 @@
+name = "EnchantmentDescriptions-neoforge-MC26.1.2-26.1.2.6.jar"
+filename = "EnchantmentDescriptions-neoforge-MC26.1.2-26.1.2.6.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/8692/947/EnchantmentDescriptions-neoforge-MC26.1.2-26.1.2.6.jar"
+hash-format = "sha1"
+hash = "ccb1352eb8de6e1b5402aaa5768c5da212cb07b6"

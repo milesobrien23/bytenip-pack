@@ -1,0 +1,8 @@
+name = "nautec-26.1.2-NeoForge-2.0.27.jar"
+filename = "nautec-26.1.2-NeoForge-2.0.27.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9544/21/nautec-26.1.2-NeoForge-2.0.27.jar"
+hash-format = "sha1"
+hash = "ed9de0687b131631aa73847032f3cfd4ac559481"

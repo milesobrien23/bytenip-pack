@@ -1,0 +1,8 @@
+name = "mcw-paths-1.1.1-mc26.1neoforge.jar"
+filename = "mcw-paths-1.1.1-mc26.1neoforge.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7809/974/mcw-paths-1.1.1-mc26.1neoforge.jar"
+hash-format = "sha1"
+hash = "b1a87f1593944372b74e69db6e98cea9c26f1bd6"

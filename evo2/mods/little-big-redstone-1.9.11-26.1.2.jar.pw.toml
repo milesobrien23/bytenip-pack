@@ -1,0 +1,8 @@
+name = "little-big-redstone-1.9.11-26.1.2.jar"
+filename = "little-big-redstone-1.9.11-26.1.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9303/736/little-big-redstone-1.9.11-26.1.2.jar"
+hash-format = "sha1"
+hash = "56cc0de52edbcc232aee1e10f0125dee72ac7323"

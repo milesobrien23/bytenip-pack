@@ -1,0 +1,11 @@
+{
+	"//": "These settings are easier to change in-game! Mod List -> Random Bone Meal Flowers -> Config",
+	"Enable Random Bone Meal Flowers": {
+		"//": "Whether Random Bone Meal Flowers is enabled. When disabled, none of its features run and its other settings are hidden. Takes effect after a restart.",
+		"value": true
+	},
+	"flowerBlacklist": {
+		"//": "A comma separated list of flower ids that bone meal never grows. Use * as a wildcard.",
+		"value": "minecraft:wither_rose"
+	}
+}

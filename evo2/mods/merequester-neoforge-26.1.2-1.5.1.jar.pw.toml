@@ -1,0 +1,8 @@
+name = "merequester-neoforge-26.1.2-1.5.1.jar"
+filename = "merequester-neoforge-26.1.2-1.5.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8801/152/merequester-neoforge-26.1.2-1.5.1.jar"
+hash-format = "sha1"
+hash = "a35030a472e396842b2e84066b8c05a489ec56e0"

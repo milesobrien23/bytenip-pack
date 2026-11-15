@@ -1,0 +1,8 @@
+name = "TerraBlender-neoforge-26.1.2-26.1.2.0.3.jar"
+filename = "TerraBlender-neoforge-26.1.2-26.1.2.0.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8384/529/TerraBlender-neoforge-26.1.2-26.1.2.0.3.jar"
+hash-format = "sha1"
+hash = "a891baf7cad5c0e719bab550a63523bab5c731f8"

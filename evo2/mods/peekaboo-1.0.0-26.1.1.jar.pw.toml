@@ -1,0 +1,8 @@
+name = "peekaboo-1.0.0+26.1.1.jar"
+filename = "peekaboo-1.0.0+26.1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7878/307/peekaboo-1.0.0%2b26.1.1.jar"
+hash-format = "sha1"
+hash = "f4ca82885da7c965fc6ac36eabef0904acfe50a3"

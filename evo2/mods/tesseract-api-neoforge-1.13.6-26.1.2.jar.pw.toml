@@ -1,0 +1,8 @@
+name = "tesseract-api-neoforge-1.13.6-26.1.2.jar"
+filename = "tesseract-api-neoforge-1.13.6-26.1.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9303/711/tesseract-api-neoforge-1.13.6-26.1.2.jar"
+hash-format = "sha1"
+hash = "a355dcb5d679155bbe6443f03b789a2fe727c758"

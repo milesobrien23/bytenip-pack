@@ -1,0 +1,8 @@
+name = "logisticsnetworks-26.1.2-1.13.0.jar"
+filename = "logisticsnetworks-26.1.2-1.13.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9115/811/logisticsnetworks-26.1.2-1.13.0.jar"
+hash-format = "sha1"
+hash = "7ed0db014e647d66bf2bf344aa8d362c2fdd22ce"

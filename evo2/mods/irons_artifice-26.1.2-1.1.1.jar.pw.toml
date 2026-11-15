@@ -1,0 +1,8 @@
+name = "irons_artifice-26.1.2-1.1.1.jar"
+filename = "irons_artifice-26.1.2-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9290/333/irons_artifice-26.1.2-1.1.1.jar"
+hash-format = "sha1"
+hash = "7bf32731a57297963f0ab479a41f2318db22c25c"

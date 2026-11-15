@@ -1,0 +1,1071 @@
+{
+  id: "1F9CD2B28A04BCE0",
+  group: "5D1C4E7B2A9F0836",
+  order_index: 3,
+  icon: {
+    id: "the_bumblezone:honeycomb_brood_block",
+    count: 1,
+  },
+  filename: "the_bumblezone",
+  default_quest_shape: "circle",
+  default_hide_dependency_lines: false,
+  default_min_width: 250,
+  autofocus_id: "1E53505744F77BFC",
+  quests: [
+    {
+      icon: {
+        id: "minecraft:bee_nest",
+        count: 1,
+      },
+      x: 0.0,
+      y: 0.0,
+      shape: "hexagon",
+      size: 2.0,
+      id: "1E53505744F77BFC",
+      tasks: [
+        {
+          id: "7145DE3CF8286F11",
+          type: "dimension",
+          dimension: "the_bumblezone:the_bumblezone",
+        },
+      ],
+      rewards: [
+        {
+          id: "4BB057C878DEE565",
+          type: "currency",
+          team_reward: false,
+          amount: 5,
+        },
+        {
+          id: "16EEF3DD1660BAEA",
+          type: "item",
+          item: {
+            id: "minecraft:glass_bottle",
+            count: 1,
+          },
+          count: 4,
+          random_bonus: 4,
+        },
+        {
+          id: "3FDCE70DB7492780",
+          type: "xp",
+          team_reward: false,
+          xp: 10,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "minecraft:feather",
+        count: 1,
+      },
+      x: -0.5,
+      y: 2.0,
+      shape: "gear",
+      dependencies: [
+        "1E53505744F77BFC",
+      ],
+      size: 1.0,
+      optional: true,
+      id: "7762E132A4325413",
+      tasks: [
+        {
+          id: "72146A8EC953C933",
+          type: "checkmark",
+        },
+      ],
+      rewards: [
+        {
+          id: "2BF7B8DC24F90054",
+          type: "xp",
+          xp: 10,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "the_bumblezone:bee_cannon",
+        count: 1,
+      },
+      x: 0.5,
+      y: 2.0,
+      shape: "gear",
+      dependencies: [
+        "1E53505744F77BFC",
+      ],
+      size: 1.0,
+      optional: true,
+      id: "577545FE5174565F",
+      tasks: [
+        {
+          id: "3231D4DC5BE5D801",
+          type: "item",
+          item: {
+            id: "the_bumblezone:sugar_infused_stone",
+            count: 1,
+          },
+        },
+        {
+          id: "1E4FBAEF23FD1BCD",
+          type: "item",
+          item: {
+            id: "the_bumblezone:bee_cannon",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "38CECD0AD44B4CE7",
+          type: "currency",
+          team_reward: false,
+          amount: 5,
+        },
+        {
+          id: "6A4E0356A1E22071",
+          type: "xp",
+          team_reward: false,
+          xp: 15,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "the_bumblezone:honey_crystal_shards",
+        count: 1,
+      },
+      x: 0.0,
+      y: -2.0,
+      shape: "circle",
+      dependencies: [
+        "1E53505744F77BFC",
+      ],
+      size: 1.0,
+      id: "715274B9B59C4FBC",
+      tasks: [
+        {
+          id: "2885DADCCF253372",
+          type: "item",
+          item: {
+            id: "the_bumblezone:honey_crystal_shards",
+            count: 1,
+          },
+          count: 4,
+        },
+      ],
+      rewards: [
+        {
+          id: "3213C3E1D0229448",
+          type: "currency",
+          team_reward: false,
+          amount: 2,
+        },
+        {
+          id: "35C4FD34C4D455CC",
+          type: "xp",
+          team_reward: false,
+          xp: 15,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "the_bumblezone:honey_crystal_shield",
+        count: 1,
+      },
+      x: 0.0,
+      y: -4.0,
+      shape: "circle",
+      dependencies: [
+        "715274B9B59C4FBC",
+      ],
+      size: 1.0,
+      id: "76A11D2F622E0DDA",
+      tasks: [
+        {
+          id: "5D534B429521F8F0",
+          type: "item",
+          item: {
+            id: "the_bumblezone:honey_crystal_shield",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "4074D6F7FDEFC0EC",
+          type: "currency",
+          team_reward: false,
+          amount: 2,
+        },
+        {
+          id: "304351C07CD6AA00",
+          type: "xp",
+          team_reward: false,
+          xp: 20,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "the_bumblezone:honeycomb_brood_block",
+        count: 1,
+      },
+      x: 2.0,
+      y: 0.0,
+      shape: "circle",
+      dependencies: [
+        "1E53505744F77BFC",
+      ],
+      size: 1.0,
+      id: "7A07C2C4C24EBD41",
+      tasks: [
+        {
+          id: "6FCA7B3279E17B08",
+          type: "advancement",
+          advancement: "the_bumblezone:effects/getting_protection",
+          criterion: "",
+        },
+      ],
+      rewards: [
+        {
+          id: "52A96EEE808C01A9",
+          type: "currency",
+          team_reward: false,
+          amount: 5,
+        },
+        {
+          id: "49F798E7CC53E77A",
+          type: "item",
+          item: {
+            id: "minecraft:honey_bottle",
+            count: 1,
+          },
+          count: 8,
+          random_bonus: 8,
+        },
+        {
+          id: "365F2B6C5D34CE2C",
+          type: "xp",
+          team_reward: false,
+          xp: 15,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "the_bumblezone:honey_bucket",
+        count: 1,
+      },
+      x: 4.0,
+      y: 0.0,
+      shape: "circle",
+      dependencies: [
+        "7A07C2C4C24EBD41",
+      ],
+      size: 1.0,
+      id: "249DCE3733DC5A61",
+      tasks: [
+        {
+          id: "328C16FDD60CEC44",
+          type: "item",
+          item: {
+            id: "the_bumblezone:honey_bucket",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "64B41D424A7B8F40",
+          type: "currency",
+          team_reward: false,
+          amount: 2,
+        },
+        {
+          id: "154DCDFDC8EFD8BD",
+          type: "xp",
+          team_reward: false,
+          xp: 20,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "the_bumblezone:honey_bucket",
+        count: 1,
+      },
+      x: 4.0,
+      y: -2.0,
+      shape: "circle",
+      dependencies: [
+        "249DCE3733DC5A61",
+      ],
+      size: 1.0,
+      id: "1B14C5CAAFC33F58",
+      tasks: [
+        {
+          id: "5AFF70B7A019C577",
+          type: "advancement",
+          advancement: "the_bumblezone:honey_slime/honey_slime_creation",
+          criterion: "",
+        },
+      ],
+      rewards: [
+        {
+          id: "7A1BE6AF6A455B6B",
+          type: "currency",
+          team_reward: false,
+          amount: 3,
+        },
+        {
+          id: "5752B5CC3AE317BC",
+          type: "xp",
+          team_reward: false,
+          xp: 25,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "minecraft:saddle",
+        count: 1,
+      },
+      x: 4.0,
+      y: 2.0,
+      shape: "circle",
+      dependencies: [
+        "249DCE3733DC5A61",
+      ],
+      size: 1.0,
+      id: "529EE766CB2805CD",
+      tasks: [
+        {
+          id: "6FF37F24576C3305",
+          type: "advancement",
+          advancement: "the_bumblezone:beehemoth/tamed_beehemoth",
+          criterion: "",
+        },
+      ],
+      rewards: [
+        {
+          id: "1D77540A9232BB70",
+          type: "currency",
+          team_reward: false,
+          amount: 3,
+        },
+        {
+          id: "46F8CE9BDD645EC3",
+          type: "item",
+          item: {
+            id: "minecraft:saddle",
+            count: 1,
+          },
+        },
+        {
+          id: "1F5F13D6385A5B55",
+          type: "xp",
+          team_reward: false,
+          xp: 25,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "the_bumblezone:honey_compass",
+        count: 1,
+      },
+      x: 6.0,
+      y: 0.0,
+      shape: "circle",
+      dependencies: [
+        "249DCE3733DC5A61",
+      ],
+      size: 1.0,
+      id: "7FC377B9E0A1CA04",
+      tasks: [
+        {
+          id: "7A0176D8D368CA86",
+          type: "item",
+          item: {
+            id: "the_bumblezone:honey_compass",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "440F48049BFB3954",
+          type: "currency",
+          team_reward: false,
+          amount: 3,
+        },
+        {
+          id: "160A6FAA507EDD6A",
+          type: "xp",
+          team_reward: false,
+          xp: 25,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "the_bumblezone:honey_cocoon",
+        count: 1,
+      },
+      x: 8.0,
+      y: 0.0,
+      shape: "rsquare",
+      dependencies: [
+        "7FC377B9E0A1CA04",
+      ],
+      size: 1.25,
+      id: "534EE465EEF5CD2A",
+      tasks: [
+        {
+          id: "6B5245D746745CBB",
+          type: "structure",
+          structure: "the_bumblezone:cell_maze",
+        },
+      ],
+      rewards: [
+        {
+          id: "6219D3420168BB53",
+          type: "currency",
+          team_reward: false,
+          amount: 3,
+        },
+        {
+          id: "2A8562FA166F7E89",
+          type: "xp",
+          team_reward: false,
+          xp: 30,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "the_bumblezone:royal_jelly_block",
+        count: 1,
+      },
+      x: 10.0,
+      y: 0.0,
+      shape: "hexagon",
+      dependencies: [
+        "534EE465EEF5CD2A",
+      ],
+      size: 1.5,
+      id: "154A8CF3F52AEA86",
+      tasks: [
+        {
+          id: "772CF312B194222F",
+          type: "structure",
+          structure: "the_bumblezone:throne_pillar",
+        },
+        {
+          id: "31804F3F33DD9892",
+          type: "item",
+          optional_task: true,
+          item: {
+            id: "the_bumblezone:essence_of_the_bees",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "2090C20528D60BAE",
+          type: "currency",
+          team_reward: false,
+          amount: 10,
+        },
+        {
+          id: "56A3A6F68EC54AD2",
+          type: "item",
+          item: {
+            id: "minecraft:honey_bottle",
+            count: 1,
+          },
+          count: 8,
+          random_bonus: 4,
+        },
+        {
+          id: "469E9DD8725040B3",
+          type: "loot",
+          exclude_from_claim_all: true,
+          table_id: 1862978040036675512,
+        },
+        {
+          id: "1D310C35780CED75",
+          type: "xp",
+          team_reward: false,
+          xp: 35,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "the_bumblezone:bee_stinger",
+        count: 1,
+      },
+      x: 12.0,
+      y: 0.0,
+      shape: "circle",
+      dependencies: [
+        "154A8CF3F52AEA86",
+      ],
+      size: 1.25,
+      id: "1D04D78186EF9698",
+      tasks: [
+        {
+          id: "62E4E1AB3C9B5CDF",
+          type: "advancement",
+          advancement: "the_bumblezone:the_queens_desire/the_beginning",
+          criterion: "",
+        },
+      ],
+      rewards: [
+        {
+          id: "7ADF5F39760F187C",
+          type: "currency",
+          team_reward: false,
+          amount: 4,
+        },
+        {
+          id: "3D71FE98B744FE51",
+          type: "xp",
+          team_reward: false,
+          xp: 40,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "the_bumblezone:stinger_spear",
+        count: 1,
+      },
+      x: 11.5,
+      y: -2.0,
+      shape: "circle",
+      dependencies: [
+        "1D04D78186EF9698",
+      ],
+      size: 1.0,
+      id: "2D1E23C3D88A23BF",
+      tasks: [
+        {
+          id: "237A4477673D79C9",
+          type: "item",
+          item: {
+            id: "the_bumblezone:stinger_spear",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "6A5AA09EF5DDD127",
+          type: "currency",
+          team_reward: false,
+          amount: 10,
+        },
+        {
+          id: "6CC71943E818DBD1",
+          type: "xp",
+          team_reward: false,
+          xp: 45,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "the_bumblezone:bumble_bee_chestplate_1",
+        count: 1,
+      },
+      x: 12.0,
+      y: 2.0,
+      shape: "circle",
+      dependencies: [
+        "1D04D78186EF9698",
+      ],
+      size: 1.0,
+      min_width: 300,
+      id: "5C9B98FD252466E9",
+      tasks: [
+        {
+          id: "2904E0146A390369",
+          type: "item",
+          item: {
+            id: "ftbfiltersystem:smart_filter",
+            count: 1,
+            components: {
+              "ftbfiltersystem:filter": "or(item(the_bumblezone:stingless_bee_helmet_1)item(the_bumblezone:stingless_bee_helmet_2)item(the_bumblezone:bumble_bee_chestplate_1)item(the_bumblezone:bumble_bee_chestplate_2)item(the_bumblezone:bumble_bee_chestplate_trans_1)item(the_bumblezone:bumble_bee_chestplate_trans_2)item(the_bumblezone:honey_bee_leggings_1)item(the_bumblezone:honey_bee_leggings_2)item(the_bumblezone:carpenter_bee_boots_1)item(the_bumblezone:carpenter_bee_boots_2))",
+            },
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "65DD2ACC00BAB671",
+          type: "currency",
+          team_reward: false,
+          amount: 10,
+        },
+        {
+          id: "2A752175751B4919",
+          type: "xp",
+          team_reward: false,
+          xp: 45,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "the_bumblezone:royal_jelly_bottle",
+        count: 1,
+      },
+      x: 12.5,
+      y: -2.0,
+      shape: "circle",
+      dependencies: [
+        "1D04D78186EF9698",
+      ],
+      size: 1.0,
+      id: "7555550F5F989DF1",
+      tasks: [
+        {
+          id: "66B6B7A5698E7B44",
+          type: "item",
+          item: {
+            id: "the_bumblezone:royal_jelly_bottle",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "30A53EDBB3BB427E",
+          type: "currency",
+          team_reward: false,
+          amount: 10,
+        },
+        {
+          id: "5713CFB8560F1485",
+          type: "xp",
+          team_reward: false,
+          xp: 45,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "the_bumblezone:royal_jelly_bucket",
+        count: 1,
+      },
+      x: 14.0,
+      y: 0.0,
+      shape: "hexagon",
+      dependencies: [
+        "1D04D78186EF9698",
+      ],
+      size: 1.5,
+      id: "1A1B5B9D6D61E111",
+      tasks: [
+        {
+          id: "32652790F033C27A",
+          type: "advancement",
+          advancement: "the_bumblezone:the_queens_desire/journeys_end",
+          criterion: "",
+        },
+      ],
+      rewards: [
+        {
+          id: "20BCAE74B9450286",
+          type: "currency",
+          team_reward: false,
+          amount: 5,
+        },
+        {
+          id: "54CDE7E030A63760",
+          type: "xp",
+          team_reward: false,
+          xp: 45,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "the_bumblezone:essence_of_the_bees",
+        count: 1,
+      },
+      x: 16.5,
+      y: 0.0,
+      shape: "hexagon",
+      dependencies: [
+        "1A1B5B9D6D61E111",
+      ],
+      size: 1.75,
+      id: "2777FD46A9257D51",
+      tasks: [
+        {
+          id: "5E4252DC7CD6C45B",
+          type: "advancement",
+          advancement: "the_bumblezone:essence/bee_essence_infusion",
+          criterion: "",
+        },
+      ],
+      rewards: [
+        {
+          id: "7E427F86656474CE",
+          type: "currency",
+          team_reward: false,
+          amount: 20,
+        },
+        {
+          id: "22E0C6E48632852E",
+          type: "loot",
+          exclude_from_claim_all: true,
+          table_id: 1862978040036675512,
+        },
+        {
+          id: "270BF786AF671351",
+          type: "xp",
+          team_reward: false,
+          xp: 45,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "the_bumblezone:honey_compass",
+        count: 1,
+      },
+      x: 19.0,
+      y: 0.0,
+      shape: "rsquare",
+      dependencies: [
+        "2777FD46A9257D51",
+      ],
+      size: 1.5,
+      id: "7E2E6170D2D54D55",
+      tasks: [
+        {
+          id: "6A41A7444FA362EF",
+          type: "advancement",
+          advancement: "the_bumblezone:structures/enter_sempiternal_sanctum",
+          criterion: "",
+        },
+      ],
+      rewards: [
+        {
+          id: "1C2E6B3BCCE91C31",
+          type: "currency",
+          team_reward: false,
+          amount: 5,
+        },
+        {
+          id: "6B7C032DE76C0608",
+          type: "xp",
+          team_reward: false,
+          xp: 45,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "the_bumblezone:essence_raging",
+        count: 1,
+      },
+      x: 18.0,
+      y: -2.0,
+      shape: "hexagon",
+      dependencies: [
+        "7E2E6170D2D54D55",
+      ],
+      size: 1.0,
+      id: "6BCC76ABB232D051",
+      tasks: [
+        {
+          id: "47DB31A122A9E218",
+          type: "item",
+          item: {
+            id: "the_bumblezone:essence_raging",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "6E7F52777EC33F13",
+          type: "currency",
+          team_reward: false,
+          amount: 25,
+        },
+        {
+          id: "7EF73EEE64BCFE03",
+          type: "xp",
+          team_reward: false,
+          xp: 45,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "the_bumblezone:essence_knowing",
+        count: 1,
+      },
+      x: 19.0,
+      y: -2.0,
+      shape: "hexagon",
+      dependencies: [
+        "7E2E6170D2D54D55",
+      ],
+      size: 1.0,
+      id: "6BFA166B8C914A7E",
+      tasks: [
+        {
+          id: "7FAB7298ED2FB0AA",
+          type: "item",
+          item: {
+            id: "the_bumblezone:essence_knowing",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "4A09F0F59CE81FF1",
+          type: "currency",
+          team_reward: false,
+          amount: 25,
+        },
+        {
+          id: "26AEF6BE01594B6F",
+          type: "xp",
+          team_reward: false,
+          xp: 45,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "the_bumblezone:essence_calming",
+        count: 1,
+      },
+      x: 20.0,
+      y: -2.0,
+      shape: "hexagon",
+      dependencies: [
+        "7E2E6170D2D54D55",
+      ],
+      size: 1.0,
+      id: "31D350A8D0A0BE36",
+      tasks: [
+        {
+          id: "1E2C782387740AEB",
+          type: "item",
+          item: {
+            id: "the_bumblezone:essence_calming",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "58E7F4016C639D9D",
+          type: "currency",
+          team_reward: false,
+          amount: 25,
+        },
+        {
+          id: "153F9DE1D0C0D598",
+          type: "xp",
+          team_reward: false,
+          xp: 45,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "the_bumblezone:essence_life",
+        count: 1,
+      },
+      x: 19.5,
+      y: -3.0,
+      shape: "hexagon",
+      dependencies: [
+        "7E2E6170D2D54D55",
+      ],
+      size: 1.0,
+      id: "624A9385E8A4276C",
+      tasks: [
+        {
+          id: "1C43D8B3690D5471",
+          type: "item",
+          item: {
+            id: "the_bumblezone:essence_life",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "73E7D6C94E8B44FD",
+          type: "currency",
+          team_reward: false,
+          amount: 25,
+        },
+        {
+          id: "1E741D00B3E25C27",
+          type: "xp",
+          team_reward: false,
+          xp: 45,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "the_bumblezone:essence_radiance",
+        count: 1,
+      },
+      x: 18.5,
+      y: -3.0,
+      shape: "hexagon",
+      dependencies: [
+        "7E2E6170D2D54D55",
+      ],
+      size: 1.0,
+      id: "2D4F9160D403E30C",
+      tasks: [
+        {
+          id: "66248450D4DAAC7B",
+          type: "item",
+          item: {
+            id: "the_bumblezone:essence_radiance",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "53B00FAF4D2069A0",
+          type: "currency",
+          team_reward: false,
+          amount: 25,
+        },
+        {
+          id: "7EA124550B99BA9E",
+          type: "xp",
+          team_reward: false,
+          xp: 45,
+        },
+      ],
+    },
+    {
+      icon: {
+        id: "the_bumblezone:essence_continuity",
+        count: 1,
+      },
+      x: 22.0,
+      y: 0.0,
+      shape: "hexagon",
+      dependencies: [
+        "7E2E6170D2D54D55",
+      ],
+      size: 2.0,
+      id: "66D38EBC946C8EDA",
+      tasks: [
+        {
+          id: "61F84AA88DDACC91",
+          type: "item",
+          item: {
+            id: "the_bumblezone:essence_continuity",
+            count: 1,
+          },
+        },
+      ],
+      rewards: [
+        {
+          id: "3699DAE4306FED40",
+          type: "currency",
+          team_reward: false,
+          amount: 40,
+        },
+        {
+          id: "241B49A040D951C0",
+          type: "choice",
+          exclude_from_claim_all: true,
+          table_id: 1862978040036675512,
+        },
+        {
+          id: "1DAB3A2E01CE0944",
+          type: "xp",
+          team_reward: false,
+          xp: 45,
+        },
+      ],
+    },
+  ],
+  quest_links: [
+  ],
+  images: [
+    {
+      x: 7.5,
+      y: -3.0,
+      width: 6.5,
+      height: 2.4,
+      rotation: 0.0,
+      image: "ftb:textures/quests/titles_and_logos/the_bumblezone.png",
+      click_action: {
+        type: "open_quest",
+        data: "1E53505744F77BFC",
+      },
+      id: "72D9B7E2BE83BC9F",
+    },
+    {
+      x: 9.5,
+      y: 2.0,
+      width: 1.75,
+      height: 1.75,
+      rotation: 0.0,
+      image: "the_bumblezone:textures/entity_icon/bee_queen.png",
+      id: "671702AB88CDF90F",
+    },
+    {
+      x: 5.5,
+      y: 1.0,
+      width: 1.4,
+      height: 1.4,
+      rotation: 8.0,
+      image: "the_bumblezone:textures/entity_icon/beehemoth.png",
+      id: "3C89AA2253E1492B",
+    },
+    {
+      x: 22.5,
+      y: 2.0,
+      width: 3.0,
+      height: 3.0,
+      rotation: 0.0,
+      image: "the_bumblezone:textures/entity_icon/cosmic_crystal_entity.png",
+      id: "7CAB9759204E3C39",
+    },
+    {
+      x: 24.0,
+      y: 0.0,
+      width: 3.0,
+      height: 3.0,
+      rotation: 0.0,
+      image: "the_bumblezone:textures/entity_icon/cosmic_crystal_entity.png",
+      id: "44CC6CB82335BE06",
+    },
+    {
+      x: 22.5,
+      y: -2.0,
+      width: 3.0,
+      height: 3.0,
+      rotation: 0.0,
+      image: "the_bumblezone:textures/entity_icon/cosmic_crystal_entity.png",
+      id: "7E629170772A212A",
+    },
+  ],
+}

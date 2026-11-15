@@ -1,0 +1,8 @@
+name = "ScannableReforged-MC26.1.2-neoforge-1.0.1.jar"
+filename = "ScannableReforged-MC26.1.2-neoforge-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8229/504/ScannableReforged-MC26.1.2-neoforge-1.0.1.jar"
+hash-format = "sha1"
+hash = "c50fdcfa8bd38880cf87739c218a935a18492b42"

@@ -1,0 +1,8 @@
+name = "better-compatability-checker-neoforge-26.1.2.1.jar"
+filename = "better-compatability-checker-neoforge-26.1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7905/240/better-compatability-checker-neoforge-26.1.2.1.jar"
+hash-format = "sha1"
+hash = "953fedde3b3910c97a9d65a23678bfd4588ce932"

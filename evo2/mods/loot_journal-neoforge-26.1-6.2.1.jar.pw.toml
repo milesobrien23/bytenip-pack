@@ -1,0 +1,8 @@
+name = "loot_journal-neoforge-26.1-6.2.1.jar"
+filename = "loot_journal-neoforge-26.1-6.2.1.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/8138/909/loot_journal-neoforge-26.1-6.2.1.jar"
+hash-format = "sha1"
+hash = "88af292387da306fb3bf3ea2cf3ed02cb0e05fa0"

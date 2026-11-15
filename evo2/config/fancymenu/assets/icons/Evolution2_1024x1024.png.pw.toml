@@ -1,0 +1,8 @@
+name = "Evolution2_1024x1024.png"
+filename = "Evolution2_1024x1024.png"
+side = "both"
+
+[download]
+url = "https://files.feed-the-beast.com/blob/5f/5f4f1f6705949240166b8638e733148017906bb556b4c95f6436c05f6afd9292.png"
+hash-format = "sha1"
+hash = "df4dc237d9c4977bc403db1b62f5361ba66b7922"

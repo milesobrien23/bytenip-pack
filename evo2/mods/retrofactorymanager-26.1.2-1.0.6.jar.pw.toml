@@ -1,0 +1,8 @@
+name = "retrofactorymanager-26.1.2-1.0.6.jar"
+filename = "retrofactorymanager-26.1.2-1.0.6.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9394/495/retrofactorymanager-26.1.2-1.0.6.jar"
+hash-format = "sha1"
+hash = "dcad9c58f87a8fafeda9af6ba0d6e2ab9067ee43"

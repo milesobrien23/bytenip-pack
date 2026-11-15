@@ -1,0 +1,8 @@
+name = "Jade-mc26.1-NeoForge-26.1.12.jar"
+filename = "Jade-mc26.1-NeoForge-26.1.12.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/9156/414/Jade-mc26.1-NeoForge-26.1.12.jar"
+hash-format = "sha1"
+hash = "dd6ed0c46f3a7291046c4582a5a67d1715196427"
