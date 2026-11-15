@@ -14769,6 +14769,11 @@ hash = "824ce42d2843ef41cc281d2f65a2dc59dd32253dd4100f7c281d98249280ca0f"
 metafile = true
 
 [[files]]
+file = "servers.dat"
+hash = "7f3b11283e0d4beb8f644665211918369c2f30f011412b58665021c4a5610d2e"
+preserve = true
+
+[[files]]
 file = "shaderpacks/ComplementaryUnbound_r5.9.3.zip.pw.toml"
 hash = "353deba0d15436b4941138e0a8147be54f429f372a293c759ba7b98399f3fe34"
 metafile = true
