@@ -13475,8 +13475,8 @@ hash = "ca89e81ac2903f4aa6d1266ad91b624034fe433617f79c6fda636fc83b7582bb"
 metafile = true
 
 [[files]]
-file = "mods/controlify_jei_keyboard-2.0.0-mc26.1.jar"
-hash = "505ecc9f07dab5f58c9b01140b845a1d17392b2b5accd08b71143f7f4426ea7e"
+file = "mods/controlify_jei_keyboard-2.1.0-mc26.1.jar"
+hash = "eb9416040309c25f5d33c812a1b568ae545fa14bc598d5e2e33528ba3447e932"
 
 [[files]]
 file = "mods/cookingforblockheads-neoforge-26.1.2-26.1.2.6.jar.pw.toml"
