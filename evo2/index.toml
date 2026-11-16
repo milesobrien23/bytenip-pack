@@ -14771,7 +14771,6 @@ metafile = true
 [[files]]
 file = "servers.dat"
 hash = "7f3b11283e0d4beb8f644665211918369c2f30f011412b58665021c4a5610d2e"
-preserve = true
 
 [[files]]
 file = "shaderpacks/ComplementaryUnbound_r5.9.3.zip.pw.toml"
